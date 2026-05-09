@@ -1,0 +1,1616 @@
+name,oracle_text,scryfall_link,image_src,chinese_simplified,chinese_traditional,french,german,italian,japanese,korean,portuguese,russian,spanish
+Adaptive Shimmerer,"Adaptive Shimmerer	{5}
+Creature — Insect
+Flash
+This creature enters with three +1/+1 counters on it.
+0/0
+",https://scryfall.com/card/iko/1/adaptive-shimmerer,https://cards.scryfall.io/large/front/d/8/d8a2e243-e446-46c6-8a37-e26620951c41.jpg?1591230173,适境烁光虫,適境爍光蟲,Scintilleur évolutif,Anpassungsfähiger Schimmerer,Scintillante Adattivo,順応する煌くもの,적응하는 반짝벌레,Cintilador Adaptável,Адаптирующаяся Сиятельница,Deslumbrador cambiante
+Farfinder,"Farfinder	{3}
+Creature — Fox
+Vigilance
+When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+1/1
+",https://scryfall.com/card/iko/2/farfinder,https://cards.scryfall.io/large/front/5/3/53f63f40-46f1-4b9e-b447-ff9274f2b926.jpg?1591230179,识途灵狐,識途靈狐,Traqueloin,Fernensucher,Scovadistanze,彼方見,원격탐색꾼,Encontra-terras,Ищейка,Descubridora
+Mysterious Egg,"Mysterious Egg	{1}
+Creature — Egg
+Whenever this creature mutates, put a +1/+1 counter on it.
+0/2
+",https://scryfall.com/card/iko/3/mysterious-egg,https://cards.scryfall.io/large/front/c/d/cdfac3c3-7f38-49d6-bd88-dc0f5001116f.jpg?1688477285,玄奇蛋,玄奇蛋,Œuf mystérieux,Mysteriöses Ei,Uovo Misterioso,不思議な卵,불가사의한 알,Ovo Misterioso,Загадочное Яйцо,Huevo misterioso
+Blade Banish,"Blade Banish	{3}{W}
+Instant
+Exile target creature with power 4 or greater.
+
+",https://scryfall.com/card/iko/4/blade-banish,https://cards.scryfall.io/large/front/3/5/35a30091-7f68-4a67-b47e-f44318fc93b2.jpg?1591230194,剑光封喉,劍光封喉,Bannir par la lame,Klingenbann,Bandire con la Lama,刃による払拭,칼날 소멸,Banimento a Lâmina,Изгнание Клинком,Destierro afilado
+Checkpoint Officer,"Checkpoint Officer	{1}{W}
+Creature — Human Soldier
+{1}{W}, {T}: Tap target creature.
+1/2
+",https://scryfall.com/card/iko/5/checkpoint-officer,https://cards.scryfall.io/large/front/4/a/4a0e12f5-7b15-4a8c-b045-35bcbf1fbb90.jpg?1591230200,关卡长官,關卡長官,Officier du poste de contrôle,Offizier des Kontrollpunkts,Ufficiale del Posto di Controllo,検問官,검문소 장교,Oficial do Posto de Controle,Офицер Заставы,Oficial del puesto de control
+Coordinated Charge,"Coordinated Charge	{4}{W}
+Instant
+Creatures you control get +2/+1 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/6/coordinated-charge,https://cards.scryfall.io/large/front/1/2/129c404b-2c1e-4f0b-bb4e-7e8e627a69a8.jpg?1636491416,协同冲锋,協同衝鋒,Charge coordonnée,Koordinierter Ansturm,Carica Coordinata,揃った突撃,연합 돌격,Carga Coordenada,Скоординированная Атака,Ataque coordinado
+Cubwarden,"Cubwarden	{3}{W}
+Creature — Cat
+Mutate {2}{W}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Lifelink
+Whenever this creature mutates, create two 1/1 white Cat creature tokens with lifelink.
+3/5
+",https://scryfall.com/card/iko/7/cubwarden,https://cards.scryfall.io/large/front/c/c/cc322744-5d8f-448d-b868-381bb86b68f9.jpg?1591230214,护崽慈狮,護崽慈獅,Nourrice,Jungtierhüter,Custode dei Cuccioli,幼獣守り,새끼보호자,Guarda-filhotes,Защитница Выводка,Protegecachorros
+Daysquad Marshal,"Daysquad Marshal	{3}{W}
+Creature — Human Soldier
+When this creature enters, create a 1/1 white Human Soldier creature token.
+3/3
+",https://scryfall.com/card/iko/8/daysquad-marshal,https://cards.scryfall.io/large/front/1/7/17d566bd-f272-49d1-bffb-588f2a42046a.jpg?1591230220,昼班队元帅,晝班隊元帥,Maréchale de l'escouade diurne,Marschall der Tagwache,Marescialla dello Squadrone Diurno,日勤隊の指揮官,낮 부대 집행관,Marechal do Esquadrão Diurno,Начальница Дневного Отряда,Mariscal de la brigada diurna
+Divine Arrow,"Divine Arrow	{1}{W}
+Instant
+Divine Arrow deals 4 damage to target attacking or blocking creature.
+
+",https://scryfall.com/card/iko/9/divine-arrow,https://cards.scryfall.io/large/front/3/5/352c4997-2b96-45da-a4e1-70a86453c6fa.jpg?1600696320,神箭穿心,神箭穿心,Flèche divine,Göttlicher Pfeil,Freccia Divina,神聖なる矢,신성한 화살,Flecha Divina,Божественная Стрела,Flecha divina
+Drannith Healer,"Drannith Healer	{1}{W}
+Creature — Human Cleric
+Whenever you cycle another card, you gain 1 life.
+Cycling {1} ({1}, Discard this card: Draw a card.)
+2/2
+",https://scryfall.com/card/iko/10/drannith-healer,https://cards.scryfall.io/large/front/f/f/ff5a821c-eaec-4f69-97c7-8299cdebc2f4.jpg?1591230232,卓尼斯治疗师,卓尼斯治療師,Guérisseur de Drannith,Drannithischer Heiler,Guaritore di Drannith,ドラニスの癒し手,드라니스 치유사,Curandeiro de Drannith,Драннитский Целитель,Sanador de Drannith
+Drannith Magistrate,"Drannith Magistrate	{1}{W}
+Creature — Human Wizard
+Your opponents can't cast spells from anywhere other than their hands.
+1/3
+",https://scryfall.com/card/iko/11/drannith-magistrate,https://cards.scryfall.io/large/front/9/8/98b0a4a8-9319-451b-9b79-b0bca7a41e91.jpg?1628801742,卓尼斯官员,卓尼斯官員,Magistrat de Drannith,Drannithischer Magistrat,Magistrato di Drannith,ドラニスの判事,드라니스 판사,Magistrado de Drannith,Драннитский Магистрат,Magistrado de Drannith
+Fight as One,"Fight as One	{W}
+Instant
+Choose one or both —
+• Target Human creature you control gets +1/+1 and gains indestructible until end of turn.
+• Target non-Human creature you control gets +1/+1 and gains indestructible until end of turn.
+
+",https://scryfall.com/card/iko/12/fight-as-one,https://cards.scryfall.io/large/front/5/c/5c62ea13-9bd5-46ce-a861-68cf9a2c6f8c.jpg?1603555430,羁绊合一,羈絆合一,Ne faire qu'un au combat,Zusammen kämpfen,Combattere Uniti,一心同体,하나된 싸움,Lutar como Um,Бок о Бок,Luchar como uno
+Flourishing Fox,"Flourishing Fox	{W}
+Creature — Fox
+Whenever you cycle another card, put a +1/+1 counter on this creature.
+Cycling {1} ({1}, Discard this card: Draw a card.)
+1/1
+",https://scryfall.com/card/iko/13/flourishing-fox,https://cards.scryfall.io/large/front/7/8/78b81339-746d-4f71-9943-01c0f6a5683a.jpg?1591230253,待哺幼狐,待哺幼狐,Renard prospère,Gedeihender Fuchs,Volpe Fiorente,繁栄の狐,융성하는 여우,Raposa Florescente,Матерая Лисица,Zorro de la prosperidad
+Garrison Cat,"Garrison Cat	{W}
+Creature — Cat
+When this creature dies, create a 1/1 white Human Soldier creature token.
+1/1
+",https://scryfall.com/card/iko/14/garrison-cat,https://cards.scryfall.io/large/front/e/7/e7ff8345-227c-43b4-bed5-af3a34c0a990.jpg?1591230261,驻防猫,駐防貓,Chat de la garnison,Garnisonskatze,Felino della Guarnigione,駐屯地の猫,수비대 고양이,Gato da Guarnição,Гарнизонная Кошка,Felino del baluarte
+Helica Glider,"Helica Glider	{2}{W}
+Creature — Nightmare Squirrel
+This creature enters with your choice of a flying counter or a first strike counter on it.
+2/2
+",https://scryfall.com/card/iko/15/helica-glider,https://cards.scryfall.io/large/front/8/f/8fc88fe0-2424-49a7-9abf-4773a547d010.jpg?1591230268,曲枝飞鼠,曲枝飛鼠,Planeur de spiracacia,Helixwald-Gleithörnchen,Planatore di Fitoelice,らせん樹の滑空獣,헬리카 활강자,Planador de Heliqueiras,Летяга Спираледрева,Planeadora de hélicas
+Huntmaster Liger,"Huntmaster Liger	{3}{W}
+Creature — Cat
+Mutate {2}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, other creatures you control get +X/+X until end of turn, where X is the number of times this creature has mutated.
+3/4
+",https://scryfall.com/card/iko/16/huntmaster-liger,https://cards.scryfall.io/large/front/0/5/058d6a7d-12b0-4d82-a5bd-91fa44bbc5e1.jpg?1591230274,善猎狮虎,善獵獅虎,Ligre maître-chasseur,Jagdanführer-Liger,Ligre Capocaccia,猟匠ライガー,사냥지휘관 라이거,Ligre Mestre de Caça,Ловчий Лигр,Ligre maestro de la caza
+Imposing Vantasaur,"Imposing Vantasaur	{5}{W}
+Creature — Dinosaur
+Vigilance
+Cycling {1} ({1}, Discard this card: Draw a card.)
+3/6
+",https://scryfall.com/card/iko/17/imposing-vantasaur,https://cards.scryfall.io/large/front/b/6/b6fa5feb-f5e9-4079-acc9-84e458044769.jpg?1591230282,庄严高颈龙,莊嚴高頸龍,Miradosaure imposant,Imposanter Vantasaurus,Superiosauro Imponente,威圧するヴァンタサウルス,위압적인 반타사우루스,Vantassauro Imponente,Внушительный Вышезавр,Altosaurio imponente
+Keensight Mentor,"Keensight Mentor	{2}{W}
+Creature — Human Cleric
+When this creature enters, put a vigilance counter on target non-Human creature you control.
+{1}{W}, {T}: Put a +1/+1 counter on each creature you control with vigilance.
+1/4
+",https://scryfall.com/card/iko/18/keensight-mentor,https://cards.scryfall.io/large/front/a/0/a0583065-9a6c-4ea4-b6dd-2edfbaed1181.jpg?1591230288,锐目导师,銳目導師,Mentor vifœil,Scharfsicht-Mentorin,Mentore della Vista Acuta,慧眼の導師,예리한 눈을 가진 스승,Mentora de Vista Aguçada,Наставница Зорких Глаз,Mentora de visión perspicaz
+Lavabrink Venturer,"Lavabrink Venturer	{2}{W}
+Creature — Human Soldier
+As this creature enters, choose odd or even. (Zero is even.)
+This creature has protection from each mana value of the chosen quality.
+3/3
+",https://scryfall.com/card/iko/19/lavabrink-venturer,https://cards.scryfall.io/large/front/3/8/38c0d9d6-c9c7-4169-8106-400445643a1a.jpg?1615646020,熔缘城冒险家,熔緣城冒險家,Aventurière de Bourg-sur-Lave,Lavagrund-Glücksritterin,Avventuriera di Lavariva,ラバブリンクの冒険者,용암가장자리 탐험가,Aventureira de Beiralava,Авантюристка из Лавобрега,Aventurera de Bordelava
+Light of Hope,"Light of Hope	{W}
+Instant
+Choose one —
+• You gain 4 life.
+• Destroy target enchantment.
+• Put a +1/+1 counter on target creature.
+
+",https://scryfall.com/card/iko/20/light-of-hope,https://cards.scryfall.io/large/front/b/c/bcb00599-e082-49b0-88f3-ef91b75595e4.jpg?1591230303,希望明光,希望明光,Lueur d'espoir,Licht der Hoffnung,Luce di Speranza,希望の光,희망의 빛,Luz da Esperança,Свет Надежды,Luz de la esperanza
+Luminous Broodmoth,"Luminous Broodmoth	{2}{W}{W}
+Creature — Insect
+Flying
+Whenever a creature you control without flying dies, return it to the battlefield under its owner's control with a flying counter on it.
+3/4
+",https://scryfall.com/card/iko/21/luminous-broodmoth,https://cards.scryfall.io/large/front/b/b/bb65df55-d6a6-4a57-a903-e5eb17637982.jpg?1591230310,灿光巢蛾,燦光巢蛾,Phalène pondeuse lumineuse,Leuchtende Brutmotte,Falena della Covata Luminosa,光明の繁殖蛾,빛나는 무리나방,Mariposa-parideira Luminosa,Сияющий Мотылек Роя,Polilla incubadora luminosa
+Majestic Auricorn,"Majestic Auricorn	{4}{W}
+Creature — Unicorn
+Mutate {3}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Vigilance
+Whenever this creature mutates, you gain 4 life.
+4/4
+",https://scryfall.com/card/iko/22/majestic-auricorn,https://cards.scryfall.io/large/front/8/d/8df320c9-449a-457e-8688-f611aceb3352.jpg?1591230319,威仪金角兽,威儀金角獸,Auricorne majestueux,Majestätisches Goldhorn,Auricorno Maestoso,壮麗な金角獣,위풍당당한 황금유니콘,Auricórnio Majestoso,Величественный Золоторог,Auricornio majestuoso
+Maned Serval,"Maned Serval	{1}{W}
+Creature — Cat
+Vigilance
+1/4
+",https://scryfall.com/card/iko/23/maned-serval,https://cards.scryfall.io/large/front/5/a/5ac51e35-e2c5-4457-981c-e59894584288.jpg?1591230329,鬃毛薮猫,鬃毛藪貓,Serval à crinière,Mähnenserval,Servalo dalla Criniera,たてがみサーバル,갈기난 살쾡이,Serval-de-crina,Гривистый Сервал,Serval crinado
+Mythos of Snapdax,"Mythos of Snapdax	{2}{W}{W}
+Sorcery
+Each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents they control, then sacrifices the rest. If {B}{R} was spent to cast this spell, you choose the permanents for each player instead.
+
+",https://scryfall.com/card/iko/24/mythos-of-snapdax,https://cards.scryfall.io/large/front/2/7/2712a1a3-dd28-44c8-a661-5bcf68d3acaa.jpg?1591230335,斯达兹传说,斯達茲傳說,Mythe de Snapdax,Mythos von Snapdax,Mito di Snapdax,スナップダックスの神話,스냅댁스의 신화,Mito de Snapdax,Сказание о Снапдаксе,Mito de Snapdax
+Pacifism,"Pacifism	{1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack or block.
+
+",https://scryfall.com/card/iko/25/pacifism,https://cards.scryfall.io/large/front/5/2/5242a576-4d35-4f29-8d40-9a7179e51d0c.jpg?1675198947,和平主义,和平主義,Pacifisme,Pazifismus,Pacifismo,平和な心,평화주의,Pacifismo,Пацифизм,Pacifismo
+Patagia Tiger,"Patagia Tiger	{4}{W}
+Creature — Cat
+Flying
+When this creature enters, target Human you control gets +2/+2 until end of turn.
+3/4
+",https://scryfall.com/card/iko/26/patagia-tiger,https://cards.scryfall.io/large/front/b/e/be398100-89e2-432b-8017-74fb7e4dbc26.jpg?1591230347,翼翅飞虎,翼翅飛虎,Tigre à patagia,Patagiatiger,Tigre dei Patagi,翼膜の虎,비막 호랑이,Tigre-de-patágio,Тигр-Крылан,Tigre membranoso
+Perimeter Sergeant,"Perimeter Sergeant	{2}{W}
+Creature — Human Soldier
+Whenever this creature attacks, other Humans you control get +1/+0 until end of turn.
+3/2
+",https://scryfall.com/card/iko/27/perimeter-sergeant,https://cards.scryfall.io/large/front/2/a/2a174587-d964-48b3-8f69-fa576c1b8bba.jpg?1591230353,守备士官,守備士官,Sergent du périmètre,Grenzfeldwebel,Sergente del Perimetro,防衛線の兵長,경계 지역 부사관,Sargento do Perímetro,Сержант Переднего Края,Sargento del perímetro
+Sanctuary Lockdown,"Sanctuary Lockdown	{2}{W}
+Enchantment
+Humans you control get +1/+1.
+{2}, Tap two untapped Humans you control: Tap target creature an opponent controls.
+
+",https://scryfall.com/card/iko/28/sanctuary-lockdown,https://cards.scryfall.io/large/front/1/3/1387b7be-f69e-4919-9070-a89654c656f3.jpg?1591230359,庇护地封锁,庇護地封鎖,Confinement dans le sanctuaire,Abgeriegelter Zufluchtsort,Sbarramento del Santuario,聖域封鎖,성소 제재,Isolamento do Santuário,Закрытое Убежище,Bloqueo del santuario
+Savai Sabertooth,"Savai Sabertooth	{1}{W}
+Creature — Cat
+
+3/1
+",https://scryfall.com/card/iko/29/savai-sabertooth,https://cards.scryfall.io/large/front/d/4/d46702b0-7e10-462a-9aac-7564efe91804.jpg?1603797925,撒维耶剑齿虎,撒維耶劍齒虎,Smilodon de Savaï,Savai-Säbelzahntiger,Denti a Sciabola di Savai,サヴァイの剣歯虎,사바이 검치호,Dente-de-sabre de Savai,Савайский Саблезуб,Dientes de sable de Savái
+Snare Tactician,"Snare Tactician	{2}{W}
+Creature — Human Soldier
+Whenever you cycle a card, tap target creature an opponent controls.
+2/3
+",https://scryfall.com/card/iko/30/snare-tactician,https://cards.scryfall.io/large/front/5/f/5f640e0c-298d-4a5f-94d0-d839cf06ca86.jpg?1591230371,诱捕策士,誘捕策士,Tacticien aux collets,Schlingentaktiker,Stratega delle Trappole,罠の戦術家,덫 책략가,Tático das Armadilhas,Тактик Силков,Estratega trampero
+Solid Footing,"Solid Footing	{W}
+Enchantment — Aura
+Flash
+Enchant creature
+Enchanted creature gets +1/+1.
+As long as enchanted creature has vigilance, it assigns combat damage equal to its toughness rather than its power.
+
+",https://scryfall.com/card/iko/31/solid-footing,https://cards.scryfall.io/large/front/0/9/0900a8d1-a1b1-48c9-8af1-726a623c7d74.jpg?1591230376,站稳脚跟,站穩腳跟,Appuis solides,Fester Stand,Appoggio Solido,堅実な立ち位置,굳건한 기반,Base Sólida,Надежная Стойка,Postura firme
+Splendor Mare,"Splendor Mare	{2}{W}
+Creature — Elk Unicorn
+Lifelink
+Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle this card, put a lifelink counter on target creature you control.
+3/3
+",https://scryfall.com/card/iko/32/splendor-mare,https://cards.scryfall.io/large/front/5/3/535ccc75-b24e-4071-b6a0-fc5267a454e3.jpg?1591230382,光彩牝兽,光彩牝獸,Jument de splendeur,Prächtige Hirschkuh,Destriero Splendente,壮麗牝馬,화려한 말,Cerva do Esplendor,Кобылица Величия,Corcel radiante
+Spontaneous Flight,"Spontaneous Flight	{2}{W}
+Instant
+Target creature gets +2/+2 until end of turn. Put a flying counter on it.
+
+",https://scryfall.com/card/iko/33/spontaneous-flight,https://cards.scryfall.io/large/front/3/d/3dc24dd4-d259-4687-8247-f56aa7abb5b9.jpg?1603797911,自生羽翼,自生羽翼,Vol spontané,Spontaner Flug,Volo Spontaneo,突発的飛行,즉흥적인 비행,Voo Espontâneo,Спонтанный Полет,Vuelo espontáneo
+Stormwild Capridor,"Stormwild Capridor	{2}{W}
+Creature — Bird Goat
+Flying
+If noncombat damage would be dealt to this creature, prevent that damage. Put a +1/+1 counter on this creature for each 1 damage prevented this way.
+1/3
+",https://scryfall.com/card/iko/34/stormwild-capridor,https://cards.scryfall.io/large/front/2/a/2afded81-2fc1-4285-bf48-d25f72e72138.jpg?1591230395,聚风飞羊,聚風飛羊,Capridor des tempêtes sauvages,Blitzsturm-Capridor,Capridorio della Tempesta,嵐生の飛び山羊,폭풍야수 카프리도르,Capridor Tempestuoso,Козодор Бушующей Бури,Cabradora tormentosa
+Swallow Whole,"Swallow Whole	{W}
+Sorcery
+As an additional cost to cast this spell, tap an untapped creature you control.
+Exile target tapped creature. Put a +1/+1 counter on the creature tapped to pay this spell's additional cost.
+
+",https://scryfall.com/card/iko/35/swallow-whole,https://cards.scryfall.io/large/front/c/3/c3b9140b-848f-4886-8c28-eccd3829a607.jpg?1591230400,生体活吞,生體活吞,Avaler tout entier,Im Ganzen verschlingen,Inghiottire,丸呑み,통째로 삼키기,Engolir Inteiro,Проглотить Целиком,De un bocado
+Valiant Rescuer,"Valiant Rescuer	{1}{W}
+Creature — Human Soldier
+Whenever you cycle another card for the first time each turn, create a 1/1 white Human Soldier creature token.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+3/1
+",https://scryfall.com/card/iko/36/valiant-rescuer,https://cards.scryfall.io/large/front/a/2/a2b13ff6-67e9-4760-aef4-a8548ea44344.jpg?1591230423,英勇救援兵,英勇救援兵,Sauveteur valeureux,Tapferer Retter,Soccorritore Impavido,雄々しい救出者,용맹한 구조자,Socorrista Valente,Доблестный Спаситель,Rescatador valiente
+Vulpikeet,"Vulpikeet	{3}{W}
+Creature — Fox Bird
+Mutate {2}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying
+Whenever this creature mutates, put a +1/+1 counter on it.
+2/3
+",https://scryfall.com/card/iko/37/vulpikeet,https://cards.scryfall.io/large/front/0/7/07bce816-3d18-4ca1-b88f-7307ec7c345d.jpg?1591230432,狐身鹦鹉,狐身鸚鵡,Vulperruche,Fuchspapagei,Volpichetto,狐インコ,여우잉꼬,Vulpipagaio,Лисопугай,Vulpiquito
+Will of the All-Hunter,"Will of the All-Hunter	{1}{W}
+Instant
+Target creature gets +2/+2 until end of turn. If it's blocking, instead put two +1/+1 counters on it.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/38/will-of-the-all-hunter,https://cards.scryfall.io/large/front/a/a/aa7acbfa-ce3b-424d-886d-6865bc5fc085.jpg?1591230437,万猎虎意志,萬獵虎意志,Volonté du Giboyeur,Wille des All-Jagenden,Volontà dell'Onnipredatore,全てを狩るものの意志,지고의 사냥꾼의 의지,Vontade do Onicaçador,Воля Всеохотника,Voluntad del Cazador Supremo
+Aegis Turtle,"Aegis Turtle	{U}
+Creature — Turtle
+
+0/5
+",https://scryfall.com/card/iko/39/aegis-turtle,https://cards.scryfall.io/large/front/c/7/c7f2014a-fbc9-447c-a440-e06d01066bb9.jpg?1730489163,卫护龟,衛護龜,Tortue de l'égide,Ägis-Schildkröte,Tartaruga dell'Egida,神盾の海亀,방패 거북이,Tartaruga da Égide,Защищенная Черепаха,Tortuga protegida
+Anticipate,"Anticipate	{1}{U}
+Instant
+Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+
+",https://scryfall.com/card/iko/40/anticipate,https://cards.scryfall.io/large/front/4/6/46b6dfb2-ffe4-44fb-bfd9-df11bc3193df.jpg?1591230450,预先考虑,預先考慮,Anticipation,Antizipieren,Anticipare,予期,예측,Antecipar,Предвосхищение,Anticipar
+Archipelagore,"Archipelagore	{5}{U}{U}
+Creature — Leviathan
+Mutate {5}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, tap up to X target creatures, where X is the number of times this creature has mutated. Those creatures don't untap during their controller's next untap step.
+7/7
+",https://scryfall.com/card/iko/41/archipelagore,https://cards.scryfall.io/large/front/f/2/f24b1030-64d5-4c94-a04c-1d9520bfddab.jpg?1591230455,千岛海怪,千島海怪,Archipélagore,Archipelagor,Arcipelagolia,肉食島,섬괴수,Arquipelagórico,Кровархипелаг,Archipielagante
+Avian Oddity,"Avian Oddity	{3}{U}
+Creature — Bird
+Flying
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+When you cycle this card, put a flying counter on target creature you control.
+2/4
+",https://scryfall.com/card/iko/42/avian-oddity,https://cards.scryfall.io/large/front/f/3/f325873b-97de-4701-910f-ec5cdb66de33.jpg?1591230461,怪鸟兽,怪鳥獸,Bizarrerie aviaire,Komischer Vogel,Bizzarria Aviaria,奇異鳥,특이한 새,Aberração Aviana,Пернатая Диковина,Rareza aviaria
+Boon of the Wish-Giver,"Boon of the Wish-Giver	{4}{U}{U}
+Sorcery
+Draw four cards.
+Cycling {1} ({1}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/43/boon-of-the-wish-giver,https://cards.scryfall.io/large/front/0/e/0e790851-f0f7-4f1a-80e6-94be649499b6.jpg?1591230467,控念兽恩泽,控念獸恩澤,Faveur de l'accordeur de souhaits,Segen des Wunscherfüllers,Favore del Donadesideri,願い与えの加護,소원을 들어주는 자의 축복,Dádiva da Realizadora de Desejos,Дар Исполнителя Желаний,Bendición del Otorgadeseos
+Capture Sphere,"Capture Sphere	{3}{U}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+
+",https://scryfall.com/card/iko/44/capture-sphere,https://cards.scryfall.io/large/front/2/4/24cd21f5-94fd-4609-9e6a-d052aa81fe57.jpg?1673147233,拘捕法球,拘捕法球,Sphère de capture,Gefängnissphäre,Sfera di Cattura,捕獲球,포획 구체,Esfera de Captura,Ловчая Сфера,Esfera de captura
+Convolute,"Convolute	{2}{U}
+Instant
+Counter target spell unless its controller pays {4}.
+
+",https://scryfall.com/card/iko/45/convolute,https://cards.scryfall.io/large/front/3/f/3fd8e607-8179-4ae8-ba7f-f5f22649dc18.jpg?1591230479,回旋,迴旋,Circonvolution,Eingerollte Worte,Contorcere,巻き込み,곡해,Enrolar,Свертывание,Enrevesar
+Crystacean,"Crystacean	{3}{U}
+Creature — Crab
+Flash (You may cast this spell any time you could cast an instant.)
+1/6
+",https://scryfall.com/card/iko/46/crystacean,https://cards.scryfall.io/large/front/3/2/32afec8a-dbae-446e-919a-3efb556f5cb1.jpg?1591230486,庞巨晶蟹,龐巨晶蟹,Cristacé,Kristallkrabbe,Cristallaceo,晶殻ガニ,수정게,Cristáceo,Кристакраб,Cristáceo
+Dreamtail Heron,"Dreamtail Heron	{4}{U}
+Creature — Elemental Bird
+Mutate {3}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying
+Whenever this creature mutates, draw a card.
+3/4
+",https://scryfall.com/card/iko/47/dreamtail-heron,https://cards.scryfall.io/large/front/c/a/ca777d40-736a-4cd6-85c4-5afd52f2fadd.jpg?1591230492,梦翎苍鹭,夢翎蒼鷺,Héron à queue de rêve,Traumschweif-Reiher,Airone dalla Coda Onirica,夢尾の鷺,꿈꼬리 왜가리,Garça-de-cauda-onírica,Снохвостая Цапля,Garza colamística
+Escape Protocol,"Escape Protocol	{1}{U}
+Enchantment
+Whenever you cycle a card, you may pay {1}. When you do, exile target artifact or creature you control, then return it to the battlefield under its owner's control.
+
+",https://scryfall.com/card/iko/48/escape-protocol,https://cards.scryfall.io/large/front/2/d/2d3eeddd-c86d-4f35-ba57-3caa9565fcb0.jpg?1591230498,逃离方案,逃離方案,Protocole d'évasion,Fluchtprotokoll,Protocollo di Fuga,脱出の儀礼,탈출 규약,Protocolo de Fuga,Протокол Побега,Protocolo de escapatoria
+Essence Scatter,"Essence Scatter	{1}{U}
+Instant
+Counter target creature spell.
+
+",https://scryfall.com/card/iko/49/essence-scatter,https://cards.scryfall.io/large/front/3/2/32840097-0531-4c43-b6a8-e76c17420b04.jpg?1775937236,菁华离散,菁華離散,Dispersion d'essence,Essenzzerstäubung,Disperdere Essenza,本質の散乱,정수 흩날리기,Espalhar Essência,Разлет Эссенции,Esparcir la esencia
+Facet Reader,"Facet Reader	{1}{U}
+Creature — Human Wizard
+{1}, {T}: Draw a card, then discard a card.
+1/2
+",https://scryfall.com/card/iko/50/facet-reader,https://cards.scryfall.io/large/front/b/1/b1199596-ae77-4192-ae70-3e2ebd009b64.jpg?1591226309,片晶究研师,片晶究研師,Lecteur de facettes,Facettenleser,Indovino delle Sfaccettature,切子読み,보석 점쟁이,Leitor de Facetas,Чтец Граней,Lector de facetas
+Frost Lynx,"Frost Lynx	{2}{U}
+Creature — Elemental Cat
+When this creature enters, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+2/2
+",https://scryfall.com/card/iko/51/frost-lynx,https://cards.scryfall.io/large/front/d/f/dfcaeccc-fc8c-4a9e-80d5-b48da71d7ff1.jpg?1591226326,冰霜山猫,冰霜山貓,Lynx de gel,Frostluchs,Lince del Gelo,霜のオオヤマネコ,서리 스라소니,Lince de Gelo,Морозная Рысь,Lince escarchado
+Frostveil Ambush,"Frostveil Ambush	{3}{U}{U}
+Instant
+Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+Cycling {1} ({1}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/52/frostveil-ambush,https://cards.scryfall.io/large/front/d/e/deef1197-e40a-4c9d-919a-213f1bdf3e3e.jpg?1591226335,霜幕伏击,霜幕伏擊,Embuscade du voile de gel,Frostschleier-Hinterhalt,Imboscata di Brinavelo,霜帳の奇襲,서리장막 매복,Emboscada com Glacivéu,Засада Морозной Завесы,Emboscada velohelado
+Glimmerbell,"Glimmerbell	{1}{U}
+Creature — Elemental Jellyfish
+Flying
+{1}{U}: Untap this creature.
+1/3
+",https://scryfall.com/card/iko/53/glimmerbell,https://cards.scryfall.io/large/front/5/4/54f71f8a-546a-465e-a254-09a3ae873ef4.jpg?1591226344,烁体浮蜇,爍體浮蜇,Ombrelle luisante,Glimmerqualle,Campana Scintillante,微光クラゲ,반짝종,Sino-de-luz,Переливчатый Колокол,Campabrilla
+Gust of Wind,"Gust of Wind	{3}{U}
+Sorcery
+This spell costs {2} less to cast if you control a creature with flying.
+Return target nonland permanent you don't control to its owner's hand.
+Draw a card.
+
+",https://scryfall.com/card/iko/54/gust-of-wind,https://cards.scryfall.io/large/front/f/a/faabea92-d8cf-4591-b528-3e597d56b31f.jpg?1591226352,劲风吹袭,勁風吹襲,Rafale de vent,Windstoß,Raffica di Vento,疾風,한 줄기 돌풍,Lufada de Vento,Порыв Ветра,Ráfaga de viento
+Hampering Snare,"Hampering Snare	{1}{U}
+Instant
+Creatures your opponents control get -2/-0 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/55/hampering-snare,https://cards.scryfall.io/large/front/5/f/5f7b331a-bd21-429b-a49f-88da9a31c98e.jpg?1591226361,束缚陷阱,束縛陷阱,Collet entravant,Hemmende Schlinge,Trappola Immobilizzante,妨害する罠,방해하는 덫,Armadilha Retentora,Подавляющие Силки,Trampa obstructora
+Keep Safe,"Keep Safe	{1}{U}
+Instant
+Counter target spell that targets a permanent you control.
+Draw a card.
+
+",https://scryfall.com/card/iko/56/keep-safe,https://cards.scryfall.io/large/front/f/e/febfa682-76ae-4979-a40c-c1eae1121f3c.jpg?1591226372,庇护屏障,庇護屏障,Protéger,Sicher behüten,Tenere al Sicuro,安全維持,안전 제일,Manter a Salvo,Под Защитой,Proteger
+Mystic Subdual,"Mystic Subdual	{1}{U}
+Enchantment — Aura
+Flash
+Enchant creature
+Enchanted creature gets -2/-0 and loses all abilities. (Mutating onto the creature won't give it new abilities. It can gain abilities in other ways.)
+
+",https://scryfall.com/card/iko/57/mystic-subdual,https://cards.scryfall.io/large/front/6/2/627c2111-b7d7-40bc-aa30-57d72338b32d.jpg?1591226384,神秘破坏,神秘破壞,Subjugation mystique,Mystische Bändigung,Sottomissione Mistica,神秘の制圧,신비한 진압,Submissão Mística,Мистическое Подчинение,Sometimiento místico
+Mythos of Illuna,"Mythos of Illuna	{2}{U}{U}
+Sorcery
+Create a token that's a copy of target permanent. If {R}{G} was spent to cast this spell, instead create a token that's a copy of that permanent, except the token has ""When this token enters, if it's a creature, it fights up to one target creature you don't control.""
+
+",https://scryfall.com/card/iko/58/mythos-of-illuna,https://cards.scryfall.io/large/front/f/1/f1b07082-c5a5-4283-a2f5-5b1e0120d752.jpg?1591226392,依卢那传说,依盧那傳說,Mythe d'Illuna,Mythos von Illuna,Mito di Illuna,イルーナの神話,일루나의 신화,Mito de Illuna,Сказание об Иллуне,Mito de Illuna
+Neutralize,"Neutralize	{1}{U}{U}
+Instant
+Counter target spell.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/59/neutralize,https://cards.scryfall.io/large/front/0/4/0430da3c-9460-4b62-ae28-2e7e6f4d06a4.jpg?1591226400,解除威胁,解除威脅,Neutralisation,Neutralisieren,Neutralizzare,中和,무력화,Neutralizar,Обезвредить,Neutralizar
+Of One Mind,"Of One Mind	{2}{U}
+Sorcery
+This spell costs {2} less to cast if you control a Human creature and a non-Human creature.
+Draw two cards.
+
+",https://scryfall.com/card/iko/60/of-one-mind,https://cards.scryfall.io/large/front/c/9/c95fb136-f21d-4f3a-82b7-bcf490b7e90c.jpg?1591226411,异念归一,異念歸一,Unité d'esprit,Seelenverwandtschaft,Una Sola Mente,心を一つに,한 마음,Mentes em Uníssono,Единение Разумов,De una mente
+Ominous Seas,"Ominous Seas	{1}{U}
+Enchantment
+Whenever you draw a card, put a foreshadow counter on this enchantment.
+Remove eight foreshadow counters from this enchantment: Create an 8/8 blue Kraken creature token.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/61/ominous-seas,https://cards.scryfall.io/large/front/c/e/ce8965f2-756a-4461-a643-db024a11c2de.jpg?1591226420,恶兆海疆,惡兆海疆,Mers comminatoires,Unheilvolle See,Mari Minacciosi,不吉な海,불길한 바다,Mares Ameaçadores,Тревожные Моря,Mares de mal agüero
+Phase Dolphin,"Phase Dolphin	{2}{U}
+Creature — Elemental Whale
+Whenever this creature attacks, another target attacking creature can't be blocked this turn.
+1/4
+",https://scryfall.com/card/iko/62/phase-dolphin,https://cards.scryfall.io/large/front/8/8/88fb4042-e9c1-4b0f-b1f6-4180b0d79663.jpg?1591226432,腾跃海豚,騰躍海豚,Dauphin en phase,Phasendelfin,Delfino della Fase,潜界イルカ,위상 돌고래,Golfinho Defasador,Мерцающий Дельфин,Delfín de fase
+Pollywog Symbiote,"Pollywog Symbiote	{1}{U}
+Creature — Frog
+Each creature spell you cast costs {1} less to cast if it has mutate.
+Whenever you cast a creature spell, if it has mutate, draw a card, then discard a card.
+1/3
+",https://scryfall.com/card/iko/63/pollywog-symbiote,https://cards.scryfall.io/large/front/7/7/77adf375-e7d7-4ebd-8c86-ad7e822a5483.jpg?1688477289,蝌蚪共生体,蝌蚪共生體,Symbiote têtard,Kaulquappensymbiont,Simbionte Girino,両生共生体,양서류 공생자,Simbionte Girino,Симбионт-Головастик,Renacuajo simbiótico
+Pouncing Shoreshark,"Pouncing Shoreshark	{4}{U}
+Creature — Shark Beast
+Mutate {3}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flash
+Whenever this creature mutates, you may return target creature an opponent controls to its owner's hand.
+4/3
+",https://scryfall.com/card/iko/64/pouncing-shoreshark,https://cards.scryfall.io/large/front/c/8/c859b339-b55b-41fe-948c-27502e3b3ea8.jpg?1591226459,扑击岸鲨,撲擊岸鯊,Requin-côtier bondissant,Springender Küstenhai,Geosqualo Scattante,飛びかかる岸鮫,달려드는 해안상어,Tubarão-da-costa Saltador,Прыткая Береговая Акула,Tiburón costero saltador
+Reconnaissance Mission,"Reconnaissance Mission	{2}{U}{U}
+Enchantment
+Whenever a creature you control deals combat damage to a player, you may draw a card.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/65/reconnaissance-mission,https://cards.scryfall.io/large/front/b/2/b2364119-d764-4ef1-86cf-a0b7a5ae1b38.jpg?1641602066,侦察任务,偵察任務,Mission de reconnaissance,Aufklärungsmission,Missione di Ricognizione,偵察任務,정찰 임무,Missão de Reconhecimento,Разведывательная Вылазка,Misión de reconocimiento
+Sea-Dasher Octopus,"Sea-Dasher Octopus	{1}{U}{U}
+Creature — Octopus
+Mutate {1}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flash
+Whenever this creature deals combat damage to a player, draw a card.
+2/2
+",https://scryfall.com/card/iko/66/sea-dasher-octopus,https://cards.scryfall.io/large/front/a/6/a6f59d9e-6c1b-437a-934c-7c776c8dd1d5.jpg?1591226485,迅浪章鱼,迅浪章魚,Pieuvre fonceuse des mers,Meeresflitzer-Oktopus,Piovra Balzaonde,海駆けダコ,바다를 질주하는 문어,Polvo Flecha-do-mar,Стремительный Спрут,Pulpo corremares
+Shark Typhoon,"Shark Typhoon	{5}{U}
+Enchantment
+Whenever you cast a noncreature spell, create an X/X blue Shark creature token with flying, where X is that spell's mana value.
+Cycling {X}{1}{U} ({X}{1}{U}, Discard this card: Draw a card.)
+When you cycle this card, create an X/X blue Shark creature token with flying.
+
+",https://scryfall.com/card/iko/67/shark-typhoon,https://cards.scryfall.io/large/front/2/b/2b2accb1-d77b-4633-9d0c-b972d9c014bb.jpg?1726284727,聚鲨台风,聚鯊颱風,Typhon de requins,Haifun,Tifone di Squali,サメ台風,상어 태풍,Tufão de Tubarões,Акулий Тайфун,Tifón de tiburones
+Startling Development,"Startling Development	{1}{U}
+Instant
+Until end of turn, target creature becomes a blue Serpent with base power and toughness 4/4.
+Cycling {1} ({1}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/68/startling-development,https://cards.scryfall.io/large/front/a/1/a12680db-957f-48c1-9062-2edd9115ba26.jpg?1591226517,惊人成长,驚人成長,Développement surprenant,Verblüffende Verwandlung,Sviluppo Sconcertante,驚くべき発育,깜짝 놀랄 발전,Desenvolvimento Surpreendente,Поразительное Происшествие,Desarrollo extraordinario
+Thieving Otter,"Thieving Otter	{2}{U}
+Creature — Otter
+Whenever this creature deals damage to an opponent, draw a card.
+2/2
+",https://scryfall.com/card/iko/69/thieving-otter,https://cards.scryfall.io/large/front/5/2/52a258be-39e3-4689-b2d0-7c353ce7d574.jpg?1721428090,窃獭,竊獺,Loutre voleuse,Diebischer Otter,Lontra Ladra,泥棒カワウソ,도둑질하는 수달,Lontra Ladra,Вороватая Выдра,Nutria ladrona
+Voracious Greatshark,"Voracious Greatshark	{3}{U}{U}
+Creature — Shark
+Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, counter target artifact or creature spell.
+5/4
+",https://scryfall.com/card/iko/70/voracious-greatshark,https://cards.scryfall.io/large/front/c/2/c27b40dd-9b2a-4a99-a984-ee9cfdb091a1.jpg?1730490877,贪餮硕鲨,貪餮碩鯊,Grand requin vorace,Gefräßiger Riesenhai,Gransqualo Vorace,大食の巨大鮫,탐욕스러운 거대상어,Megatubarão Voraz,Прожорливый Мегалодон,Gran tiburón voraz
+Wingfold Pteron,"Wingfold Pteron	{5}{U}
+Creature — Dinosaur
+This creature enters with your choice of a flying counter or a hexproof counter on it. (A creature with hexproof can't be the target of spells or abilities your opponents control.)
+3/6
+",https://scryfall.com/card/iko/71/wingfold-pteron,https://cards.scryfall.io/large/front/1/1/11e21a5f-fae7-4488-9463-f0af6e4c5233.jpg?1591226554,叠翅翼龙,疊翅翼龍,Ptéron aux ailes pliables,Flügelfalter-Pteron,Pteron dalle Ali Pieghevoli,折り畳み翼竜,접은날개 프테론,Pteron-de-asa-dobrável,Складчатокрылый Птерон,Pterón alado
+Wingspan Mentor,"Wingspan Mentor	{2}{U}
+Creature — Human Wizard
+When this creature enters, put a flying counter on target non-Human creature you control.
+{2}{U}, {T}: Put a +1/+1 counter on each creature you control with flying.
+1/3
+",https://scryfall.com/card/iko/72/wingspan-mentor,https://cards.scryfall.io/large/front/2/2/225701da-1e6d-479c-aecc-3a13e0698524.jpg?1673484074,翼展导师,翼展導師,Mentor volenvergue,Flügelschlag-Mentor,Mentore dell'Apertura Alare,翼長の導師,날개폭 스승,Mentor de Envergadura,Наставник Размаха Крыльев,Mentor de alaslargas
+Bastion of Remembrance,"Bastion of Remembrance	{2}{B}
+Enchantment
+When this enchantment enters, create a 1/1 white Human Soldier creature token.
+Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+
+",https://scryfall.com/card/iko/73/bastion-of-remembrance,https://cards.scryfall.io/large/front/9/d/9d0c6077-f84c-4e91-87dc-b0ac81d557f8.jpg?1743206432,记忆壁垒,記憶壁壘,Bastion du souvenir,Bastion der Erinnerung,Baluardo del Ricordo,想起の拠点,추모의 요새,Bastião da Recordação,Бастион Воспоминаний,Bastión de los recuerdos
+Blitz Leech,"Blitz Leech	{5}{B}
+Creature — Leech
+Flash
+When this creature enters, target creature an opponent controls gets -2/-2 until end of turn. Remove all counters from that creature.
+5/2
+",https://scryfall.com/card/iko/74/blitz-leech,https://cards.scryfall.io/large/front/7/d/7d9b5bde-a851-480b-b45e-d384fd1c11bb.jpg?1591226595,闪击蛭,閃擊蛭,Sangsue à l'attaque éclair,Blitzegel,Sanguisuga d'Assalto,急襲ヒル,습격하는 거머리,Sanguessuga de Assalto,Проворная Пиявка,Sanguijuela relámpago
+Blood Curdle,"Blood Curdle	{3}{B}
+Instant
+Destroy target creature. Put a menace counter on a creature you control. (It can't be blocked except by two or more creatures.)
+
+",https://scryfall.com/card/iko/75/blood-curdle,https://cards.scryfall.io/large/front/4/1/4184c851-1419-476c-ba9c-9f0cb1137114.jpg?1591226609,血流凝结,血流凝結,Glacement du sang,Blutstarre,Raggelare il Sangue,血液凝固,혈액 응고,Coalhar Sangue,Стынущая Кровь,Helar la sangre
+Boot Nipper,"Boot Nipper	{1}{B}
+Creature — Beast
+This creature enters with your choice of a deathtouch counter or a lifelink counter on it.
+2/1
+",https://scryfall.com/card/iko/76/boot-nipper,https://cards.scryfall.io/large/front/c/f/cff5a5b8-f823-4429-acd8-c4f34a676cb4.jpg?1591226621,啮靴兽,嚙靴獸,Pince-bottes,Fersenbeißer,Mordistivali,靴かじり,신발을 물어뜯는 자,Belisca-botas,Сапожный Кусака,Muerdebotas
+Bushmeat Poacher,"Bushmeat Poacher	{3}{B}
+Creature — Human Soldier
+{1}, {T}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness. Draw a card.
+2/4
+",https://scryfall.com/card/iko/77/bushmeat-poacher,https://cards.scryfall.io/large/front/c/c/cc01faf4-fabb-40c9-a1d6-359280535f91.jpg?1591226634,野味盗猎者,野味盜獵者,Braconnière de gibier,Buschfleisch-Wilderin,Cacciatrice di Frodo di Selvaggina,野生肉の密猟者,야생고기 밀렵꾼,Caçadora de Carne Selvagem,Диколовчая Браконьерша,Cazadora de carne
+Call of the Death-Dweller,"Call of the Death-Dweller	{2}{B}
+Sorcery
+Return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield. Put a deathtouch counter on either of them. Then put a menace counter on either of them.
+
+",https://scryfall.com/card/iko/78/call-of-the-death-dweller,https://cards.scryfall.io/large/front/3/7/37e34017-0aeb-4a93-9edf-596bf3597a0e.jpg?1591226650,夺命狮召唤,奪命獅召喚,Appel du Thanatophile,Ruf des Todbrüters,Richiamo del Dimoramorte,死住まいの呼び声,죽음 거주자의 부름,Chamado do Mortívago,Зов Обитателя Смерти,Llamada del Habitante de la Muerte
+Cavern Whisperer,"Cavern Whisperer	{4}{B}
+Creature — Nightmare
+Mutate {3}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Menace (This creature can't be blocked except by two or more creatures.)
+Whenever this creature mutates, each opponent discards a card.
+4/4
+",https://scryfall.com/card/iko/79/cavern-whisperer,https://cards.scryfall.io/large/front/6/4/64ae7651-4a5c-41f3-b528-41b9b0f2e5d8.jpg?1591226663,洞窟低语怪,洞窟低語怪,Chuchoteur des cavernes,Höhlenflüsterer,Sussurratore delle Caverne,洞窟で囁くもの,동굴 속삭임꾼,Sussurrador das Cavernas,Пещерный Шептун,Susurrante de caverna
+Chittering Harvester,"Chittering Harvester	{5}{B}
+Creature — Nightmare
+Mutate {4}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, each opponent sacrifices a creature of their choice.
+4/6
+",https://scryfall.com/card/iko/80/chittering-harvester,https://cards.scryfall.io/large/front/d/5/d51a0700-d4d3-4b7e-bdb5-6cd913c948d9.jpg?1591226677,吱响索命妖,吱響索命妖,Moissonneur bruyant,Fauchender Schnitter,Mietitore Squittente,騒がしい収穫者,찍찍대는 수확자,Ceifador Chiador,Верещащий Сборщик,Cosechadora gorjeante
+Corpse Churn,"Corpse Churn	{1}{B}
+Instant
+Mill three cards, then you may return a creature card from your graveyard to your hand. (To mill three cards, put the top three cards of your library into your graveyard.)
+
+",https://scryfall.com/card/iko/81/corpse-churn,https://cards.scryfall.io/large/front/c/1/c151c2e9-a7d1-42ee-a68c-885df78db53e.jpg?1706239863,尸体翻搅,屍體翻攪,Barratement cadavérique,Leichen aufwühlen,Estrazione di Cadaveri,屍体の攪拌,시체 휘젓기,Reviravolta de Cadáveres,Пробуждение Трупа,Agitación cadavérica
+Dark Bargain,"Dark Bargain	{3}{B}
+Instant
+Look at the top three cards of your library. Put two of them into your hand and the other into your graveyard. Dark Bargain deals 2 damage to you.
+
+",https://scryfall.com/card/iko/82/dark-bargain,https://cards.scryfall.io/large/front/6/e/6ef6f861-90ef-4e1d-9f17-1dd306e7d0af.jpg?1591226707,黯境交易,黯境交易,Obscur marché,Düsterer Handel,Transazione Oscura,闇の取り引き,사악한 거래,Barganha Sombria,Темная Сделка,Intercambio oscuro
+Dead Weight,"Dead Weight	{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -2/-2.
+
+",https://scryfall.com/card/iko/83/dead-weight,https://cards.scryfall.io/large/front/8/2/82e6b971-3f5b-47e7-8209-98d72ee781fc.jpg?1699044112,重负,重負,Poids mort,Totes Gewicht,Peso Morto,死の重み,사악한 족쇄,Peso Morto,Мертвый Груз,Peso muerto
+Dirge Bat,"Dirge Bat	{2}{B}{B}
+Creature — Bat
+Mutate {4}{B}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flash
+Flying
+Whenever this creature mutates, destroy target creature or planeswalker an opponent controls.
+3/3
+",https://scryfall.com/card/iko/84/dirge-bat,https://cards.scryfall.io/large/front/5/9/59677c76-8148-4b6f-95b0-0e3ccf137a3f.jpg?1591226735,悼挽蝙蝠,悼輓蝙蝠,Chauve-souris funèbre,Klagelied-Fledermaus,Pipistrello del Lamento Funebre,哀歌コウモリ,장송곡 박쥐,Morcego do Lamento Fúnebre,Нетопырь-Плакальщик,Murciélago fúnebre
+Durable Coilbug,"Durable Coilbug	{1}{B}
+Creature — Insect
+{4}{B}: Return this card from your graveyard to your hand.
+2/2
+",https://scryfall.com/card/iko/85/durable-coilbug,https://cards.scryfall.io/large/front/a/0/a0cbdfb6-c029-440f-bc07-c95e03c20110.jpg?1591226747,硬壳蜷曲虫,硬殼蜷曲蟲,Sphérapode durable,Robuster Spulkäfer,Appallottero Resistente,頑丈なダンゴムシ,튼튼한 고리벌레,Inseto-bola Resistente,Прочная Спираленожка,Bichobola resistente
+Duskfang Mentor,"Duskfang Mentor	{2}{B}
+Creature — Human Cleric
+When this creature enters, put a lifelink counter on target non-Human creature you control.
+{1}{B}, {T}: Put a +1/+1 counter on each creature you control with lifelink.
+1/3
+",https://scryfall.com/card/iko/86/duskfang-mentor,https://cards.scryfall.io/large/front/f/c/fc38fe5d-6c35-4fff-8f1b-726a0685c6f8.jpg?1591226756,暮牙明师,暮牙明師,Mentor crépuscroc,Düsterzahn-Mentorin,Mentore della Zanna Tetra,暮れ牙の導師,황혼송곳니 스승,Mentora do Canino Crepuscular,Наставница Клыка Сумерек,Mentora de colmillos vespertinos
+Easy Prey,"Easy Prey	{1}{B}
+Instant
+Destroy target creature with mana value 2 or less.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/87/easy-prey,https://cards.scryfall.io/large/front/3/1/312fb6e4-1eb1-4fbb-b7a4-125829a6e96a.jpg?1591226769,手到擒来,手到擒來,Proie facile,Leichte Beute,Preda Facile,恰好の餌食,손쉬운 먹이,Presa Fácil,Легкая Добыча,Presa fácil
+Extinction Event,"Extinction Event	{3}{B}
+Sorcery
+Choose odd or even. Exile each creature with mana value of the chosen quality. (Zero is even.)
+
+",https://scryfall.com/card/iko/88/extinction-event,https://cards.scryfall.io/large/front/8/7/8725a869-462b-4381-880a-b4bcc63a655b.jpg?1591226783,生灵绝灭,生靈絕滅,Événement d'extinction,Massenaussterben,Evento di Estinzione,絶滅の契機,멸종 사건,Evento de Extinção,Вымирание,Acontecimiento de extinción
+Gloom Pangolin,"Gloom Pangolin	{2}{B}
+Creature — Nightmare Pangolin
+
+1/5
+",https://scryfall.com/card/iko/89/gloom-pangolin,https://cards.scryfall.io/large/front/3/f/3f135dd7-2a4f-4c83-9a90-76bcab3cc33d.jpg?1591226794,幽光穿山甲,幽光穿山甲,Pangolin des ténèbres,Düsternis-Schuppentier,Pangolino Tetro,薄暗がりのセンザンコウ,음울한 천산갑,Pangolim Sombrio,Панголин Мрака,Pangolín de las tinieblas
+Grimdancer,"Grimdancer	{1}{B}{B}
+Creature — Nightmare
+This creature enters with your choice of two different counters on it from among menace, deathtouch, and lifelink.
+3/3
+",https://scryfall.com/card/iko/90/grimdancer,https://cards.scryfall.io/large/front/8/1/819257c8-9806-48bd-ba49-e117ca31de54.jpg?1591226807,冷酷旋魇,冷酷旋魘,Danseur sinistre,Gruseltänzer,Danzatore Lugubre,不気味舞い,음침한 무용수,Dançarino Soturno,Зловещий Плясун,Danzarina del averno
+Heartless Act,"Heartless Act	{1}{B}
+Instant
+Choose one —
+• Destroy target creature with no counters on it.
+• Remove up to three counters from target creature.
+
+",https://scryfall.com/card/iko/91/heartless-act,https://cards.scryfall.io/large/front/b/5/b57c57a8-d72b-4c6c-a2db-a7ef61190f42.jpg?1764120715,无情手段,無情手段,Acte cruel,Herzloser Akt,Atto Spietato,無情な行動,비정한 행동,Ato Cruel,Бессердечное Деяние,Acto desalmado
+Hunted Nightmare,"Hunted Nightmare	{1}{B}{B}
+Creature — Nightmare
+Menace
+When this creature enters, target opponent puts a deathtouch counter on a creature they control.
+4/5
+",https://scryfall.com/card/iko/92/hunted-nightmare,https://cards.scryfall.io/large/front/5/f/5f2dddce-583e-4af3-b144-a60dd268e84f.jpg?1591226831,遭缉梦魇,遭緝夢魘,Cauchemar au rabais,Gejagter Nachtmahr,Incubo Braccato,狩り立てられた悪夢,사냥당하는 나이트메어,Pesadelo Caçado,Загнанный Кошмар,Pesadilla perseguida
+Insatiable Hemophage,"Insatiable Hemophage	{3}{B}
+Creature — Nightmare
+Mutate {2}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Deathtouch
+Whenever this creature mutates, each opponent loses X life and you gain X life, where X is the number of times this creature has mutated.
+3/3
+",https://scryfall.com/card/iko/93/insatiable-hemophage,https://cards.scryfall.io/large/front/7/0/70419590-2e0d-4232-b596-a5359b284647.jpg?1591226844,无魇喋血怪,無魘喋血怪,Hémophage insatiable,Unersättlicher Blutfresser,Emofago Insaziabile,強欲な血喰い,탐욕스러운 식혈귀,Hemófago Insaciável,Ненасытный Гемофаг,Hematófago insaciable
+Lurking Deadeye,"Lurking Deadeye	{3}{B}
+Creature — Human Assassin
+Flash
+When this creature enters, destroy target creature that was dealt damage this turn.
+4/2
+",https://scryfall.com/card/iko/94/lurking-deadeye,https://cards.scryfall.io/large/front/4/3/43925a8d-dd02-4907-929e-c015d678bb49.jpg?1591226858,伏击神射手,伏擊神射手,Tireuse d'élite en maraude,Lauernde Präzisionsschützin,Cecchina in Agguato,隠れ潜む名射手,몸을 숨긴 사격의 명수,Espreitadora Certeira,Притаившийся Снайпер,Acechadora certera
+Memory Leak,"Memory Leak	{2}{B}
+Sorcery
+Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it.
+Cycling {1} ({1}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/95/memory-leak,https://cards.scryfall.io/large/front/3/b/3b45a493-a1c2-430e-a45c-abc1ba554877.jpg?1591226876,记忆泄露,記憶洩露,Fuite de mémoire,Gedächtnisverlust,Perdita di Memoria,記憶漏出,기억 유실,Vazamento de Lembranças,Утечка Памяти,Fuga de recuerdos
+Mutual Destruction,"Mutual Destruction	{B}
+Sorcery
+This spell has flash as long as you control a permanent with flash.
+As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature.
+
+",https://scryfall.com/card/iko/96/mutual-destruction,https://cards.scryfall.io/large/front/8/5/85ac0b25-80bf-4871-a6f6-5cf4d5b9496e.jpg?1591226898,同归于尽,同歸於盡,Destruction mutuelle,Gegenseitige Zerstörung,Distruzione Reciproca,相互破壊,상호 파괴,Destruição Mútua,Взаимное Уничтожение,Destrucción mutua
+Mythos of Nethroi,"Mythos of Nethroi	{2}{B}
+Instant
+Destroy target nonland permanent if it's a creature or if {G}{W} was spent to cast this spell.
+
+",https://scryfall.com/card/iko/97/mythos-of-nethroi,https://cards.scryfall.io/large/front/6/a/6abc24e1-e721-471a-9efd-547f320675b0.jpg?1591226925,涅司罗传说,涅司羅傳說,Mythe de Nethroï,Mythos von Nethroi,Mito di Nethroi,ネスロイの神話,네스로이의 신화,Mito de Nethroi,Сказание о Нетрое,Mito de Nethroi
+Nightsquad Commando,"Nightsquad Commando	{2}{B}
+Creature — Human Soldier
+When this creature enters, if you attacked this turn, create a 1/1 white Human Soldier creature token.
+2/3
+",https://scryfall.com/card/iko/98/nightsquad-commando,https://cards.scryfall.io/large/front/8/0/80306d10-0da7-4ee7-b975-ef6c9b535a2a.jpg?1591226945,夜班队突击兵,夜班隊突擊兵,Commando de l'escouade nocturne,Kommando der Nachtwache,Commando dello Squadrone Notturno,夜勤隊の猛士,밤 부대 특공대,Comando do Esquadrão Noturno,Коммандос Ночного Отряда,Comando de la brigada nocturna
+Serrated Scorpion,"Serrated Scorpion	{B}
+Creature — Scorpion
+When this creature dies, it deals 2 damage to each opponent and you gain 2 life.
+1/2
+",https://scryfall.com/card/iko/99/serrated-scorpion,https://cards.scryfall.io/large/front/7/8/78509763-4bb8-4030-b205-76917de75c57.jpg?1689997444,锯尾蝎,鋸尾蠍,Scorpion barbelé,Zackenskorpion,Scorpione Dentellato,鋸刃蠍,톱니 전갈,Escorpião Serrilhado,Зазубренный Скорпион,Escorpión dentellado
+Suffocating Fumes,"Suffocating Fumes	{2}{B}
+Instant
+Creatures your opponents control get -1/-1 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/100/suffocating-fumes,https://cards.scryfall.io/large/front/6/6/66b562e4-35df-4aee-848d-ceb4204bbe58.jpg?1591226972,窒塞毒气,窒塞毒氣,Fumées suffocantes,Erstickende Dämpfe,Esalazioni Asfissianti,息詰まる噴煙,질식시키는 매연,Exalações Sufocantes,Удушливый Дым,Humo sofocante
+Unbreakable Bond,"Unbreakable Bond	{4}{B}
+Sorcery
+Return target creature card from your graveyard to the battlefield with a lifelink counter on it.
+
+",https://scryfall.com/card/iko/101/unbreakable-bond,https://cards.scryfall.io/large/front/c/9/c9da02a1-7b39-4a0e-8466-6512a02f3e3b.jpg?1610263521,难破羁绊,難破羈絆,Lien indestructible,Unzertrennliche Verbindung,Vincolo Indissolubile,不断の絆,깨뜨릴 수 없는 유대,Vínculo Inquebrável,Нерушимые Узы,Vínculo inquebrantable
+Unexpected Fangs,"Unexpected Fangs	{1}{B}
+Instant
+Put a +1/+1 counter and a lifelink counter on target creature.
+
+",https://scryfall.com/card/iko/102/unexpected-fangs,https://cards.scryfall.io/large/front/a/a/aa6494ad-a35e-4b09-8623-7740f3c20b0b.jpg?1591226994,突生长牙,突生長牙,Crocs inattendus,Überraschender Biss,Zanne Inaspettate,予想外の牙,예상하지 못한 송곳니,Presas Inesperadas,Нежданные Клыки,Colmillos inesperados
+Unlikely Aid,"Unlikely Aid	{1}{B}
+Instant
+Target creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)
+
+",https://scryfall.com/card/iko/103/unlikely-aid,https://cards.scryfall.io/large/front/b/a/bac3409e-7c24-43b0-9956-5f0cdeae6468.jpg?1591227006,意外援助,意外援助,Aide improbable,Unerwartete Unterstützung,Aiuto Inatteso,予期せぬ助力,있을 법하지 않은 지원,Ajuda Improvável,Неожиданная Помощь,Ayuda insólita
+Void Beckoner,"Void Beckoner	{6}{B}{B}
+Creature — Nightmare Horror
+Deathtouch
+Cycling {2}{B} ({2}{B}, Discard this card: Draw a card.)
+When you cycle this card, put a deathtouch counter on target creature you control.
+8/8
+",https://scryfall.com/card/iko/104/void-beckoner,https://cards.scryfall.io/large/front/a/1/a1523cda-c47d-4419-a5d3-fd6ed9867c56.jpg?1591227023,虚空召兽,虛空召獸,Mandeur du vide,Rufer der Leere,Convocatore del Vuoto,虚空を招くもの,공허 유혹자,Invocador do Vazio,Призыватель Пустоты,Llamavacíos
+Whisper Squad,"Whisper Squad	{B}
+Creature — Human Soldier
+{1}{B}: Search your library for a card named Whisper Squad, put it onto the battlefield tapped, then shuffle.
+1/1
+",https://scryfall.com/card/iko/105/whisper-squad,https://cards.scryfall.io/large/front/0/9/097eeb32-cfd5-4adb-ac30-d7762e6ea48f.jpg?1591227037,幽语小队,幽語小隊,Escouade chuchotante,Flüsterwache,Squadrone dei Sussurri,囁く兵団,속삭임 부대,Esquadrão dos Sussurros,Шепчущий Отряд,Brigada del susurro
+Zagoth Mamba,"Zagoth Mamba	{B}
+Creature — Nightmare Snake
+Whenever this creature mutates, target creature an opponent controls gets -2/-2 until end of turn.
+1/1
+",https://scryfall.com/card/iko/106/zagoth-mamba,https://cards.scryfall.io/large/front/c/e/ce945f7e-ded9-4819-9313-d50d3aad40fa.jpg?1688477306,札苟斯树蛇,札苟斯樹蛇,Mamba de Zagoth,Zagoth-Mamba,Mamba di Zagoth,ゼイゴスのマンバ,자고스 맘바,Mamba de Zagoth,Заготская Мамба,Mamba de Zagoth
+Blazing Volley,"Blazing Volley	{R}
+Sorcery
+Blazing Volley deals 1 damage to each creature your opponents control.
+
+",https://scryfall.com/card/iko/107/blazing-volley,https://cards.scryfall.io/large/front/3/a/3adc0288-acdf-4a99-9bfb-919cae1aeb69.jpg?1591227065,烈焰齐射,烈焰齊射,Volée brûlante,Glühender Pfeilhagel,Raffica Rovente,猛火の斉射,불화살 일제사격,Salva Incandescente,Пылающий Залп,Descarga ardiente
+Blisterspit Gremlin,"Blisterspit Gremlin	{R}
+Creature — Gremlin
+{1}, {T}: This creature deals 1 damage to each opponent.
+Whenever you cast a noncreature spell, untap this creature.
+1/1
+",https://scryfall.com/card/iko/108/blisterspit-gremlin,https://cards.scryfall.io/large/front/4/e/4ec65b97-d5c0-4609-8a60-3c4daa3e59c1.jpg?1591227078,蜇息怪灵,蜇息怪靈,Gremlin phlyctocracheur,Beizspucker-Gremlin,Gremlin Sputabrace,火傷吐きグレムリン,불꽃을 토하는 그렘린,Gremlin do Cuspe Corrosivo,Гремлин Едкой Слюны,Gremlin escupellamas
+Blitz of the Thunder-Raptor,"Blitz of the Thunder-Raptor	{1}{R}
+Instant
+Blitz of the Thunder-Raptor deals damage to target creature or planeswalker equal to the number of instant and sorcery cards in your graveyard. If that creature or planeswalker would die this turn, exile it instead.
+
+",https://scryfall.com/card/iko/109/blitz-of-the-thunder-raptor,https://cards.scryfall.io/large/front/a/0/a0174556-9f9b-4756-84ca-d14a5a60720c.jpg?1591227095,雷鸣龙闪击,雷鳴龍閃擊,Attaque éclair du Raptor de tonnerre,Blitz des Donnerraptors,Incursione del Tuonoraptor,雷猛竜の襲撃,천둥 랩터의 습격,Blitz do Raptor Tonante,Рывок Громового Хищника,Picado de la Rapaz del Trueno
+Cathartic Reunion,"Cathartic Reunion	{1}{R}
+Sorcery
+As an additional cost to cast this spell, discard two cards.
+Draw three cards.
+
+",https://scryfall.com/card/iko/110/cathartic-reunion,https://cards.scryfall.io/large/front/e/3/e3bca51a-b9be-4be2-a256-b15853fde433.jpg?1767731067,感人重逢,感人重逢,Retrouvailles cathartiques,Emotionales Wiedersehen,Ricongiungimento Catartico,安堵の再会,후련해지는 재회,Reunião Catártica,Трогательное Воссоединение,Reencuentro catártico
+Clash of Titans,"Clash of Titans	{3}{R}{R}
+Instant
+Target creature fights another target creature. (Each deals damage equal to its power to the other.)
+
+",https://scryfall.com/card/iko/111/clash-of-titans,https://cards.scryfall.io/large/front/c/a/ca10e2b8-a317-4c98-a866-43bf274e82cb.jpg?1591227117,巨物相争,巨物相爭,Choc des titans,Duell der Titanen,Scontro tra Titani,巨獣の激突,거신들의 격돌,Batalha dos Titãs,Битва Титанов,Batalla de titanes
+Cloudpiercer,"Cloudpiercer	{4}{R}
+Creature — Dinosaur
+Mutate {3}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Reach
+Whenever this creature mutates, you may discard a card. If you do, draw a card.
+5/4
+",https://scryfall.com/card/iko/112/cloudpiercer,https://cards.scryfall.io/large/front/3/e/3ec5f005-d8fb-48b8-8ac5-74445cc83273.jpg?1591227132,穿云庞龙,穿雲龐龍,Perce-nuages,Wolkendränger,Trafigginubi,雲貫き,구름관통꾼,Furanuvem,Пронзатель Облаков,Rascanubes
+Drannith Stinger,"Drannith Stinger	{1}{R}
+Creature — Human Wizard
+Whenever you cycle another card, this creature deals 1 damage to each opponent.
+Cycling {1} ({1}, Discard this card: Draw a card.)
+2/2
+",https://scryfall.com/card/iko/113/drannith-stinger,https://cards.scryfall.io/large/front/6/1/612ee4be-e7a2-423c-a37c-7c6ca97f630e.jpg?1591227149,卓尼斯术击师,卓尼斯術擊師,Piqueuse de Drannith,Drannithische Feuerstecherin,Pungolatrice di Drannith,ドラニスの刺突者,드라니스 불침꾼,Ferroadora de Drannith,Драннитская Уязвительница,Hechicera de Drannith
+Everquill Phoenix,"Everquill Phoenix	{2}{R}{R}
+Creature — Phoenix
+Mutate {3}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying
+Whenever this creature mutates, create a red artifact token named Feather with ""{1}, Sacrifice this token: Return target Phoenix card from your graveyard to the battlefield tapped.""
+4/4
+",https://scryfall.com/card/iko/114/everquill-phoenix,https://cards.scryfall.io/large/front/3/3/333db3bc-98e9-4635-b1b0-a7e57ee59165.jpg?1682209293,恒羽凤凰,恆羽鳳凰,Phénix aux plumes perpétuelles,Immerfeder-Phoenix,Fenice della Piuma Eterna,永遠羽のフェニックス,영원깃털 불사조,Fênix Plumeterna,Феникс Вечного Пера,Fénix plumaeterna
+Ferocious Tigorilla,"Ferocious Tigorilla	{3}{R}
+Creature — Cat Ape
+This creature enters with your choice of a trample counter or a menace counter on it. (A creature with menace can't be blocked except by two or more creatures.)
+4/3
+",https://scryfall.com/card/iko/115/ferocious-tigorilla,https://cards.scryfall.io/large/front/5/9/5976e8d8-5122-4423-b3eb-61170390ad7a.jpg?1591227173,凶猛虎猿,兇猛虎猿,Tigrorille féroce,Wilder Tigorilla,Tigrorilla Feroce,獰猛なゴリトラ,흉포한 호릴라,Tigrorila Feroz,Яростная Тигорилла,Tigrerila feroz
+Fire Prophecy,"Fire Prophecy	{1}{R}
+Instant
+Fire Prophecy deals 3 damage to target creature. You may put a card from your hand on the bottom of your library. If you do, draw a card.
+
+",https://scryfall.com/card/iko/116/fire-prophecy,https://cards.scryfall.io/large/front/4/c/4c2029e5-cf7d-461f-b7b9-bf96399d8f49.jpg?1591227186,烈火预言,烈火預言,Prophétie de feu,Feurige Prophezeiung,Profezia di Fuoco,火の予言,불꽃 예언,Profecia de Fogo,Огненное Пророчество,Profecía del fuego
+Flame Spill,"Flame Spill	{2}{R}
+Instant
+Flame Spill deals 4 damage to target creature. Excess damage is dealt to that creature's controller instead.
+
+",https://scryfall.com/card/iko/117/flame-spill,https://cards.scryfall.io/large/front/b/3/b3090004-d7dd-47bc-92e5-977be4fd9ae5.jpg?1591227197,烈焰如注,烈焰如注,Déversement de flammes,Flammenflut,Fuoriuscita di Fiamme,炎の氾濫,불길 흘리기,Vazamento de Chamas,Расплескавшееся Пламя,Verter fuego
+Footfall Crater,"Footfall Crater	{R}
+Enchantment — Aura
+Enchant land
+Enchanted land has ""{T}: Target creature gains trample and haste until end of turn.""
+Cycling {1} ({1}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/118/footfall-crater,https://cards.scryfall.io/large/front/f/1/f1b75aac-54e3-4181-bac5-5a142757ec05.jpg?1591227212,足印成坑,足印成坑,Cratère de l'Empreinte,Tatzenspur-Krater,Cratere di Grandepasso,踏み穴のクレーター,발자국 분화구,Cratera da Pegada,Следовой Кратер,Cráter de pisotón
+Forbidden Friendship,"Forbidden Friendship	{1}{R}
+Sorcery
+Create a 1/1 red Dinosaur creature token with haste and a 1/1 white Human Soldier creature token.
+
+",https://scryfall.com/card/iko/119/forbidden-friendship,https://cards.scryfall.io/large/front/e/6/e634baa3-2cdd-412a-9407-c347fe46f9b8.jpg?1591227220,禁忌友谊,禁忌友誼,Amitié interdite,Verbotene Freundschaft,Amicizia Proibita,禁じられた友情,금지된 우정,Amizade Proibida,Запретная Дружба,Amistad prohibida
+Frenzied Raptor,"Frenzied Raptor	{2}{R}
+Creature — Dinosaur
+
+4/2
+",https://scryfall.com/card/iko/120/frenzied-raptor,https://cards.scryfall.io/large/front/5/f/5fb22ac0-3863-4165-8c93-f2ec1775474f.jpg?1591227229,狂乱迅猛龙,狂亂迅猛龍,Raptor hystérique,Tobsüchtiger Raptor,Raptor Frenetico,激情の猛竜,광분한 랩터,Raptor Frenético,Разъяренный Раптор,Ráptor enloquecido
+Frillscare Mentor,"Frillscare Mentor	{2}{R}
+Creature — Human Warrior
+When this creature enters, put a menace counter on target non-Human creature you control. (It can't be blocked except by two or more creatures.)
+{2}{R}, {T}: Put a +1/+1 counter on each creature you control with menace.
+3/2
+",https://scryfall.com/card/iko/121/frillscare-mentor,https://cards.scryfall.io/large/front/2/4/24c7d034-6403-41e2-9e44-4d58ef54cf10.jpg?1591227240,威棱明师,威稜明師,Mentor épouvanteuse,Kragenschreck-Mentorin,Mentore dal Collarino Spaventoso,襟脅しの導師,주름공포 스승,Mentora da Gola do Pavor,Наставница Гребня Страха,Mentora de creaespantos
+Go for Blood,"Go for Blood	{1}{R}
+Sorcery
+Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
+Cycling {1} ({1}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/122/go-for-blood,https://cards.scryfall.io/large/front/6/7/67315df9-99a1-45ba-8ade-ddc476368a86.jpg?1591227254,直扑活物,直撲活物,Choix du sang,Gier nach Blut,Bramare il Sangue,血の希求,피 노리기,Dar o Sangue,Жажда Крови,A por sangre
+Heightened Reflexes,"Heightened Reflexes	{R}
+Instant
+Target creature gets +1/+0 until end of turn. Put a first strike counter on it.
+
+",https://scryfall.com/card/iko/123/heightened-reflexes,https://cards.scryfall.io/large/front/4/f/4f7cc8e7-3002-4ee0-869f-931438d8362d.jpg?1591227264,迅敏反应,迅敏反應,Réflexes augmentés,Geschärfte Reflexe,Riflessi Potenziati,反射神経の亢進,고조된 반사신경,Reflexos Aguçados,Обостренные Рефлексы,Reflejos agudizados
+Lava Serpent,"Lava Serpent	{5}{R}
+Creature — Elemental Serpent
+Haste
+Cycling {2} ({2}, Discard this card: Draw a card.)
+5/5
+",https://scryfall.com/card/iko/124/lava-serpent,https://cards.scryfall.io/large/front/0/0/00ebd57f-7f7c-41b0-aa56-511c1816bc14.jpg?1591227280,熔岩巨蛇,熔岩巨蛇,Serpent de lave,Lavaschlange,Serpe della Lava,溶岩の海蛇,용암 이무기,Serpente da Lava,Лавовый Змей,Serpiente de lava
+"Lukka, Coppercoat Outcast","Lukka, Coppercoat Outcast	{3}{R}{R}
+Legendary Planeswalker — Lukka
+[+1]: Exile the top three cards of your library. Creature cards exiled this way gain ""You may cast this card from exile as long as you control a Lukka planeswalker.""
+[−2]: Exile target creature you control, then reveal cards from the top of your library until you reveal a creature card with greater mana value. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
+[−7]: Each creature you control deals damage equal to its power to each opponent.
+
+",https://scryfall.com/card/iko/125/lukka-coppercoat-outcast,https://cards.scryfall.io/large/front/5/7/5798fdf0-d178-43d9-b821-8f3f654654b4.jpg?1591227292,紫铜军黜人卢卡,紫銅軍黜人盧卡,"Lukka, proscrit des Capes de cuivre","Lukka, Verstoßener der Kupferjacken","Lukka, Reietto delle Giubbe Ramate",銅纏いののけ者、ルーカ,"구리 코트 추방자, 루카","Lukka, Pária Gibão de Cobre","Лукка, Изгой Медных Кителей","Lukka, paria de las Capas de Cobre"
+Momentum Rumbler,"Momentum Rumbler	{3}{R}
+Creature — Dinosaur
+Whenever this creature attacks, if it doesn't have first strike, put a first strike counter on it.
+Whenever this creature attacks, if it has first strike, it gains double strike until end of turn.
+3/3
+",https://scryfall.com/card/iko/126/momentum-rumbler,https://cards.scryfall.io/large/front/3/5/3587f450-c1ba-4074-84bb-47978a2b6116.jpg?1591227302,猛冲撼地龙,猛衝撼地龍,Grondeur fougueux,Wuchtvoller Polterer,Fracassatore alla Carica,勢い付く地鳴らし,속도를 내는 난동꾼,Troante Desenfreado,Разогнавшийся Громила,Retumbador impetuoso
+Mythos of Vadrok,"Mythos of Vadrok	{2}{R}{R}
+Sorcery
+Mythos of Vadrok deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers. If {W}{U} was spent to cast this spell, until your next turn, those permanents can't attack or block and their activated abilities can't be activated.
+
+",https://scryfall.com/card/iko/127/mythos-of-vadrok,https://cards.scryfall.io/large/front/2/b/2bbe99a7-3b58-4f23-bf86-e1e35b0bec2e.jpg?1591227315,瓦卓克传说,瓦卓克傳說,Mythe de Vadrok,Mythos von Vadrok,Mito di Vadrok,ヴァドロックの神話,바드로크의 신화,Mito de Vadrok,Сказание о Вадроке,Mito de Vadrok
+Porcuparrot,"Porcuparrot	{3}{R}
+Creature — Bird Beast
+Mutate {2}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+{T}: This creature deals X damage to any target, where X is the number of times this creature has mutated.
+3/4
+",https://scryfall.com/card/iko/128/porcuparrot,https://cards.scryfall.io/large/front/8/5/856892c8-ba47-46d0-aec2-0416b55b9e88.jpg?1591227333,箭羽鹦鹉,箭羽鸚鵡,Psittacérisson,Stachelpapagei,Istrigallo,ヤマオウム,앵무도치,Papagaio-espinho,Попугобраз,Loroespín
+Prickly Marmoset,"Prickly Marmoset	{2}{R}
+Creature — Monkey
+First strike
+Whenever you cycle a card, this creature gets +2/+0 until end of turn.
+2/3
+",https://scryfall.com/card/iko/129/prickly-marmoset,https://cards.scryfall.io/large/front/b/a/bad8512f-31b9-48ba-bb10-1497303dcfba.jpg?1591227345,带刺狨猴,帶刺狨猴,Marmouset piquant,Stachliges Krallenäffchen,Marmosetta Pungente,トゲマーモセット,가시돋친 마모셋,Sagui Espinhoso,Колючая Мармозетка,Tití espinoso
+Pyroceratops,"Pyroceratops	{3}{R}
+Creature — Elemental Dinosaur
+Trample
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+2/3
+",https://scryfall.com/card/iko/130/pyroceratops,https://cards.scryfall.io/large/front/f/6/f6599645-dbb5-4174-bd26-8556af6d89c3.jpg?1591227360,焰身角龙,焰身角龍,Pyrocératops,Pyroceratops,Piroceratopo,パイロケラトプス,화염케라톱스,Pirocerátopo,Пироцератопс,Piroceratops
+Raking Claws,"Raking Claws	{1}{R}
+Instant
+Target creature gains double strike until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/131/raking-claws,https://cards.scryfall.io/large/front/6/e/6eb0d9a2-f9bb-4d8e-a1ca-896c42f8ad56.jpg?1591227372,利爪掠击,利爪掠擊,Griffes ratissantes,Reißende Klauen,Artigli Laceranti,ひっかく鉤爪,갈퀴질하는 발톱,Garras de Ancinho,Раздирающие Когти,Zarpas desgarradoras
+Reptilian Reflection,"Reptilian Reflection	{2}{R}
+Enchantment
+Whenever you cycle a card, you may have this enchantment become a 5/4 Dinosaur creature with trample and haste in addition to its other types until end of turn.
+
+",https://scryfall.com/card/iko/132/reptilian-reflection,https://cards.scryfall.io/large/front/7/8/7871b4dd-9085-4a3f-a1ae-9a292f73689b.jpg?1591227382,爬虫映影,爬蟲映影,Reflet reptilien,Reptilische Spiegelung,Riflesso Rettile,爬虫類の反射,파충류의 반사상,Reflexo Reptiliano,Отражение Ящера,Reflejo reptiliano
+Rooting Moloch,"Rooting Moloch	{4}{R}
+Creature — Lizard
+When this creature enters, exile target card with a cycling ability from your graveyard. Until the end of your next turn, you may play that card.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+4/4
+",https://scryfall.com/card/iko/133/rooting-moloch,https://cards.scryfall.io/large/front/c/c/cc2fd581-5cf8-4154-90dd-922afddcd556.jpg?1591227393,掘根棘蜥,掘根棘蜥,Diable cornu éradicateur,Wühlender Moloch,Moloc Abbarbicato,発根のモロク,파헤치는 가시도마뱀,Moloch Escavador,Роющий Землю Молох,Moloc hocicador
+Rumbling Rockslide,"Rumbling Rockslide	{3}{R}
+Sorcery
+Rumbling Rockslide deals damage to target creature equal to the number of lands you control.
+
+",https://scryfall.com/card/iko/134/rumbling-rockslide,https://cards.scryfall.io/large/front/4/f/4f06b53f-ec82-4d7f-bee3-6ca04583f023.jpg?1699044331,隆响石流,隆響石流,Glissement de roches grondant,Polternder Bergsturz,Frana Roboante,轟く岩滑り,우르릉대는 산사태,Deslizamento Ribombante,Громыхающий Обвал,Desprendimiento estentóreo
+Sanctuary Smasher,"Sanctuary Smasher	{4}{R}{R}
+Creature — Rhino Beast
+First strike
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+When you cycle this card, put a first strike counter on target creature you control.
+6/4
+",https://scryfall.com/card/iko/135/sanctuary-smasher,https://cards.scryfall.io/large/front/c/c/cc634c10-42c5-4bdc-bc22-f862ae285492.jpg?1591227414,庇护地破坏兽,庇護地破壞獸,Fracasseur de sanctuaire,Zerstörer des Zufluchtsorts,Devastatore del Santuario,聖域潰し,성소 파괴자,Arrebentador do Santuário,Сокрушитель Убежища,Devastasantuarios
+Shredded Sails,"Shredded Sails	{1}{R}
+Instant
+Choose one —
+• Destroy target artifact.
+• Shredded Sails deals 4 damage to target creature with flying.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/136/shredded-sails,https://cards.scryfall.io/large/front/8/b/8b10219a-aa72-4431-9a6a-984109a605c8.jpg?1591227427,翔帆损毁,翔帆損毀,Voiles en lambeaux,Zerfetzte Segel,Vele Squarciate,切り裂かれた帆,찢겨진 돛,Velas Despedaçadas,Изорванные Паруса,Velas hechas jirones
+Spelleater Wolverine,"Spelleater Wolverine	{2}{R}
+Creature — Wolverine
+This creature has double strike as long as there are three or more instant and/or sorcery cards in your graveyard.
+3/2
+",https://scryfall.com/card/iko/137/spelleater-wolverine,https://cards.scryfall.io/large/front/a/5/a5f03ffd-dcdb-441c-8dfc-4fe06a289b22.jpg?1591227436,噬咒狼獾,噬咒狼獾,Glouton mangesort,Zauberstarker Vielfraß,Ghiottone Ingoiamagie,呪文喰いクズリ,주문포식자 울버린,Carcaju Magífago,Пожирающая Заклинания Росомаха,Glotón devorahechizos
+Tentative Connection,"Tentative Connection	{3}{R}
+Sorcery
+This spell costs {3} less to cast if you control a creature with menace.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+
+",https://scryfall.com/card/iko/138/tentative-connection,https://cards.scryfall.io/large/front/5/c/5c40fd33-bb95-48f3-a10f-a33eb27c48f1.jpg?1591227449,暂时性联系,暫時性聯繫,Connexion hésitante,Zaghafte Verbindung,Tentativo di Avvicinamento,一時的な連帯,잠정적인 관계,Conexão Hesitante,Неуверенная Связь,Conexión tentativa
+Unpredictable Cyclone,"Unpredictable Cyclone	{3}{R}{R}
+Enchantment
+If a cycling ability of another nonland card would cause you to draw a card, instead exile cards from the top of your library until you exile a card that shares a card type with the cycled card. You may cast that card without paying its mana cost. Then put the exiled cards that weren't cast this way on the bottom of your library in a random order.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/139/unpredictable-cyclone,https://cards.scryfall.io/large/front/3/a/3a0462f6-a027-43c0-8e01-c0591d9a45d9.jpg?1591227461,难测气旋,難測氣旋,Cyclone imprévisible,Unberechenbarer Zyklon,Ciclone Imprevedibile,予測不能な竜巻,예측할 수 없는 회오리,Ciclone Imprevisível,Непредсказуемый Циклон,Ciclón impredecible
+Weaponize the Monsters,"Weaponize the Monsters	{R}
+Enchantment
+{2}, Sacrifice a creature: This enchantment deals 2 damage to any target.
+
+",https://scryfall.com/card/iko/140/weaponize-the-monsters,https://cards.scryfall.io/large/front/6/8/68bba622-a0ab-4c0e-88b1-9120690ea5a0.jpg?1591227470,以兽为兵,以獸為兵,Arsenaliser les monstres,Monstergeschoss,Armarsi di Mostri,怪物の兵器化,괴수 무기화,Militarizar os Monstros,Вербовка Чудовищ,Monstruos como armas
+"Yidaro, Wandering Monster","Yidaro, Wandering Monster	{5}{R}{R}
+Legendary Creature — Dinosaur Turtle
+Trample, haste
+Cycling {1}{R}
+When you cycle this card, shuffle it into your library from your graveyard. If you've cycled a card named Yidaro, Wandering Monster four or more times this game, put it onto the battlefield from your graveyard instead. (Do this before you draw.)
+8/8
+",https://scryfall.com/card/iko/141/yidaro-wandering-monster,https://cards.scryfall.io/large/front/b/5/b540c7c6-5b9e-4606-ac84-e583a62a3647.jpg?1591227479,游荡怪兽依达罗,遊蕩怪獸依達羅,"Yidaro, monstre errant","Yidaro, das wandernde Monster","Yidaro, Mostro Errante",さまよう怪物、イダーロ,"떠도는 괴수, 이다로","Yidaro, Monstro Errante","Идаро, Бродячее Чудовище","Yidaro, el Monstruo Errante"
+Adventurous Impulse,"Adventurous Impulse	{G}
+Sorcery
+Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+
+",https://scryfall.com/card/iko/142/adventurous-impulse,https://cards.scryfall.io/large/front/3/0/30811fb2-5767-4106-9a8d-6091f61969c6.jpg?1591227489,冒险冲动,冒險衝動,Impulsion audacieuse,Abenteuerlust,Impulso Avventuroso,冒険の衝動,대담한 충동,Impulso Aventureiro,Зов Приключений,Impulso aventurero
+Almighty Brushwagg,"Almighty Brushwagg	{G}
+Creature — Brushwagg
+Trample
+{3}{G}: This creature gets +3/+3 until end of turn.
+1/1
+",https://scryfall.com/card/iko/143/almighty-brushwagg,https://cards.scryfall.io/large/front/7/1/71f2b7ac-8742-468d-b6a3-87881cb522ff.jpg?1591227501,威能丛枝兽,威能叢枝獸,Bosquérisson tout-puissant,Mächtiger Buschköter,Burlarbusto Onnipotente,万能のブラッシュワグ,전능한 브러시와그,Tojo Todo-poderoso,Всемогущий Брушвагг,Yerbamala poderosa
+Auspicious Starrix,"Auspicious Starrix	{4}{G}
+Creature — Elk Beast
+Mutate {5}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, exile cards from the top of your library until you exile X permanent cards, where X is the number of times this creature has mutated. Put those permanent cards onto the battlefield.
+6/6
+",https://scryfall.com/card/iko/144/auspicious-starrix,https://cards.scryfall.io/large/front/a/3/a39ae1e4-d4dd-4691-af5a-5fa25ace4ebe.jpg?1681500723,祥兆枭鹿,祥兆梟鹿,Starrix prospère,Verheißungsvoller Starrix,Starrix del Buon Auspicio,恵みのスターリックス,상서로운 스타릭스,Starrix Auspiciosa,Приносящий Удачу Старрикс,Starrix propicio
+Barrier Breach,"Barrier Breach	{2}{G}
+Instant
+Exile up to three target enchantments.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/145/barrier-breach,https://cards.scryfall.io/large/front/8/2/822f8403-77a7-4e75-88af-60d604632f5d.jpg?1591227530,冲破屏障,衝破屏障,Brèche de barrière,Barrierensturm,Breccia della Barriera,障壁突破,장벽 돌파,Ruptura na Barreira,Пролом Преграды,Brecha en la barrera
+Bristling Boar,"Bristling Boar	{3}{G}
+Creature — Boar
+This creature can't be blocked by more than one creature.
+4/3
+",https://scryfall.com/card/iko/146/bristling-boar,https://cards.scryfall.io/large/front/c/3/c3c3243c-e9af-4b7d-8296-f7714436e571.jpg?1591227540,鬃毛野猪,鬃毛野豬,Sanglier hérissé,Borstiges Wildschwein,Cinghiale Irsuto,逆毛の猪,성난 멧돼지,Javali Eriçado,Щетинистый Вепрь,Jabalí encrespado
+Charge of the Forever-Beast,"Charge of the Forever-Beast	{2}{G}
+Sorcery
+As an additional cost to cast this spell, reveal a creature card from your hand.
+Charge of the Forever-Beast deals damage to target creature or planeswalker equal to the revealed card's power.
+
+",https://scryfall.com/card/iko/147/charge-of-the-forever-beast,https://cards.scryfall.io/large/front/4/b/4bf147a6-2282-4120-9cbd-d0309fc9b02b.jpg?1636491395,恒天犀冲锋,恆天犀衝鋒,Charge de la Bête d'éternité,Ansturm der Ewigkeitsbestie,Carica della Bestia Eterna,永遠獣の突撃,영원한 야수의 돌진,Carga da Fera Eterna,Натиск Вечного Зверя,Carga de la Bestia Infinita
+Colossification,"Colossification	{5}{G}{G}
+Enchantment — Aura
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature gets +20/+20.
+
+",https://scryfall.com/card/iko/148/colossification,https://cards.scryfall.io/large/front/c/2/c2cad902-ffd2-4bab-b114-b4b6df2ac6b3.jpg?1721428099,庞硕化,龐碩化,Colossification,Kolossifizierung,Colossificazione,著大化,거상화,Colossificação,Колоссификация,Colosificación
+Essence Symbiote,"Essence Symbiote	{1}{G}
+Creature — Beast
+Whenever a creature you control mutates, put a +1/+1 counter on that creature and you gain 2 life.
+2/2
+",https://scryfall.com/card/iko/149/essence-symbiote,https://cards.scryfall.io/large/front/8/d/8d09ddf0-91f0-4e76-809f-c39ca7418ed5.jpg?1688477304,精魂共生体,精魂共生體,Symbiote d'essence,Essenzsymbiont,Simbionte dell'Essenza,本質共生体,정수 공생자,Simbionte da Essência,Симбионт Сущности,Simbionte de esencia
+Excavation Mole,"Excavation Mole	{2}{G}
+Creature — Mole
+Trample
+When this creature enters, mill three cards.
+3/3
+",https://scryfall.com/card/iko/150/excavation-mole,https://cards.scryfall.io/large/front/3/a/3a1712dc-8f4c-407f-83ea-3a1c59c437d1.jpg?1591227583,掘地鼹鼠,掘地鼴鼠,Taupe d'excavation,Ausgrabungsmaulwurf,Talpa da Escavazione,掘削モグラ,굴착 두더지,Toupeira de Escavação,Крот-Раскапыватель,Topo de la excavación
+Exuberant Wolfbear,"Exuberant Wolfbear	{3}{G}
+Creature — Wolf Bear
+Whenever this creature attacks, you may change the base power and toughness of target Human you control to this creature's power and toughness until end of turn.
+4/4
+",https://scryfall.com/card/iko/151/exuberant-wolfbear,https://cards.scryfall.io/large/front/8/c/8c8ff0da-fbe3-4c95-bc39-c975c55b6aea.jpg?1615720626,亢奋狼熊,亢奮狼熊,Lupours exubérant,Unbändiger Wolfsbär,Luporso Esuberante,溌剌とした狼熊,활기 넘치는 늑대곰,Loburso Exuberante,Неудержимый Медведеволк,Loboso vehemente
+Fertilid,"Fertilid	{2}{G}
+Creature — Elemental
+This creature enters with two +1/+1 counters on it.
+{1}{G}, Remove a +1/+1 counter from this creature: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
+0/0
+",https://scryfall.com/card/iko/152/fertilid,https://cards.scryfall.io/large/front/2/d/2d73ea23-52ab-4b92-b263-dc8b9e5a1010.jpg?1682209480,沃壤灵,沃壤靈,Fertilide,Ergiebigmacher,Fertilid,ファーティリド,퍼틸리드,Fertilídio,Фертилид,Fertílido
+Flycatcher Giraffid,"Flycatcher Giraffid	{4}{G}
+Creature — Antelope Lizard
+This creature enters with your choice of a vigilance counter or a reach counter on it.
+3/5
+",https://scryfall.com/card/iko/153/flycatcher-giraffid,https://cards.scryfall.io/large/front/1/9/1988e220-d746-46e4-a534-164203e63c14.jpg?1591227617,捕蝇长颈兽,捕蠅長頸獸,Girafide gobe-mouches,Fliegenfänger-Giraffid,Giraffide Afferramosche,ハエ捕り長首,파리잡이 기린목,Girafídeo Papa-moscas,Жирафовая Мухоловка,Jiráfido cazamoscas
+Fully Grown,"Fully Grown	{2}{G}
+Instant
+Target creature gets +3/+3 until end of turn. Put a trample counter on it.
+
+",https://scryfall.com/card/iko/154/fully-grown,https://cards.scryfall.io/large/front/0/b/0b683d3f-025c-4b8d-89d7-3513488649d5.jpg?1591227638,茁壮成长,茁壯成長,Taille maximale,Ausgewachsen,Completamente Cresciuto,充分な成長,성장 완료,Totalmente Crescido,Полный Рост,En la fase adulta
+Gemrazer,"Gemrazer	{3}{G}
+Creature — Beast
+Mutate {1}{G}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Reach, trample
+Whenever this creature mutates, destroy target artifact or enchantment an opponent controls.
+4/4
+",https://scryfall.com/card/iko/155/gemrazer,https://cards.scryfall.io/large/front/0/0/0095245c-a30e-4e2a-88c9-632c678e9f03.jpg?1591227650,碎晶狂兽,碎晶狂獸,Terrasseur de gemmes,Kristallreißer,Spezzagemme,水晶壊し,보석파괴자,Destruidor de Gemas,Истребитель Самоцветов,Destruyegemas
+Glowstone Recluse,"Glowstone Recluse	{2}{G}
+Creature — Spider
+Mutate {3}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Reach
+Whenever this creature mutates, put two +1/+1 counters on it.
+2/3
+",https://scryfall.com/card/iko/156/glowstone-recluse,https://cards.scryfall.io/large/front/0/6/06a9698d-400c-4c31-82cd-28d0897fe28c.jpg?1591227663,光石隐士,光石隱士,Recluse des nitescenthes,Glimmstein-Einsiedlerspinne,Eremita della Splendipietra,輝き石のイトグモ,발광석 은둔거미,Aranha-violino do Luminólito,Отшельник Светокамня,Reclusa de las rocas irradialuz
+Greater Sandwurm,"Greater Sandwurm	{5}{G}{G}
+Creature — Wurm
+This creature can't be blocked by creatures with power 2 or less.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+7/7
+",https://scryfall.com/card/iko/157/greater-sandwurm,https://cards.scryfall.io/large/front/d/9/d90c5650-7eb2-480a-856e-a04406096830.jpg?1591227678,高大沙丘亚龙,高大沙丘亞龍,Grande guivre des sables,Großer Sandwurm,Wurm Sabbioso Maggiore,大いなるサンドワーム,대형 모래웜,Grão-vorme-da-areia,Гигантский Песчаный Вурм,Gran sierpe de arena
+Honey Mammoth,"Honey Mammoth	{4}{G}{G}
+Creature — Elephant
+When this creature enters, you gain 4 life.
+6/6
+",https://scryfall.com/card/iko/158/honey-mammoth,https://cards.scryfall.io/large/front/8/4/84b9bee2-b973-4de7-b72d-7f36f8e8153c.jpg?1591227690,饮蜜长毛象,飲蜜長毛象,Mammouth à miel,Honigmammut,Mammut del Miele,蜂蜜マンモス,꿀 맘모스,Mamute do Mel,Медовый Мамонт,Mamut de la miel
+Hornbash Mentor,"Hornbash Mentor	{2}{G}
+Creature — Human Warrior
+When this creature enters, put a trample counter on target non-Human creature you control.
+{2}{G}, {T}: Put a +1/+1 counter on each creature you control with trample.
+3/3
+",https://scryfall.com/card/iko/159/hornbash-mentor,https://cards.scryfall.io/large/front/d/4/d47d2596-a321-44c0-a9f6-87bf80abc1c4.jpg?1591227700,突角明师,突角明師,Mentor tapecorne,Horntrutz-Mentor,Mentore del Corno Dirompente,角突きの導師,뿔돌진 스승,Mentor da Chifradaria,Наставник Таранного Рога,Mentor de cuernazos
+Humble Naturalist,"Humble Naturalist	{1}{G}
+Creature — Human Druid
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell.
+1/3
+",https://scryfall.com/card/iko/160/humble-naturalist,https://cards.scryfall.io/large/front/8/f/8f56705d-eb64-4cef-b716-edbeac60bf79.jpg?1591227710,谦卑归真师,謙卑歸真師,Humble naturaliste,Demütiger Naturkundler,Naturalista Umile,謙虚な自然主義者,겸손한 자연주의자,Naturalista Humilde,Скромный Натуралист,Naturalista humilde
+Ivy Elemental,"Ivy Elemental	{X}{G}
+Creature — Elemental
+This creature enters with X +1/+1 counters on it.
+0/0
+",https://scryfall.com/card/iko/161/ivy-elemental,https://cards.scryfall.io/large/front/8/e/8e8aea71-02aa-4799-86fb-efd2a36efc22.jpg?1591227721,长春藤元素,長春藤元素,Élémental de lierre,Efeuelementar,Elementale d'Edera,キヅタの精霊,담쟁이덩굴 정령,Elemental de Hera,Элементаль Плюща,Elemental de hiedra
+"Kogla, the Titan Ape","Kogla, the Titan Ape	{3}{G}{G}{G}
+Legendary Creature — Ape
+When Kogla enters, it fights up to one target creature you don't control.
+Whenever Kogla attacks, destroy target artifact or enchantment defending player controls.
+{1}{G}: Return target Human you control to its owner's hand. Kogla gains indestructible until end of turn.
+7/6
+",https://scryfall.com/card/iko/162/kogla-the-titan-ape,https://cards.scryfall.io/large/front/3/c/3c35ca79-eb72-427a-a8ed-404b2214389a.jpg?1591227737,庞巨猿猴寇格拉,龐巨猿猴寇格拉,"Kogla, le singe titan",Kogla der Affentitan,"Kogla, il Gorilla Titanico",巨大猿、コグラ,"거대 유인원, 코글라","Kogla, o Símio Titânico","Когла, Исполинская Обезьяна","Kogla, el Simio Titánico"
+Lead the Stampede,"Lead the Stampede	{2}{G}
+Sorcery
+Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+
+",https://scryfall.com/card/iko/163/lead-the-stampede,https://cards.scryfall.io/large/front/9/e/9e76b676-c7a3-4de6-a78d-3059a0df83f2.jpg?1591227752,引领狂奔,引領狂奔,En tête de la ruée,Den Ansturm leiten,Guidare l'Assalto,暴走の先導,폭주의 선두,Guiar o Estouro,Во Главе Табуна,Liderar la estampida
+Migration Path,"Migration Path	{3}{G}
+Sorcery
+Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/164/migration-path,https://cards.scryfall.io/large/front/2/1/21e3dfad-69b6-416c-966b-0d9c876d22fe.jpg?1743206963,迁徙路径,遷徙路徑,Voie migratoire,Migrationspfad,Percorso Migratorio,移動経路,이주 경로,Trilha de Migração,Путь Миграции,Camino migratorio
+Migratory Greathorn,"Migratory Greathorn	{3}{G}
+Creature — Beast
+Mutate {2}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+3/4
+",https://scryfall.com/card/iko/165/migratory-greathorn,https://cards.scryfall.io/large/front/6/a/6a2a287b-b83f-444f-84f7-e388beb616c2.jpg?1591227787,迁徙巨角兽,遷徙巨角獸,Grandcorne migrateur,Nomadisierendes Großhorn,Corno Possente Migratorio,渡る大角,이주하는 거대뿔,Megacórneo Migratório,Кочующий Большерог,Grancuerno migratorio
+Monstrous Step,"Monstrous Step	{4}{G}
+Sorcery
+Target creature gets +7/+7 until end of turn. Up to one other target creature blocks it this turn if able.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/166/monstrous-step,https://cards.scryfall.io/large/front/8/9/893f300b-a823-4156-90f2-0636e9f499b0.jpg?1591227799,巨兽踏步,巨獸踏步,Pas monstrueux,Monströser Schritt,Passo Mostruoso,巨怪な一歩,무시무시한 발걸음,Passo Monstruoso,Чудовищная Поступь,Paso monstruoso
+Mosscoat Goriak,"Mosscoat Goriak	{2}{G}
+Creature — Beast
+Vigilance
+2/4
+",https://scryfall.com/card/iko/167/mosscoat-goriak,https://cards.scryfall.io/large/front/c/2/c23139d4-0db5-4683-8d49-f4600fbe29e2.jpg?1591227812,苔皮猿牦,苔皮猿犛,Goriak à fourrure de mousse,Moosfell-Goriak,Goriak del Mantomuschiato,苔毛のゴリアク,이끼로 뒤덮인 고리악,Goriaque-de-musgomanto,Мохошкурый Гориак,Goriak musgoabrigo
+Mythos of Brokkos,"Mythos of Brokkos	{2}{G}{G}
+Sorcery
+If {U}{B} was spent to cast this spell, search your library for a card, put that card into your graveyard, then shuffle.
+Return up to two permanent cards from your graveyard to your hand.
+
+",https://scryfall.com/card/iko/168/mythos-of-brokkos,https://cards.scryfall.io/large/front/f/a/fa4fc5b1-6666-4c60-898f-f927212c7923.jpg?1603884849,布洛寇传说,布洛寇傳說,Mythe de Brokkos,Mythos von Brokkos,Mito di Broykos,ブロコスの神話,브로코스의 신화,Mito de Brokkos,Сказание о Броккосе,Mito de Brokkos
+Plummet,"Plummet	{1}{G}
+Instant
+Destroy target creature with flying.
+
+",https://scryfall.com/card/iko/169/plummet,https://cards.scryfall.io/large/front/5/4/5469e696-bbf1-43e3-9c25-fe089b36caed.jpg?1636224615,铅直落下,鉛直落下,Tomber à pic,Absturz,Cadere a Picco,垂直落下,급추락,Tombar,Стремительное Падение,En picado
+Ram Through,"Ram Through	{1}{G}
+Instant
+Target creature you control deals damage equal to its power to target creature you don't control. If the creature you control has trample, excess damage is dealt to that creature's controller instead.
+
+",https://scryfall.com/card/iko/170/ram-through,https://cards.scryfall.io/large/front/4/4/44063a90-e4cf-4bcd-a128-792de15371a7.jpg?1689998782,轰然撞倒,轟然撞倒,Coup de bélier,Durchrammen,Incornare,強行突破,들이받고 지나가기,Carneirada,Снести с Ног,Arremeter
+Sudden Spinnerets,"Sudden Spinnerets	{G}
+Instant
+Target creature gets +1/+3 until end of turn. Put a reach counter on it. Untap it.
+
+",https://scryfall.com/card/iko/171/sudden-spinnerets,https://cards.scryfall.io/large/front/3/7/3730996a-96d2-4311-a4dc-0045a2f8ccc9.jpg?1591227860,纺丝突袭,紡絲突襲,Filières soudaines,Plötzliche Spinnendrüsen,Filiere Improvvise,突然の吐糸,갑작스러운 방적돌기,Fieiras Repentinas,Внезапная Паутина,Hiladores súbitos
+Survivors' Bond,"Survivors' Bond	{1}{G}
+Sorcery
+Choose one or both —
+• Return target Human creature card from your graveyard to your hand.
+• Return target non-Human creature card from your graveyard to your hand.
+
+",https://scryfall.com/card/iko/172/survivors-bond,https://cards.scryfall.io/large/front/5/3/530ff2a1-6447-4653-a661-d9a39156d6fa.jpg?1591227873,求生家羁绊,求生家羈絆,Lien des survivants,Bund der Überlebenden,Vincolo dei Superstiti,生存者の絆,생존자들의 유대,Vínculo dos Sobreviventes,Узы Уцелевших,Vínculo de supervivientes
+Thwart the Enemy,"Thwart the Enemy	{2}{G}
+Instant
+Prevent all damage that would be dealt this turn by creatures your opponents control.
+
+",https://scryfall.com/card/iko/173/thwart-the-enemy,https://cards.scryfall.io/large/front/a/7/a7101f35-d8c9-4320-bffc-8bb25000d103.jpg?1591227887,遏阻敌人,遏阻敵人,Contrarier l'ennemi,Den Gegner stoppen,Contrastare il Nemico,敵軍妨害,적 좌절시키기,Frustrar o Inimigo,Помешать Врагу,Frustrar al enemigo
+Titanoth Rex,"Titanoth Rex	{7}{G}{G}
+Creature — Dinosaur Beast
+Trample
+Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)
+When you cycle this card, put a trample counter on target creature you control.
+11/11
+",https://scryfall.com/card/iko/174/titanoth-rex,https://cards.scryfall.io/large/front/9/d/9d02e1e8-b85b-4e26-8ab8-ca2f49d05b88.jpg?1591227898,霸巨龙,霸巨龍,Titanoth rex,Titanosaurus Rex,Titanos Rex,タイタノス・レックス,티타노스 렉스,Titanote Rex,Титанот Рекс,Titanorrex
+"Vivien, Monsters' Advocate","Vivien, Monsters' Advocate	{3}{G}{G}
+Legendary Planeswalker — Vivien
+You may look at the top card of your library any time.
+You may cast creature spells from the top of your library.
+[+1]: Create a 3/3 green Beast creature token. Put your choice of a vigilance counter, a reach counter, or a trample counter on it.
+[−2]: When you next cast a creature spell this turn, search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle.
+
+",https://scryfall.com/card/iko/175/vivien-monsters-advocate,https://cards.scryfall.io/large/front/5/0/504ebb84-7e7b-4119-a128-a9c183c5d9de.jpg?1673946629,护兽薇薇安,護獸薇薇安,"Vivien, partisane des monstres","Vivien, Fürsprecherin der Monster","Vivien, Fautrice dei Mostri",怪物の代言者、ビビアン,"괴수들의 대변인, 비비안","Vivien, Protetora dos Monstros","Вивьен, Защитница Монстров","Vivien, defensora de los monstruos"
+Wilt,"Wilt	{1}{G}
+Instant
+Destroy target artifact or enchantment.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/176/wilt,https://cards.scryfall.io/large/front/5/5/55987bab-c24f-4261-b97e-f0ad4474b0a0.jpg?1591227929,枝叶凋零,枝葉凋零,Flétrissure,Verwelken,Appassire,萎れ,시듦,Esmorecer,Захирение,Marchitarse
+Back for More,"Back for More	{4}{B}{G}
+Instant
+Return target creature card from your graveyard to the battlefield. When you do, it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)
+
+",https://scryfall.com/card/iko/177/back-for-more,https://cards.scryfall.io/large/front/3/f/3fc7210c-da23-4cec-9195-4de75587f40f.jpg?1591227943,返身再战,返身再戰,En redemander,Rückkehr für Rache,Ritorno Vendicativo,再来,더 강해진 귀환,Retrucar,Возвращение за Добавкой,Volver a por más
+Boneyard Lurker,"Boneyard Lurker	{2}{B}{G}
+Creature — Nightmare Beast
+Mutate {2}{B/G}{B/G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, return target permanent card from your graveyard to your hand.
+4/4
+",https://scryfall.com/card/iko/178/boneyard-lurker,https://cards.scryfall.io/large/front/3/7/37e4df5b-ec53-4f8a-8c26-272b3177c0a6.jpg?1591227954,聚骨场蛰兽,聚骨場蟄獸,Guetteur de l'ossuaire,Knochengrund-Lauerer,Predatore dell'Ossario,骨塚潜み,납골지 잠복꾼,Espreitador do Ossário,Охотник с Могильника,Acechador del osario
+"Brokkos, Apex of Forever","Brokkos, Apex of Forever	{2}{B}{G}{U}
+Legendary Creature — Nightmare Beast Elemental
+Mutate {2}{U/B}{G}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Trample
+You may cast this card from your graveyard using its mutate ability.
+6/6
+",https://scryfall.com/card/iko/179/brokkos-apex-of-forever,https://cards.scryfall.io/large/front/c/9/c9f07625-fbd8-4581-8568-eb3cfb2a4c1e.jpg?1591227964,恒天霸犀布洛寇,恆天霸犀布洛寇,"Brokkos, Zénith de l'éternité","Brokkos, Apex der Ewigkeit","Broykos, Alfa dell'Eternità",永遠の頂点、ブロコス,"영원의 정점, 브로코스","Brokkos, Ápice da Eternidade","Броккос, Венец Вечности","Brokkos, Alfa de la Eternidad"
+Channeled Force,"Channeled Force	{2}{U}{R}
+Instant
+As an additional cost to cast this spell, discard X cards.
+Target player draws X cards. Channeled Force deals X damage to up to one target creature or planeswalker.
+
+",https://scryfall.com/card/iko/180/channeled-force,https://cards.scryfall.io/large/front/8/9/8918d24e-8ae8-4028-9f06-ba6fafcc717e.jpg?1591227972,通贯魔力,通貫魔力,Force canalisée,Kanalisierte Macht,Forza Incanalata,交感の力,전달되는 힘,Força Canalizada,Направленная Сила,Fuerza canalizada
+"Chevill, Bane of Monsters","Chevill, Bane of Monsters	{B}{G}
+Legendary Creature — Human Rogue
+Deathtouch
+At the beginning of your upkeep, if your opponents control no permanents with bounty counters on them, put a bounty counter on target creature or planeswalker an opponent controls.
+Whenever a permanent an opponent controls with a bounty counter on it dies, you gain 3 life and draw a card.
+1/3
+",https://scryfall.com/card/iko/181/chevill-bane-of-monsters,https://cards.scryfall.io/large/front/f/e/fecbf0a3-ebe1-43b6-a720-462ba19002eb.jpg?1591227985,怪兽天敌车维尔,怪獸天敵車維爾,"Chévill, fléau des monstres","Chevill, Erzfeind der Monster","Chevill, Flagello dei Mostri",怪物の災厄、チェビル,"괴수들의 재앙, 체빌","Chevill, Ruína dos Monstros","Чевилл, Бич Монстров","Chevill, la Pesadilla de los Monstruos"
+Death's Oasis,"Death's Oasis	{W}{B}{G}
+Enchantment
+Whenever a nontoken creature you control dies, mill two cards. Then return a creature card with lesser mana value than the creature that died from your graveyard to your hand.
+{1}, Sacrifice this enchantment: You gain life equal to the greatest mana value among creatures you control.
+
+",https://scryfall.com/card/iko/182/deaths-oasis,https://cards.scryfall.io/large/front/1/1/112e2cca-bae7-4296-9514-e6058f4b38a5.jpg?1591234683,死亡绿洲,死亡綠洲,Oasis de la mort,Oase des Todes,Oasi della Morte,死のオアシス,죽음의 오아시스,Oásis da Morte,Оазис Смерти,Oasis de la muerte
+Dire Tactics,"Dire Tactics	{W}{B}
+Instant
+Exile target creature. If you don't control a Human, you lose life equal to that creature's toughness.
+
+",https://scryfall.com/card/iko/183/dire-tactics,https://cards.scryfall.io/large/front/e/0/e0e3974e-3753-4f25-8930-6d96b40332ce.jpg?1591234691,险厄战术,險厄戰術,Tactiques désespérées,Erbitterte Taktik,Tattica Estrema,不吉な戦術,끔찍한 전술,Táticas Macabras,Отчаянная Тактика,Tácticas desesperadas
+Eerie Ultimatum,"Eerie Ultimatum	{W}{W}{B}{B}{B}{G}{G}
+Sorcery
+Return any number of permanent cards with different names from your graveyard to the battlefield.
+
+",https://scryfall.com/card/iko/184/eerie-ultimatum,https://cards.scryfall.io/large/front/3/a/3a9fb2db-228f-4d48-acdf-6330baf356c7.jpg?1591227996,神秘通牒,神秘通牒,Ultimatum inquiétant,Schauriges Ultimatum,Ultimatum Inquietante,奇妙な根本原理,으스스한 최후통첩,Ultimato Soturno,Жуткий Ультиматум,Ultimátum espeluznante
+Emergent Ultimatum,"Emergent Ultimatum	{B}{B}{G}{G}{G}{U}{U}
+Sorcery
+Search your library for up to three monocolored cards with different names and exile them. An opponent chooses one of those cards. Shuffle that card into your library. You may cast the other cards without paying their mana costs. Exile Emergent Ultimatum.
+
+",https://scryfall.com/card/iko/185/emergent-ultimatum,https://cards.scryfall.io/large/front/3/a/3a6a52ab-6d38-4429-9969-90064e615152.jpg?1591228007,突发通牒,突發通牒,Ultimatum émergent,Aufkeimendes Ultimatum,Ultimatum Inatteso,出現の根本原理,드러나는 최후통첩,Ultimato Emergente,Новоявленный Ультиматум,Ultimátum emergente
+Frondland Felidar,"Frondland Felidar	{2}{G}{W}
+Creature — Cat Beast
+Vigilance
+Creatures you control with vigilance have ""{1}, {T}: Tap target creature.""
+3/5
+",https://scryfall.com/card/iko/186/frondland-felidar,https://cards.scryfall.io/large/front/a/b/ab220695-e1a9-45ec-a1b1-5a82c9c90a03.jpg?1591605277,曲洼地晶角兽,曲窪地晶角獸,Félidar des terres foliaires,Farnland-Felidar,Felidar di Frondelanda,葉状地のフェリダー,잎사귀땅 펠리다르,Felidar de Frondelândia,Фелидар Папоротниковых Низин,Felidar de Terrafronda
+General Kudro of Drannith,"General Kudro of Drannith	{1}{W}{B}
+Legendary Creature — Human Soldier
+Other Humans you control get +1/+1.
+Whenever General Kudro or another Human you control enters, exile target card from an opponent's graveyard.
+{2}, Sacrifice two Humans: Destroy target creature with power 4 or greater.
+3/3
+",https://scryfall.com/card/iko/187/general-kudro-of-drannith,https://cards.scryfall.io/large/front/2/c/2c3227ae-0c72-478a-a6dd-661aaf718038.jpg?1591228027,卓尼斯的寇卓将军,卓尼斯的寇卓將軍,Général Koudro de Drannith,General Kudro von Drannith,Generale Kudro di Drannith,ドラニスのクードロ将軍,드라니스의 장군 쿠드로,General Kudro de Drannith,Генерал Кудро из Драннита,General Kudro de Drannith
+General's Enforcer,"General's Enforcer	{W}{B}
+Creature — Human Soldier
+Legendary Humans you control have indestructible.
+{2}{W}{B}: Exile target card from a graveyard. If it was a creature card, create a 1/1 white Human Soldier creature token.
+2/3
+",https://scryfall.com/card/iko/188/generals-enforcer,https://cards.scryfall.io/large/front/f/6/f6a45d0e-582a-4ec1-b83b-71b6a0ff6249.jpg?1591228039,将军的执法者,將軍的執法者,Argousin du général,Vollstrecker des Generals,Esecutore del Generale,将軍の執行官,장군의 집행자,Impositor do General,Блюститель Генерала,Ejecutor del general
+Genesis Ultimatum,"Genesis Ultimatum	{G}{G}{U}{U}{U}{R}{R}
+Sorcery
+Look at the top five cards of your library. Put any number of permanent cards from among them onto the battlefield and the rest into your hand. Exile Genesis Ultimatum.
+
+",https://scryfall.com/card/iko/189/genesis-ultimatum,https://cards.scryfall.io/large/front/5/5/556dfe7a-43e8-4801-ad79-89ab2148eca6.jpg?1591228052,创生通牒,創生通牒,Ultimatum de genèse,Genesis-Ultimatum,Ultimatum della Genesi,発生の根本原理,기원의 최후통첩,Ultimato da Gênese,Ультиматум Порождения,Ultimátum de génesis
+"Illuna, Apex of Wishes","Illuna, Apex of Wishes	{2}{G}{U}{R}
+Legendary Creature — Beast Elemental Dinosaur
+Mutate {3}{R/G}{U}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying, trample
+Whenever this creature mutates, exile cards from the top of your library until you exile a nonland permanent card. Put that card onto the battlefield or into your hand.
+6/6
+",https://scryfall.com/card/iko/190/illuna-apex-of-wishes,https://cards.scryfall.io/large/front/0/d/0dfec692-66c8-4c90-8afa-095654011c3d.jpg?1673305551,控念霸兽依卢那,控念霸獸依盧那,"Illuna, Zénith des souhaits","Illuna, Apex der Wünsche","Illuna, Alfa dei Desideri",願いの頂点、イルーナ,"소원의 정점, 일루나","Illuna, Ápice dos Desejos","Иллуна, Венец Желаний","Illuna, Alfa de los Deseos"
+Inspired Ultimatum,"Inspired Ultimatum	{U}{U}{R}{R}{R}{W}{W}
+Sorcery
+Target player gains 5 life, Inspired Ultimatum deals 5 damage to any target, then you draw five cards.
+
+",https://scryfall.com/card/iko/191/inspired-ultimatum,https://cards.scryfall.io/large/front/d/d/dd64f064-8f05-41ef-b95b-1b723137f846.jpg?1591228071,启迪通牒,啟迪通牒,Ultimatum inspiré,Inspirierendes Ultimatum,Ultimatum Ispirato,見事な根本原理,고무적인 최후통첩,Ultimato Inspirado,Вдохновенный Ультиматум,Ultimátum inspirado
+"Kinnan, Bonder Prodigy","Kinnan, Bonder Prodigy	{G}{U}
+Legendary Creature — Human Druid
+Whenever you tap a nonland permanent for mana, add one mana of any type that permanent produced.
+{5}{G}{U}: Look at the top five cards of your library. You may put a non-Human creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+2/2
+",https://scryfall.com/card/iko/192/kinnan-bonder-prodigy,https://cards.scryfall.io/large/front/6/3/63cda4a0-0dff-4edb-ae67-a2b7e2971350.jpg?1761053650,持绊逸才季宁,持絆逸才季寧,"Kinnan, prodige brideur","Kinnan, Bynder-Naturtalent","Kinnan, Vincolatore Prodigio",眷者の神童、キナン,"천재 유대자, 키난","Kinnan, Vinculador Prodígio","Киннан, Одаренный Узомант","Kinnan, el Vinculador Prodigioso"
+Labyrinth Raptor,"Labyrinth Raptor	{B}{R}
+Creature — Nightmare Dinosaur
+Menace
+Whenever a creature you control with menace becomes blocked, defending player sacrifices a creature of their choice that's blocking it.
+{B}{R}: Creatures you control with menace get +1/+0 until end of turn.
+2/2
+",https://scryfall.com/card/iko/193/labyrinth-raptor,https://cards.scryfall.io/large/front/c/6/c608543d-cb60-44c3-a437-e4a18c311420.jpg?1591605409,迷宫迅猛龙,迷宮迅猛龍,Raptor du labyrinthe,Labyrinth-Raptor,Raptor del Labirinto,迷宮の猛竜,미궁 랩터,Raptor do Labirinto,Раптор Лабиринта,Ráptor del laberinto
+Lore Drakkis,"Lore Drakkis	{1}{U}{R}
+Creature — Lizard Beast
+Mutate {U/R}{U/R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, return target instant or sorcery card from your graveyard to your hand.
+2/3
+",https://scryfall.com/card/iko/194/lore-drakkis,https://cards.scryfall.io/large/front/8/3/83e035ca-eccd-4b63-817c-f2c676b9c98d.jpg?1591228108,识返蜥身兽,識返蜥身獸,Drakkis de sapience,Geheimnisvoller Drakkis,Drakkis della Sapienza,伝承のドラッキス,설화 드라키스,Drakkis do Saber,Знающий Драккис,Drakkis del saber
+Narset of the Ancient Way,"Narset of the Ancient Way	{1}{U}{R}{W}
+Legendary Planeswalker — Narset
+[+1]: You gain 2 life. Add {U}, {R}, or {W}. Spend this mana only to cast a noncreature spell.
+[−2]: Draw a card, then you may discard a card. When you discard a nonland card this way, Narset deals damage equal to that card's mana value to target creature or planeswalker.
+[−6]: You get an emblem with ""Whenever you cast a noncreature spell, this emblem deals 2 damage to any target.""
+
+",https://scryfall.com/card/iko/195/narset-of-the-ancient-way,https://cards.scryfall.io/large/front/3/0/300f766f-9609-4105-9ed5-4299c48f7fa7.jpg?1690005248,古道娜尔施,古道娜爾施,Narset des traditions,Narset des alten Weges,Narset della Tradizione Antica,古き道のナーセット,고대의 도를 따르는 나르셋,Narset do Caminho Antigo,Нарсет Древнего Пути,Narset de los métodos antiguos
+Necropanther,"Necropanther	{1}{W}{B}
+Creature — Cat Nightmare
+Mutate {2}{W/B}{W/B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+3/3
+",https://scryfall.com/card/iko/196/necropanther,https://cards.scryfall.io/large/front/2/e/2e1ed055-8988-4625-9d57-8ce8a4e04aea.jpg?1591228129,死冥猎豹,死冥獵豹,Nécropanthère,Nekropanther,Necropantera,屍豹,사령표범,Necropantera,Некропантера,Necropantera
+"Nethroi, Apex of Death","Nethroi, Apex of Death	{2}{W}{B}{G}
+Legendary Creature — Cat Nightmare Beast
+Mutate {4}{G/W}{B}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Deathtouch, lifelink
+Whenever this creature mutates, return any number of target creature cards with total power 10 or less from your graveyard to the battlefield.
+5/5
+",https://scryfall.com/card/iko/197/nethroi-apex-of-death,https://cards.scryfall.io/large/front/0/4/04b9b58f-4c01-48a5-afaf-b8a37165a83f.jpg?1673305619,夺命霸狮涅司罗,奪命霸獅涅司羅,"Nethroï, Zénith de la mort","Nethroi, Apex des Todes","Nethroi, Alfa della Morte",死の頂点、ネスロイ,"죽음의 정점, 네스로이","Nethroi, Ápice da Morte","Нетрой, Венец Смерти","Nethroi, Alfa de la Muerte"
+Offspring's Revenge,"Offspring's Revenge	{2}{R}{W}{B}
+Enchantment
+At the beginning of combat on your turn, exile target red, white, or black creature card from your graveyard. Create a token that's a copy of that card, except it's 1/1. It gains haste until your next turn.
+
+",https://scryfall.com/card/iko/198/offsprings-revenge,https://cards.scryfall.io/large/front/7/8/78619ffb-f514-4f9f-9d77-3ab49e045f7c.jpg?1591228149,幼子复仇,幼子復仇,Revanche de la progéniture,Rache des Sprösslings,Vendetta della Progenie,幼獣の復讐,자식의 복수,Vingança da Cria,Месть Отпрыска,Venganza de la cría
+Parcelbeast,"Parcelbeast	{2}{G}{U}
+Creature — Elemental Beast
+Mutate {G}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+{1}, {T}: Look at the top card of your library. If it's a land card, you may put it onto the battlefield. If you don't put the card onto the battlefield, put it into your hand.
+2/4
+",https://scryfall.com/card/iko/199/parcelbeast,https://cards.scryfall.io/large/front/6/1/610bb98c-d66a-44cc-92e2-a80d700b59e4.jpg?1591228161,开路牛羚,開路牛羚,Bubale de parcelle,Parzellenbestie,Bestia Procacciaterre,領獣,구획야수,Gnu Caça-terra,Антилопа Наделов,Ñurcela
+Primal Empathy,"Primal Empathy	{1}{G}{U}
+Enchantment
+At the beginning of your upkeep, draw a card if you control a creature with the greatest power among creatures on the battlefield. Otherwise, put a +1/+1 counter on a creature you control.
+
+",https://scryfall.com/card/iko/200/primal-empathy,https://cards.scryfall.io/large/front/b/8/b8099a93-c59d-40a9-96e2-f3dd2a6dd8b8.jpg?1673485151,原初共感,原初共感,Empathie primordiale,Urzeitliche Empathie,Empatia Primordiale,原初の共感,태초의 공감,Empatia Primal,Первобытные Сопереживания,Empatía primigenia
+Quartzwood Crasher,"Quartzwood Crasher	{2}{R}{R}{G}
+Creature — Dinosaur Beast
+Trample
+Whenever one or more creatures you control with trample deal combat damage to a player, create an X/X green Dinosaur Beast creature token with trample, where X is the amount of damage those creatures dealt to that player.
+6/6
+",https://scryfall.com/card/iko/201/quartzwood-crasher,https://cards.scryfall.io/large/front/d/3/d39e00aa-9af9-4e53-8540-3fb56009c9b4.jpg?1698988459,石英林粉碎兽,石英林粉碎獸,Écraseur de Quartzbois,Quarzwald-Schmetterer,Distruttore di Quarzobosco,クオーツウッドの壊し屋,석영숲 파괴자,Abalroador da Mata de Quartzo,Крушитель из Кварцевого Леса,Embestidor de Bosquecuarzo
+Regal Leosaur,"Regal Leosaur	{R}{W}
+Creature — Dinosaur Cat
+Mutate {1}{R/W}{R/W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, other creatures you control get +2/+1 until end of turn.
+2/2
+",https://scryfall.com/card/iko/202/regal-leosaur,https://cards.scryfall.io/large/front/b/6/b6fdf313-740b-4976-911f-9fb5eb54afce.jpg?1591228189,威严狮龙,威嚴獅龍,Léosaure royal,Nobler Leosaurus,Leosauro Regale,威厳あるレオサウルス,근엄한 레오사우루스,Leossauro Régio,Царственный Леозавр,Leosaurio majestuoso
+"Rielle, the Everwise","Rielle, the Everwise	{1}{U}{R}
+Legendary Creature — Human Wizard
+Rielle gets +1/+0 for each instant and sorcery card in your graveyard.
+Whenever you discard one or more cards for the first time each turn, draw that many cards.
+0/3
+",https://scryfall.com/card/iko/203/rielle-the-everwise,https://cards.scryfall.io/large/front/5/f/5f03c944-1929-4cb2-a373-d57eefa29ed1.jpg?1591228198,全知利艾尔,全知利艾爾,"Rielle, l'éternisciente",Rielle die Allwissende,"Rielle, l'Onnisapiente",常智のリエール,"지고의 현인, 리엘","Rielle, a Onissapiente","Риэлль, Вечномудрая","Rielle, la Versada"
+Ruinous Ultimatum,"Ruinous Ultimatum	{R}{R}{W}{W}{W}{B}{B}
+Sorcery
+Destroy all nonland permanents your opponents control.
+
+",https://scryfall.com/card/iko/204/ruinous-ultimatum,https://cards.scryfall.io/large/front/5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1681500691,毁坏通牒,毀壞通牒,Ultimatum désastreux,Vernichtendes Ultimatum,Ultimatum Rovinoso,破滅の根本原理,파괴적인 최후통첩,Ultimato Ruinoso,Разрушительный Ультиматум,Ultimátum ruinoso
+Savai Thundermane,"Savai Thundermane	{R}{W}
+Creature — Elemental Cat
+Whenever you cycle a card, you may pay {2}. When you do, this creature deals 2 damage to target creature and you gain 2 life.
+3/2
+",https://scryfall.com/card/iko/205/savai-thundermane,https://cards.scryfall.io/large/front/7/3/73d3925c-cf7d-4546-bc70-33f04d4b7566.jpg?1591228216,撒维耶雷鬃狮,撒維耶雷鬃獅,Crinière de foudre de Savaï,Savai-Donnermähne,Fulmicriniera di Savai,サヴァイの雷たてがみ,사바이 천둥갈기,Juba-de-trovão de Savai,Савайский Громогрив,Melenatrueno de Savái
+Skull Prophet,"Skull Prophet	{B}{G}
+Creature — Human Druid
+{T}: Add {B} or {G}.
+{T}: Mill two cards. (Put the top two cards of your library into your graveyard.)
+3/1
+",https://scryfall.com/card/iko/206/skull-prophet,https://cards.scryfall.io/large/front/e/a/ea53e2c9-0a3f-4fda-a6ab-9a558bb8f126.jpg?1743207222,占颅先知,占顱先知,Prophétesse des crânes,Schädelprophetin,Profeta dei Teschi,髑髏の予言者,해골 선지자,Profetisa do Crânio,Прорицательница Черепов,Profeta de las calaveras
+Skycat Sovereign,"Skycat Sovereign	{W}{U}
+Creature — Elemental Cat
+Flying
+This creature gets +1/+1 for each other creature you control with flying.
+{2}{W}{U}: Create a 1/1 white Cat Bird creature token with flying.
+1/1
+",https://scryfall.com/card/iko/207/skycat-sovereign,https://cards.scryfall.io/large/front/6/2/6209dbfd-b765-44c5-b3ad-94f6e0705926.jpg?1591228236,翔狮君王,翔獅君王,Souverain des félins célestes,Luftkatzenherrscher,Sovrano degli Aerofelini,空猫の君主,창공고양이 군주,Soberano Aerofelino,Владетельный Небесный Кот,Aerofelino soberano
+Slitherwisp,"Slitherwisp	{U}{B}{B}
+Creature — Elemental Nightmare
+Flash
+Whenever you cast another spell that has flash, you draw a card and each opponent loses 1 life.
+3/2
+",https://scryfall.com/card/iko/208/slitherwisp,https://cards.scryfall.io/large/front/8/0/8067f195-8b6e-4329-a34e-43e52f67c571.jpg?1591228246,迅影蛇魇,迅影蛇魘,Rampefollet,Flüsterschlängler,Strisciante Incorporeo,滑りかすれ,매끄러운 위습,Reptante Fugaz,Ползучий Морок,Quimera serpenteante
+"Snapdax, Apex of the Hunt","Snapdax, Apex of the Hunt	{1}{R}{W}{B}
+Legendary Creature — Dinosaur Cat Nightmare
+Mutate {2}{B/R}{W}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Double strike
+Whenever this creature mutates, it deals 4 damage to target creature or planeswalker an opponent controls and you gain 4 life.
+3/5
+",https://scryfall.com/card/iko/209/snapdax-apex-of-the-hunt,https://cards.scryfall.io/large/front/5/1/51fdeeb7-9868-4fc2-9c53-806244cd5488.jpg?1591228256,万猎霸虎斯达兹,萬獵霸虎斯達茲,"Snapdax, Zénith de la chasse","Snapdax, Apex der Jagd","Snapdax, Alfa della Caccia",猟の頂点、スナップダックス,"사냥의 정점, 스냅댁스","Snapdax, Ápice da Caça","Снапдакс, Венец Охоты","Snapdax, Alfa de la Caza"
+Song of Creation,"Song of Creation	{1}{G}{U}{R}
+Enchantment
+You may play an additional land on each of your turns.
+Whenever you cast a spell, draw two cards.
+At the beginning of your end step, discard your hand.
+
+",https://scryfall.com/card/iko/210/song-of-creation,https://cards.scryfall.io/large/front/b/7/b7320233-1c83-4f61-8c08-cc8361867256.jpg?1591228265,创生颂曲,創生頌曲,Chant de la Création,Gesang der Schöpfung,Canto della Creazione,創造の歌,창조의 노래,Canção da Criação,Песнь Творения,Canción de la creación
+Sprite Dragon,"Sprite Dragon	{U}{R}
+Creature — Faerie Dragon
+Flying, haste
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+1/1
+",https://scryfall.com/card/iko/211/sprite-dragon,https://cards.scryfall.io/large/front/3/6/361385d8-d9c7-4de8-a5c8-683e682779f4.jpg?1674142522,仙翼翔龙,仙翼翔龍,Dragon farfadet,Sylphidendrache,Drago Spiritello,スプライトのドラゴン,요정 용,Dragão Sílfide,Дракон-Пикси,Dragonhada
+Titans' Nest,"Titans' Nest	{1}{B}{G}{U}
+Enchantment
+At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Exile a card from your graveyard: Add {C}. Spend this mana only to cast a spell that's one or more colors without {X} in its mana cost.
+
+",https://scryfall.com/card/iko/212/titans-nest,https://cards.scryfall.io/large/front/7/5/75d4e6f3-73cb-4799-bcb9-c1f5bc234a02.jpg?1667595701,巨物巢穴,巨物巢穴,Nid de titans,Titanenhorst,Nido dei Titani,巨獣の巣,거신의 둥지,Ninho do Titã,Гнездовье Титанов,Nido de titanes
+Trumpeting Gnarr,"Trumpeting Gnarr	{1}{G}{U}
+Creature — Beast
+Mutate {3}{G/U}{G/U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, create a 3/3 green Beast creature token.
+3/3
+",https://scryfall.com/card/iko/213/trumpeting-gnarr,https://cards.scryfall.io/large/front/0/6/063a95ee-3fda-436f-9ff8-de80cc874dde.jpg?1591228292,长吼嚎龙,長吼嚎龍,Gnarr barrissant,Trompetender Gnarr,Gnarr Muggente,嘶くナール,울부짖는 나르,Gnarr Berrador,Трубящий Гнарр,Gnarr berreante
+"Vadrok, Apex of Thunder","Vadrok, Apex of Thunder	{U}{R}{W}
+Legendary Creature — Elemental Dinosaur Cat
+Mutate {1}{W/U}{R}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying, first strike
+Whenever this creature mutates, you may cast target noncreature card with mana value 3 or less from your graveyard without paying its mana cost.
+3/3
+",https://scryfall.com/card/iko/214/vadrok-apex-of-thunder,https://cards.scryfall.io/large/front/e/d/ed7b0256-d342-4523-9516-6a007bf51825.jpg?1591228299,雷鸣霸龙瓦卓克,雷鳴霸龍瓦卓克,"Vadrok, Zénith du tonnerre","Vadrok, Apex des Donners","Vadrok, Alfa del Tuono",雷の頂点、ヴァドロック,"천둥의 정점, 바드로크","Vadrok, Ápice do Trovão","Вадрок, Венец Грома","Vadrok, Alfa del Trueno"
+Whirlwind of Thought,"Whirlwind of Thought	{1}{U}{R}{W}
+Enchantment
+Whenever you cast a noncreature spell, draw a card.
+
+",https://scryfall.com/card/iko/215/whirlwind-of-thought,https://cards.scryfall.io/large/front/6/7/67d032f9-4faf-42eb-86ba-3fadfea84a27.jpg?1743207268,思绪旋风,思緒旋風,Tourbillon de pensée,Wirbelwind der Gedanken,Vortice di Pensiero,思考の旋風,생각의 소용돌이,Redemoinho de Pensamentos,Вихрь Мыслей,Torbellino de pensamientos
+"Winota, Joiner of Forces","Winota, Joiner of Forces	{2}{R}{W}
+Legendary Creature — Human Warrior
+Whenever a non-Human creature you control attacks, look at the top six cards of your library. You may put a Human creature card from among them onto the battlefield tapped and attacking. It gains indestructible until end of turn. Put the rest of the cards on the bottom of your library in a random order.
+4/4
+",https://scryfall.com/card/iko/216/winota-joiner-of-forces,https://cards.scryfall.io/large/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1761053652,聚力领袖薇诺塔,聚力領袖薇諾塔,"Winota, unisseuse de forces","Winota, Einerin der Kräfte","Winota, Radunatrice di Forze",軍団のまとめ役、ウィノータ,"세력 규합자, 위노타","Winota, Agregadora de Forças","Винота, Объединившая Силы","Winota, la Unidora de Fuerzas"
+Zenith Flare,"Zenith Flare	{2}{R}{W}
+Instant
+Zenith Flare deals X damage to any target and you gain X life, where X is the number of cards with a cycling ability in your graveyard.
+
+",https://scryfall.com/card/iko/218/zenith-flare,https://cards.scryfall.io/large/front/0/e/0efac1ed-3f01-487c-86be-8239568b4425.jpg?1591228324,晶顶闪光,晶頂閃光,Flamboiement du zénith,Zenit des Leuchtfeuers,Bagliore dello Zenit,天頂の閃光,천공의 불꽃,Erupção do Zênite,Вспышка Зенита,Resplandor del cénit
+Alert Heedbonder,"Alert Heedbonder	{1}{G/W}{G/W}
+Creature — Human Scout
+Vigilance
+At the beginning of your end step, you gain 1 life for each creature you control with vigilance.
+2/4
+",https://scryfall.com/card/iko/219/alert-heedbonder,https://cards.scryfall.io/large/front/1/5/15a2ccae-c322-4e99-a094-a68fc5d52ea3.jpg?1591228332,警觉智绊人,警覺智絆人,Bridevigilance alerte,Aufmerksame Sinnesbynderin,Vincolaintuito Vigile,慎重な認知眷者,경계하는 인식유대자,Vinculador dos Sensos Alerta,Настороженная Узомантка Внимания,Vinculaatenciones en alerta
+Cunning Nightbonder,"Cunning Nightbonder	{U/B}{U/B}
+Creature — Human Rogue
+Flash
+Spells with flash you cast cost {1} less to cast and can't be countered.
+2/2
+",https://scryfall.com/card/iko/220/cunning-nightbonder,https://cards.scryfall.io/large/front/a/d/adb202e7-f9a4-4785-840d-18aa6aa663b4.jpg?1636491385,狡诈隐绊人,狡詐隱絆人,Bridenuit rusée,Listige Nachtbynderin,Vincolatenebre Astuta,狡賢い夜眷者,교활한 어둠유대자,Vinculadora da Noite Sagaz,Коварная Узомантка Ночи,Vinculanoches astuta
+Fiend Artisan,"Fiend Artisan	{B/G}{B/G}
+Creature — Nightmare
+This creature gets +1/+1 for each creature card in your graveyard.
+{X}{B/G}, {T}, Sacrifice another creature: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Activate only as a sorcery.
+1/1
+",https://scryfall.com/card/iko/221/fiend-artisan,https://cards.scryfall.io/large/front/6/c/6cd9d800-6d31-42e2-87d2-772db0ff95ed.jpg?1591228355,塑生邪魔,塑生邪魔,Artisan fielleux,Handwerker des Bösen,Artigiano Immondo,悪魔の職工,마귀 장인,Artesão Demoníaco,Нечестивый Мастеровой,Elaborademonios
+"Gyruda, Doom of Depths","Gyruda, Doom of Depths	{4}{U/B}{U/B}
+Legendary Creature — Demon Kraken
+Companion — Your starting deck contains only cards with even mana values. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+When Gyruda enters, each player mills four cards. Put a creature card with an even mana value from among the milled cards onto the battlefield under your control.
+6/6
+",https://scryfall.com/card/iko/222/gyruda-doom-of-depths,https://cards.scryfall.io/large/front/9/7/97eb1804-6fd8-4917-af36-87fdfce39d3a.jpg?1591228372,深渊灾祸翟鲁达,深淵災禍翟魯達,"Gyruda, calamité des profondeurs","Gyruda, Verdammnis der Tiefen","Gyruda, Rovina degli Abissi",深海の破滅、ジャイルーダ,"심해의 파멸, 자이루다","Gyruda, Ruína das Profundezas","Джайруда, Погибель из Бездны","Gyruda, la Fatalidad de las Profundidades"
+"Jegantha, the Wellspring","Jegantha, the Wellspring	{4}{R/G}
+Legendary Creature — Elemental Elk
+Companion — No card in your starting deck has more than one of the same mana symbol in its mana cost. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+{T}: Add {W}{U}{B}{R}{G}. This mana can't be spent to pay generic mana costs.
+5/5
+",https://scryfall.com/card/iko/223/jegantha-the-wellspring,https://cards.scryfall.io/large/front/7/9/79ec30d9-daf7-4f1d-ac16-4d11e8160d97.jpg?1767731315,丰饶泉源杰甘沙,豐饒泉源傑甘沙,"Jegantha, la Source",Jegantha der Urquell,"Jegantha, la Sorgente",湧き出る源、ジェガンサ,"원천, 제간타","Jegantha, a Fonte","Джеганта, Источник","Jegantha, Fuente de Maná"
+Jubilant Skybonder,"Jubilant Skybonder	{1}{W/U}{W/U}
+Creature — Human Wizard
+Flying
+Creatures you control with flying have ""Spells your opponents cast that target this creature cost {2} more to cast.""
+2/2
+",https://scryfall.com/card/iko/224/jubilant-skybonder,https://cards.scryfall.io/large/front/7/f/7f8f2d69-fba9-40e5-8ef7-75e14ef4070a.jpg?1591605364,欢腾翔绊人,歡騰翔絆人,Brideciel allègre,Jauchzende Himmelsbynderin,Vincolacieli Esultante,歓喜する空眷者,기쁨에 찬 창공유대자,Vinculadora dos Céus Jubilante,Ликующая Узомантка Небес,Vinculacielos exultante
+"Kaheera, the Orphanguard","Kaheera, the Orphanguard	{1}{G/W}{G/W}
+Legendary Creature — Cat Beast
+Companion — Each creature card in your starting deck is a Cat, Elemental, Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Vigilance
+Each other creature you control that's a Cat, Elemental, Nightmare, Dinosaur, or Beast gets +1/+1 and has vigilance.
+3/2
+",https://scryfall.com/card/iko/225/kaheera-the-orphanguard,https://cards.scryfall.io/large/front/d/4/d4ebed0b-8060-4a7b-a060-5cfcd2172b16.jpg?1623748548,孤兽守卫卡席拉,孤獸守衛卡席拉,"Kaheera, le Tuteur","Kaheera, Behüter der Verlassenen","Kaheera, la Guardaorfani",孤児護り、カヒーラ,"고아수호자, 카히라","Kaheera, a Guardiã dos Órfãos","Кахира, Попечительница","Kaheera, Custodiahuérfanos"
+"Keruga, the Macrosage","Keruga, the Macrosage	{3}{G/U}{G/U}
+Legendary Creature — Dinosaur Hippo
+Companion — Your starting deck contains only cards with mana value 3 or greater and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+When Keruga enters, draw a card for each other permanent you control with mana value 3 or greater.
+5/4
+",https://scryfall.com/card/iko/226/keruga-the-macrosage,https://cards.scryfall.io/large/front/a/9/a90ee952-de7a-420f-993c-a38db89bc8ac.jpg?1739702511,庞巨智者刻卢佳,龐巨智者刻盧佳,"Keruga, le Macrosophe","Keruga, Weiser der Größe","Keruga, il Macrosavio",巨智、ケルーガ,"거대현자, 케루가","Keruga, o Macrossábio","Керуга, Мудрец-Исполин","Keruga, Macrosapiente"
+Lurrus of the Dream-Den,"Lurrus of the Dream-Den	{1}{W/B}{W/B}
+Legendary Creature — Cat Nightmare
+Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Lifelink
+Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.
+3/2
+",https://scryfall.com/card/iko/227/lurrus-of-the-dream-den,https://cards.scryfall.io/large/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1764801075,梦巢猫魇路拉斯,夢巢貓魘路拉斯,Lurrus de la Tanière des rêves,Lurrus aus der Traumhöhle,Lurrus della Tana Onirica,夢の巣のルールス,꿈 소굴의 루러스,Lurrus da Toca Onírica,Луррус из Логова Грез,Lurrus del Nido de Ensueño
+"Lutri, the Spellchaser","Lutri, the Spellchaser	{1}{U/R}{U/R}
+Legendary Creature — Elemental Otter
+Companion — Each nonland card in your starting deck has a different name. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Flash
+When Lutri enters, if you cast it, copy target instant or sorcery spell you control. You may choose new targets for the copy.
+3/2
+",https://scryfall.com/card/iko/228/lutri-the-spellchaser,https://cards.scryfall.io/large/front/f/b/fb1189c9-7842-466e-8238-1e02677d8494.jpg?1774879586,逐咒獭灵拉翠,逐咒獺靈拉翠,"Lutri, le chasse-sorts",Lutri der Zauberbalger,"Lutri, il Rincorrimagie",呪文追い、ルーツリー,"주문추적자, 루트리","Lutri, o Catamágicas","Лутри, Ловчая Заклинаний","Lutri, Buscahechizos"
+"Obosh, the Preypiercer","Obosh, the Preypiercer	{3}{B/R}{B/R}
+Legendary Creature — Hellion Horror
+Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+If a source you control with an odd mana value would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
+3/5
+",https://scryfall.com/card/iko/229/obosh-the-preypiercer,https://cards.scryfall.io/large/front/4/5/451507de-9c42-43ee-b9ba-1f69e9aa29d2.jpg?1591228450,戕害狱兽奥巴什,戕害獄獸奧巴什,"Obosh, le Perce-proie",Obosh der Beutestecher,"Obosh, il Trafiggiprede",獲物貫き、オボシュ,"먹이관통자, 오보쉬","Obosh, o Furapresa","Обош, Пронзатель Дичи","Obosh, Perforapresas"
+Proud Wildbonder,"Proud Wildbonder	{2}{R/G}{R/G}
+Creature — Human Warrior
+Trample
+Creatures you control with trample have ""You may have this creature assign its combat damage as though it weren't blocked.""
+4/3
+",https://scryfall.com/card/iko/230/proud-wildbonder,https://cards.scryfall.io/large/front/f/4/f4876e17-a206-4351-9c0b-0845db4569a3.jpg?1591605265,心傲蛮绊人,心傲蠻絆人,Fier bridecroissance,Stolzer Wildbynder,Vincolaferocia Fiero,貫禄ある野生眷者,긍지있는 야생유대자,Vinculador das Selvas Orgulhoso,Гордый Узомант Свирепости,Vinculafieras orgulloso
+Sonorous Howlbonder,"Sonorous Howlbonder	{1}{B/R}{B/R}
+Creature — Human Warrior
+Menace
+Each creature you control with menace can't be blocked except by three or more creatures.
+2/2
+",https://scryfall.com/card/iko/231/sonorous-howlbonder,https://cards.scryfall.io/large/front/5/9/595f0b25-6e6e-43c4-a4a0-903920067df1.jpg?1591228476,彻耳音绊人,徹耳音絆人,Bridecri sonore,Stimmgewaltiger Jaulbynder,Vincolaululato Sonoro,堂々たる咆哮眷者,청아한 포효유대자,Vinculador dos Uivos Ruidoso,Звучный Узомант Рева,Vinculaaullidos sonoro
+"Umori, the Collector","Umori, the Collector	{2}{B/G}{B/G}
+Legendary Creature — Ooze
+Companion — Each nonland card in your starting deck shares a card type. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+As Umori enters, choose a card type.
+Spells you cast of the chosen type cost {1} less to cast.
+4/5
+",https://scryfall.com/card/iko/232/umori-the-collector,https://cards.scryfall.io/large/front/7/5/75ac31e0-ac70-4ee6-b2b1-cc445ffa1da9.jpg?1591228489,集晶流浆乌墨理,集晶流漿烏墨理,"Umori, le collecteur",Umori der Sammler,"Umorye, il Collezionista",集めるもの、ウモーリ,"수집가, 우모리","Umori, o Coletor","Умори, Собиратель","Umori, Coleccionista"
+"Yorion, Sky Nomad","Yorion, Sky Nomad	{3}{W/U}{W/U}
+Legendary Creature — Bird Serpent
+Companion — Your starting deck contains at least twenty cards more than the minimum deck size. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Flying
+When Yorion enters, exile any number of other nonland permanents you own and control. Return those cards to the battlefield at the beginning of the next end step.
+4/5
+",https://scryfall.com/card/iko/233/yorion-sky-nomad,https://cards.scryfall.io/large/front/2/7/275426c4-c14e-47d0-a9d4-24da7f6f6911.jpg?1665402560,游空牧鸟约力昂,遊空牧鳥約力昂,"Yorion, nomade céleste",Yorion der Himmelsnomade,"Yorion, Nomade dei Cieli",空を放浪するもの、ヨーリオン,"창공 유목민, 요리온","Yorion, Nômade Celeste","Йорион, Небесный Скиталец","Yorion, Nómada del Cielo"
+"Zirda, the Dawnwaker","Zirda, the Dawnwaker	{1}{R/W}{R/W}
+Legendary Creature — Elemental Fox
+Companion — Each permanent card in your starting deck has an activated ability. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.)
+Abilities you activate that aren't mana abilities cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{1}, {T}: Target creature can't block this turn.
+3/3
+",https://scryfall.com/card/iko/234/zirda-the-dawnwaker,https://cards.scryfall.io/large/front/1/b/1bd8e61c-2ee8-4243-a848-7008810db8a0.jpg?1757150547,熠晓灵狐泽尔达,熠曉靈狐澤爾達,"Zirda, éveilleur de l'aube","Zirda, Glut der Sonne","Zirda, il Destaurora",黎明起こし、ザーダ,"새벽을 깨우는 자, 지르다","Zirda, o Brilho da Aurora","Зерда, Пылающая на Рассвете","Zirda, Resplandor del Amanecer"
+Crystalline Giant,"Crystalline Giant	{3}
+Artifact Creature — Giant
+At the beginning of combat on your turn, choose a kind of counter at random that this creature doesn't have on it from among flying, first strike, deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, and +1/+1. Put a counter of that kind on this creature.
+3/3
+",https://scryfall.com/card/iko/235/crystalline-giant,https://cards.scryfall.io/large/front/e/5/e5e0e7fa-d911-449b-8902-921d861f1d13.jpg?1673485325,晶澈巨人,晶澈巨人,Géant cristallin,Kristalliner Riese,Gigante Cristallino,結晶の巨人,수정 거인,Gigante Cristalino,Кристальный Гигант,Gigante de cristal
+Indatha Crystal,"Indatha Crystal	{3}
+Artifact
+{T}: Add {W}, {B}, or {G}.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/236/indatha-crystal,https://cards.scryfall.io/large/front/b/d/bdace59f-f025-4717-8eb4-3d1e13b31d2b.jpg?1591228525,因达沙水晶,因達沙水晶,Cristal d'Indatha,Indatha-Kristall,Cristallo di Indatha,インダサの水晶,인다타 수정,Cristal de Indatha,Кристалл Индаты,Cristal de Indatha
+Ketria Crystal,"Ketria Crystal	{3}
+Artifact
+{T}: Add {G}, {U}, or {R}.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/237/ketria-crystal,https://cards.scryfall.io/large/front/7/d/7df435cb-3aeb-490a-8fca-91f3b6936965.jpg?1591228536,克崔亚水晶,克崔亞水晶,Cristal de Ketria,Ketria-Kristall,Cristallo di Ketria,ケトリアの水晶,케트리아 수정,Cristal de Ketria,Кристалл Кетрии,Cristal de Ketria
+The Ozolith,"The Ozolith	{1}
+Legendary Artifact
+Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on The Ozolith.
+At the beginning of combat on your turn, if The Ozolith has counters on it, you may move all counters from The Ozolith onto target creature.
+
+",https://scryfall.com/card/iko/238/the-ozolith,https://cards.scryfall.io/large/front/9/3/9341ed06-53db-4604-b60a-3ea9129afbc2.jpg?1591228544,欧佐晶岩,歐佐晶岩,L'Ozolithe,Der Ozolith,L'Ozolito,オゾリス,오조리스,O Ozólito,Озолит,El Ozolito
+Raugrin Crystal,"Raugrin Crystal	{3}
+Artifact
+{T}: Add {U}, {R}, or {W}.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/239/raugrin-crystal,https://cards.scryfall.io/large/front/c/5/c5bce0fb-53d6-47ee-8c5a-a99e50f67fc9.jpg?1591228553,洛格凌水晶,洛格凌水晶,Cristal de Raugrin,Raugrin-Kristall,Cristallo di Raugrin,ラウグリンの水晶,라우그린 수정,Cristal de Raugrin,Кристалл Раугрина,Cristal de Raugrin
+Savai Crystal,"Savai Crystal	{3}
+Artifact
+{T}: Add {R}, {W}, or {B}.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/240/savai-crystal,https://cards.scryfall.io/large/front/6/9/6954a5c1-89b1-4edd-814e-8f88fd49cda3.jpg?1591228561,撒维耶水晶,撒維耶水晶,Cristal de Savaï,Savai-Kristall,Cristallo di Savai,サヴァイの水晶,사바이 수정,Cristal de Savai,Кристалл Савая,Cristal de Savái
+Sleeper Dart,"Sleeper Dart	{2}
+Artifact
+When this artifact enters, draw a card.
+{T}, Sacrifice this artifact: Target creature doesn't untap during its controller's next untap step.
+
+",https://scryfall.com/card/iko/241/sleeper-dart,https://cards.scryfall.io/large/front/3/1/311f827a-1585-483e-b0fd-3dc05969b485.jpg?1681500667,催眠毒镖,催眠毒鏢,Fléchette soporifique,Betäubungspfeil,Dardo Tranquillante,眠らせる矢,마취 다트,Dardo Sonífero,Сонный Дротик,Dardo adormecedor
+Springjaw Trap,"Springjaw Trap	{1}
+Artifact
+Flash
+{4}, {T}, Sacrifice this artifact: It deals 3 damage to any target.
+
+",https://scryfall.com/card/iko/242/springjaw-trap,https://cards.scryfall.io/large/front/3/7/3741de51-ea92-493a-8058-e0f2000e7701.jpg?1591228577,弹爪陷阱,彈爪陷阱,Piège à mâchoires,Schnappzahn-Falle,Trappola della Fauce a Scatto,トラバサミ,스프링턱 덫,Armadilha Molandíbula,Капкан,Trampa de resortes
+Zagoth Crystal,"Zagoth Crystal	{3}
+Artifact
+{T}: Add {B}, {G}, or {U}.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/243/zagoth-crystal,https://cards.scryfall.io/large/front/9/1/9138a442-8e8b-465f-bb76-b6af7e6dab6f.jpg?1591228587,札苟斯水晶,札苟斯水晶,Cristal de Zagoth,Zagoth-Kristall,Cristallo di Zagoth,ゼイゴスの水晶,자고스 수정,Cristal de Zagoth,Кристалл Загота,Cristal de Zagoth
+Bloodfell Caves,"Bloodfell Caves	
+Land
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.
+
+",https://scryfall.com/card/iko/244/bloodfell-caves,https://cards.scryfall.io/large/front/1/d/1dde3c68-6f29-4c00-b668-c25ac9e3e13b.jpg?1743204990,染血洞窟,染血洞窟,Cavernes du Sacrifice,Höhlen des Blutvergießens,Caverne del Sangue Versato,血溜まりの洞窟,핏자국 동굴,Cavernas Sanguinárias,Пещеры Пролитой Крови,Cuevas maculasangrientas
+Blossoming Sands,"Blossoming Sands	
+Land
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.
+
+",https://scryfall.com/card/iko/245/blossoming-sands,https://cards.scryfall.io/large/front/0/a/0a9df994-e0f4-4919-af99-4f643eb9199c.jpg?1743204991,繁花沙洲,繁花沙洲,Sables verdoyants,Erblühender Sand,Sabbie Verdeggianti,花咲く砂地,꽃피는 사막,Areias Verdejantes,Цветущие Пески,Arenas florecientes
+Bonders' Enclave,"Bonders' Enclave	
+Land
+{T}: Add {C}.
+{3}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater.
+
+",https://scryfall.com/card/iko/246/bonders-enclave,https://cards.scryfall.io/large/front/d/1/d174f42c-dcf2-4da9-812b-7e1d0991d466.jpg?1712354928,持绊人秘境,持絆人秘境,Enclave des brideurs,Enklave der Bynder,Enclave dei Vincolatori,眷者の居留地,유대자의 거주지,Enclave dos Vinculadores,Анклав Узомантов,Enclave de los vinculadores
+Dismal Backwater,"Dismal Backwater	
+Land
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.
+
+",https://scryfall.com/card/iko/247/dismal-backwater,https://cards.scryfall.io/large/front/0/8/082b52c9-c46e-44d3-b723-546ba528e07b.jpg?1743697562,阴沉死水,陰沉死水,Marigot lugubre,Tristes Gewässer,Acquitrino Tetro,陰鬱な僻地,음침한 소류,Remanso Funesto,Мрачная Заводь,Laguna lúgubre
+Evolving Wilds,"Evolving Wilds	
+Land
+{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+",https://scryfall.com/card/iko/248/evolving-wilds,https://cards.scryfall.io/large/front/a/3/a30f5555-2fbe-4c88-9e4f-1f2e81ea6cfd.jpg?1771424582,成形野地,成形野地,Étendues sauvages en évolution,Sich entfaltende Wildnis,Terre Selvagge in Evoluzione,進化する未開地,진화하는 야생지,Terras em Desenvolvimento,Перерождающиеся Дебри,Terrenos expansivos
+Indatha Triome,"Indatha Triome	
+Land — Plains Swamp Forest
+({T}: Add {W}, {B}, or {G}.)
+This land enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/249/indatha-triome,https://cards.scryfall.io/large/front/2/b/2b74bb81-fb9a-40e5-a941-e517430b52f5.jpg?1636491374,因达沙群系,因達沙群系,Triome d'Indatha,Indatha-Triom,Trioma di Indatha,インダサのトライオーム,인다타 삼생물군계,Trioma de Indatha,Триом Индата,Trioma de Indatha
+Jungle Hollow,"Jungle Hollow	
+Land
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.
+
+",https://scryfall.com/card/iko/250/jungle-hollow,https://cards.scryfall.io/large/front/e/a/ea13440b-3f7b-4182-9541-27c1fa3121e5.jpg?1743205019,丛林幽谷,叢林幽谷,Dépression de jungle,Dschungellichtung,Conca nella Giungla,ジャングルのうろ穴,정글 골짜기,Clareira na Selva,Лощина в Джунглях,Hondonada selvática
+Ketria Triome,"Ketria Triome	
+Land — Forest Island Mountain
+({T}: Add {G}, {U}, or {R}.)
+This land enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/251/ketria-triome,https://cards.scryfall.io/large/front/a/2/a249b1f4-2b22-4b67-a207-e0c4ae95d2e1.jpg?1601241399,克崔亚群系,克崔亞群系,Triome de Ketria,Ketria-Triom,Trioma di Ketria,ケトリアのトライオーム,케트리아 삼생물군계,Trioma de Ketria,Триом Кетрия,Trioma de Ketria
+Raugrin Triome,"Raugrin Triome	
+Land — Island Mountain Plains
+({T}: Add {U}, {R}, or {W}.)
+This land enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/252/raugrin-triome,https://cards.scryfall.io/large/front/0/2/02138fbb-3962-4348-8d31-faaefba0b8b2.jpg?1591228666,洛格凌群系,洛格凌群系,Triome de Raugrin,Raugrin-Triom,Trioma di Raugrin,ラウグリンのトライオーム,라우그린 삼생물군계,Trioma de Raugrin,Триом Раугрин,Trioma de Raugrin
+Rugged Highlands,"Rugged Highlands	
+Land
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.
+
+",https://scryfall.com/card/iko/253/rugged-highlands,https://cards.scryfall.io/large/front/3/1/31261eca-28ad-407c-84ef-0c124d0d7451.jpg?1743205049,崎岖高地,崎嶇高地,Hautes terres rocailleuses,Wildes Hochland,Altopiani Accidentati,岩だらけの高地,바위투성이 고산지대,Planalto Acidentado,Непроходимые Горы,Tierras altas escabrosas
+Savai Triome,"Savai Triome	
+Land — Mountain Plains Swamp
+({T}: Add {R}, {W}, or {B}.)
+This land enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/254/savai-triome,https://cards.scryfall.io/large/front/7/4/748e6a61-9c1f-4225-9f04-e54002f63ac3.jpg?1591228681,撒维耶群系,撒維耶群系,Triome de Savaï,Savai-Triom,Trioma di Savai,サヴァイのトライオーム,사바이 삼생물군계,Trioma de Savai,Триом Савай,Trioma de Savái
+Scoured Barrens,"Scoured Barrens	
+Land
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.
+
+",https://scryfall.com/card/iko/255/scoured-barrens,https://cards.scryfall.io/large/front/b/4/b4b47b80-69ed-44b0-afa0-ca90206dc16d.jpg?1743205056,侵蚀荒漠,侵蝕荒漠,Landes érodées,Verlassene Ödnis,Distese Desolate,磨かれたやせ地,척박한 황무지,Desertos Calcinados,Выжженные Пустоши,Yermos desérticos
+Swiftwater Cliffs,"Swiftwater Cliffs	
+Land
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.
+
+",https://scryfall.com/card/iko/256/swiftwater-cliffs,https://cards.scryfall.io/large/front/c/a/ca53fb19-b8ca-485b-af1a-5117ae54bfe3.jpg?1743205059,急流山崖,急流山崖,Falaises des eaux vives,Sturzbachklippen,Rupi di Rapidacque,急流の崖,빠른물 벼랑,Cordilheiras das Cascatas,Скальные Стремнины,Acantilados aguasraudas
+Thornwood Falls,"Thornwood Falls	
+Land
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.
+
+",https://scryfall.com/card/iko/257/thornwood-falls,https://cards.scryfall.io/large/front/e/b/ebb502c2-5fd0-46a9-b77d-010f4a942056.jpg?1743205064,棘林瀑布,棘林瀑布,Chutes de Boisépine,Dornwaldfälle,Cascate di Boscorovo,茨森の滝,가시숲 폭포,Cachoeira dos Espinhos,Водопад Шиполесья,Cascadas bosquespinoso
+Tranquil Cove,"Tranquil Cove	
+Land
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.
+
+",https://scryfall.com/card/iko/258/tranquil-cove,https://cards.scryfall.io/large/front/1/c/1c4efa6c-4f29-41cd-a728-bf0e479ace05.jpg?1743205066,静谧海湾,靜謐海灣,Crique tranquille,Friedliche Bucht,Baia Tranquilla,平穏な入り江,잔잔한 만,Angra Tranquila,Тихая Бухта,Cala tranquila
+Wind-Scarred Crag,"Wind-Scarred Crag	
+Land
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.
+
+",https://scryfall.com/card/iko/259/wind-scarred-crag,https://cards.scryfall.io/large/front/4/9/4912e4d0-b16a-4aa6-a583-3430d26bd591.jpg?1748464664,风蚀峭壁,風蝕峭壁,Cordillère marquée par les vents,Windgepeitschte Felswand,Dirupo Eroso dai Venti,風に削られた岩山,풍화된 암석지대,Penhasco Marcado pelo Vento,Обветренный Утес,Risco cicatriz del viento
+Zagoth Triome,"Zagoth Triome	
+Land — Swamp Forest Island
+({T}: Add {B}, {G}, or {U}.)
+This land enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)
+
+",https://scryfall.com/card/iko/260/zagoth-triome,https://cards.scryfall.io/large/front/c/c/cc520518-2063-4b57-a0d4-10cf62a7175e.jpg?1591228738,札苟斯群系,札苟斯群系,Triome de Zagoth,Zagoth-Triom,Trioma di Zagoth,ゼイゴスのトライオーム,자고스 삼생물군계,Trioma de Zagoth,Триом Загот,Trioma de Zagoth
+Plains,"Plains	
+Basic Land — Plains
+({T}: Add {W}.)
+
+",https://scryfall.com/card/iko/261/plains,https://cards.scryfall.io/large/front/d/8/d85d0f25-a24a-4de0-9b8b-93fb5017bce9.jpg?1775938910,平原,平原,Plaine,Ebene,Pianura,平地,들,Planície,Равнина,Llanura
+Plains,"Plains	
+Basic Land — Plains
+({T}: Add {W}.)
+
+",https://scryfall.com/card/iko/262/plains,https://cards.scryfall.io/large/front/d/8/d85d0f25-a24a-4de0-9b8b-93fb5017bce9.jpg?1775938910,平原,平原,Plaine,Ebene,Pianura,平地,들,Planície,Равнина,Llanura
+Plains,"Plains	
+Basic Land — Plains
+({T}: Add {W}.)
+
+",https://scryfall.com/card/iko/263/plains,https://cards.scryfall.io/large/front/d/8/d85d0f25-a24a-4de0-9b8b-93fb5017bce9.jpg?1775938910,平原,平原,Plaine,Ebene,Pianura,平地,들,Planície,Равнина,Llanura
+Island,"Island	
+Basic Land — Island
+({T}: Add {U}.)
+
+",https://scryfall.com/card/iko/264/island,https://cards.scryfall.io/large/front/7/3/739aaaac-c424-4ea7-a084-62a6fc0438b0.jpg?1777658399,海岛,海島,Île,Insel,Isola,島,섬,Ilha,Остров,Isla
+Island,"Island	
+Basic Land — Island
+({T}: Add {U}.)
+
+",https://scryfall.com/card/iko/265/island,https://cards.scryfall.io/large/front/7/3/739aaaac-c424-4ea7-a084-62a6fc0438b0.jpg?1777658399,海岛,海島,Île,Insel,Isola,島,섬,Ilha,Остров,Isla
+Island,"Island	
+Basic Land — Island
+({T}: Add {U}.)
+
+",https://scryfall.com/card/iko/266/island,https://cards.scryfall.io/large/front/7/3/739aaaac-c424-4ea7-a084-62a6fc0438b0.jpg?1777658399,海岛,海島,Île,Insel,Isola,島,섬,Ilha,Остров,Isla
+Swamp,"Swamp	
+Basic Land — Swamp
+({T}: Add {B}.)
+
+",https://scryfall.com/card/iko/267/swamp,https://cards.scryfall.io/large/front/c/5/c5f590a3-9993-4ac4-a93c-1beb44eda17b.jpg?1777658405,沼泽,沼澤,Marais,Sumpf,Palude,沼,늪,Pântano,Болото,Pantano
+Swamp,"Swamp	
+Basic Land — Swamp
+({T}: Add {B}.)
+
+",https://scryfall.com/card/iko/268/swamp,https://cards.scryfall.io/large/front/c/5/c5f590a3-9993-4ac4-a93c-1beb44eda17b.jpg?1777658405,沼泽,沼澤,Marais,Sumpf,Palude,沼,늪,Pântano,Болото,Pantano
+Swamp,"Swamp	
+Basic Land — Swamp
+({T}: Add {B}.)
+
+",https://scryfall.com/card/iko/269/swamp,https://cards.scryfall.io/large/front/c/5/c5f590a3-9993-4ac4-a93c-1beb44eda17b.jpg?1777658405,沼泽,沼澤,Marais,Sumpf,Palude,沼,늪,Pântano,Болото,Pantano
+Mountain,"Mountain	
+Basic Land — Mountain
+({T}: Add {R}.)
+
+",https://scryfall.com/card/iko/270/mountain,https://cards.scryfall.io/large/front/a/6/a642c7b1-d4d1-4125-a66d-560438e5ee51.jpg?1775938951,山脉,山脈,Montagne,Gebirge,Montagna,山,산,Montanha,Гора,Montaña
+Mountain,"Mountain	
+Basic Land — Mountain
+({T}: Add {R}.)
+
+",https://scryfall.com/card/iko/271/mountain,https://cards.scryfall.io/large/front/a/6/a642c7b1-d4d1-4125-a66d-560438e5ee51.jpg?1775938951,山脉,山脈,Montagne,Gebirge,Montagna,山,산,Montanha,Гора,Montaña
+Mountain,"Mountain	
+Basic Land — Mountain
+({T}: Add {R}.)
+
+",https://scryfall.com/card/iko/272/mountain,https://cards.scryfall.io/large/front/a/6/a642c7b1-d4d1-4125-a66d-560438e5ee51.jpg?1775938951,山脉,山脈,Montagne,Gebirge,Montagna,山,산,Montanha,Гора,Montaña
+Forest,"Forest	
+Basic Land — Forest
+({T}: Add {G}.)
+
+",https://scryfall.com/card/iko/273/forest,https://cards.scryfall.io/large/front/f/1/f169dfb2-e4c8-46e9-8591-e51bb82da082.jpg?1775938964,树林,樹林,Forêt,Wald,Foresta,森,숲,Floresta,Лес,Bosque
+Forest,"Forest	
+Basic Land — Forest
+({T}: Add {G}.)
+
+",https://scryfall.com/card/iko/274/forest,https://cards.scryfall.io/large/front/f/1/f169dfb2-e4c8-46e9-8591-e51bb82da082.jpg?1775938964,树林,樹林,Forêt,Wald,Foresta,森,숲,Floresta,Лес,Bosque
+Forest,"Forest	
+Basic Land — Forest
+({T}: Add {G}.)
+
+",https://scryfall.com/card/iko/275/forest,https://cards.scryfall.io/large/front/f/1/f169dfb2-e4c8-46e9-8591-e51bb82da082.jpg?1775938964,树林,樹林,Forêt,Wald,Foresta,森,숲,Floresta,Лес,Bosque
