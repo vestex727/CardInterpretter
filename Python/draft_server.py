@@ -1,47 +1,73 @@
+from hmac import new
+from queue import Queue
+import copy
+from random import random
+
+#Card object that is picked around in draft
+#Glorified string
+class Card:
+    def __init__(self, name):
+        self.name = name
+
+#Pile of cards passed around in draft
+#Holds list of cards
+class Pile:
+    cards: list[Card]
+
+    #initializes the Pile with the cards list being empty by default
+    #Card list can be passed in as a parameter
+    def __init__(self, cards=[]):
+        self.cards = cards
+
+    #Prints every card in the pile
+    def print(self):
+        for card in self.cards:
+            print(card.name, end=", ")
+        print()
+
+#Player that holds piles of cards.
+#Players can pass piles to other players
+class Player:
+    incoming_piles: Queue[Pile]
+    player_cards: list[Card]
+
+    def __init__(self):
+        self.incoming_piles = Queue[Pile]()
 
 
-drafting_hand = []
-picked_cards = []
-player_count = 0
-test_card_names = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o"]
+    def send_to(self, player):
+        player.incoming_piles.put(self.incoming_piles.get())
 
-def add_hand_to_queue(player, hand):
-    drafting_hand[player].append(hand)
+    def print(self):
+        q = self.incoming_piles
+        new_q = Queue[Pile]()
+        while not q.empty():
+            temp = q.get()
+            new_q.put(temp)
+            temp.print()
+        self.incoming_piles = new_q
 
-def get_next_hand(player):
-    if drafting_hand[player]:
-        return drafting_hand[player].pop(0)
-    return "Not Ready"
+#Creates a list of Card objects
+#Exists for testing purposes
+def create_test_pile(prefix, card_count=14):
+    pile = Pile([])
+    for i in range(card_count):
+        card = Card(prefix + str(i))
+        pile.cards.append(card)
+    return pile
 
-def pick_card(player, name):
-    drafting_hand[player][0].remove(name)
-    drafting_hand[player+1].append(drafting_hand[player].pop(0))
+hand_a = create_test_pile("a")
+hand_b = create_test_pile("b")
+player1 = Player()
+player2 = Player()
+player1.incoming_piles.put(hand_a)
+player2.incoming_piles.put(hand_b)
+player1.print()
+player2.print()
+print()
+player1.send_to(player2)
+print("\nplayer1", end=":\t")
+player1.print()
+print("\nplayer2", end=":\t")
+player2.print()
 
-def initialize_drafting_hands():
-    global drafting_hand
-    global picked_cards
-    for i in range(player_count):
-        drafting_hand.append([])
-        picked_cards.append([])
-
-def create_test_hands(player_number):
-    player_count = player_number
-    initialize_drafting_hands()
-    for player in range(player_count):
-        hand = []
-        i = 0
-
-def create_3d_arrays(player_number):
-    a = [[[(str(i) + str(j) + str(k)) for k in range(14)] for j in range(1)] for i in range(player_number)]
-    for i in a:
-        print(i)
-        for j in range(player_number):
-            print(j)
-
-    print(a)
-
-def print_drafting_hands():
-    print(drafting_hand)
-    print(picked_cards)
-
-create_3d_arrays(8)
