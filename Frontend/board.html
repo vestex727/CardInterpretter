@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Title -->
+    <title>Hamburger Menu</title>
+    <!-- Favicon -->
+    <link rel="icon" href="img/favicon.ico">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <!-- W3 Stylesheet -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="hamburgermenu.css">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>
+    * {
+    box-sizing: border-box;
+    }
+
+    .upload-row {
+        display: flex;      /* Aligns children in a row */
+        align-items: center; /* Vertically centers the input and button */
+        float: right;
+        gap: 15px;         /* Adds space between the file picker and button */
+    }
+
+    /* Optional: styling the button to look better next to the input */
+    button {
+        padding: 5px 15px;
+        cursor: pointer;
+    }
+
+
+    /* Create four equal columns that floats next to each other */
+    .column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    }
+
+    /* Creates a card with proper dimensions */
+    .card {
+        float: left;
+        width: 100%;
+        padding: 2px; 
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+
+    /* Responsive layout - makes a two column-layout instead of four columns */
+    @media screen and (max-width: 900px) {
+    .column  {
+        width: 50%;
+    }
+    }
+
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+    .column  {
+        width: 100%;
+    }
+    }
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+        <nav>
+            <input title="check" type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+                <i class="fas fa-bars"></i>
+            </label>
+            <div class="nav-mobile w3-animate-right">
+                <a href="index.html">Home</a>
+                <a href="draft.html">Draft</a>
+                <a href="hand.html">Hand</a>
+                <a href="board.html">Board</a>
+                <a href="yourgrave.html">Your Grave</a>
+                <a href="opponentsgrave.html">Opponent's Grave</a>
+                <a href="history.html">History</a>
+                <a href="availablecards.html">Available Cards</a>
+                <a href="about.html">About</a>
+            </div>
+            <div style="float: right">
+                <input type="file" id="fileInput" accept="image/*" />
+                <button onclick="uploadFiles()">Upload</button>
+                <div id="message"></div>
+            </div>
+        </nav>
+    
+    <!-- Main Body -->
+        <h2>Hand</h2>
+        <p>Shows all cards in hand. Repositions cards based on the screen available. </p>
+        
+
+
+        <div class="row" id="container">
+        </div>
+
+        <!-- js -->
+        <script>
+            names = //["Brokkos, Apex of Forever", "Lurrus of the Dream-Den", "Vadrok, Apex of Thunder", "Ruinous Ultimatum", "Offspring's Revenge"];
+            imageSrcs = []//["https://cards.scryfall.io/large/front/c/9/c9f07625-fbd8-4581-8568-eb3cfb2a4c1e.jpg?1591227964", "https://cards.scryfall.io/large/front/5/a/5ad36fb2-c44e-4085-ba0d-54277841ad3a.jpg?1764801075", "https://cards.scryfall.io/large/front/e/d/ed7b0256-d342-4523-9516-6a007bf51825.jpg?1591228299", "https://cards.scryfall.io/large/front/5/0/50c1d6ca-7789-46b5-bc89-85cc3915cb85.jpg?1681500691", "https://cards.scryfall.io/large/front/7/8/78619ffb-f514-4f9f-9d77-3ab49e045f7c.jpg?1591228149"];
+            scryfallLink = []//["https://scryfall.com/card/iko/179/brokkos-apex-of-forever", "https://scryfall.com/card/iko/226/lurrus-of-the-dream-den", "https://scryfall.com/card/iko/214/vadrok-apex-of-thunder", "https://scryfall.com/card/iko/204/ruinous-ultimatum", "https://scryfall.com/card/iko/198/offsprings-revenge"];
+            oracleTexts = []//["Brokkos, Apex of Forever {2}{B}{G}{U} Legendary Creature — Nightmare Beast Elemental Mutate {2}{U/B}{G}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.) Trample You may cast this card from your graveyard using its mutate ability. 6/6", " Lurrus of the Dream-Den {1}{W/B}{W/B} Legendary Creature — Cat Nightmare Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} as a sorcery.) Lifelink Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard. 3/2", " Vadrok, Apex of Thunder {U}{R}{W} Legendary Creature — Elemental Dinosaur Cat Mutate { 1}{ W/ U}{ R }{ R }(If you cast this spell for its mutate cost, put it over or under target non - Human creature you own.They mutate into the creature on top plus all abilities from under it.) Flying, first strike Whenever this creature mutates, you may cast target noncreature card with mana value 3 or less from your graveyard without paying its mana cost.", "RU", "OR"]
+            const container = document.getElementById("column");
+            //saveNames();
+            
+            
+            function saveNames(){
+                let output = "";
+                for(let i = 0; i < names.length; i++){
+                    output += names[i];
+                    if(i < names.length - 1){
+                        output += "&";
+                    }
+                }
+                //console.log(output);
+                localStorage.setItem("board_names", output);
+                //console.log(localStorage.getItem("board_names"));
+            }
+
+            function fillPage(){
+                for(let i = 0; i < names.length; i++) {
+                    image = (imageSrcs[i]);
+                    document.getElementById("container").innerHTML += `<div class="column" id="clone" style="background-color:#ddd;">
+                    <h2>`+names[i]+`</h2>
+                    <a href="`+scryfallLink[i]+`">
+                        <img src="`+ image + `" alt="` + names[i] + `" class="card loading="lazy">
+                    </a>
+                    <p> `+oracleTexts[i]+`</p>
+                </div>`;
+                }
+            }
+
+            /*
+            async function getData() {
+                const response = await fetch('http://localhost:5000/api/data/Farfinder');
+                const data = await response.json();
+                console.log(JSON.stringify(data.message, null, 2)); // Logs: "Hello from Python!"
+            }*/
+
+            /*
+            async function getCardName() {
+                output;
+                fetch('http://localhost:5000/api/data/Farfinder')
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log(data);
+                        output = data;
+                    })
+                console.log(data);
+            }*/ 
+
+            function addCards(cardNames){
+                console.log(cardNames);
+                for(i = 0; i < cardNames.length; i++){
+                    names.push(cardNames[i]);
+                    console.log(names);
+                }
+                saveNames();
+            }
+            
+            function removeCards(cardNames){
+                for(i = 0; i < cardNames.length; i++){
+                    index = names.indexOf(cardNames[i]);
+                    if(index !== -1){
+                        names.splice(index, 1);
+                        console.log(cardNames[i] + " has been removed");
+                    }
+                }
+                saveNames();
+            }
+
+            async function getCardInfo(name) {
+                output = "nope";
+                await fetch('http://localhost:5000/api/data/' + encodeURIComponent(name))
+                    .then(response => response.json())
+                    .then(data => {
+                        //console.log(data);
+                        output = data;
+                    })
+                return output;
+            }
+
+            async function getAllCardInfo(){
+                for(let i = 0; i < names.length; i++){
+                    data = await getCardInfo(names[i]);
+                    //console.log(data);
+                    values = Object.values(data);
+                    imageSrcs.push(values[0])
+                    oracleTexts.push(values[2]);
+                    scryfallLink.push(values[3]);
+                    //console.log(values[0] + " vs " + values[3]);
+                }
+                //console.log(imageSrcs);
+            }
+
+            async function getCardFromImage(){
+                const fileInput = document.getElementById('imageInput'); // Your <input type="file">
+                const file = fileInput.files[0];
+
+                if (!file) return;
+
+                // Create a FormData object to hold the image
+                const formData = new FormData();
+                formData.append('image', file);
+                
+                try {
+                    const response = await fetch('/imageupload', {
+                        method: 'POST',
+                        body: formData // No headers needed; Fetch sets multipart boundary automatically
+                    });
+                    const result = await response.json();
+                    console.log('Success:', result);
+                } catch (error) {
+                    console.error('Error:', error);
+                }
+            }
+
+
+            function uploadFiles() {
+            const input = document.getElementById('fileInput');
+            const files = input.files;
+
+            if (!files.length) {
+                displayMessage('No files selected.', 'red');
+                return;
+            }
+
+            const formData = new FormData();
+            for (let file of files) {
+                formData.append('upload[]', file);
+            }
+
+            // CSRF token simulation
+            //formData.append('csrf_token', generateToken());
+
+            fetch('http://localhost:5000/imageupload', {
+                method: 'POST',
+                body: formData,
+            })
+            .then(res => res.json())
+            .then(data => {
+                s = data.toString();
+                s_array = [s];
+                console.log(s_array);
+                addCards(s_array);
+                if (data.status === 'success') {
+                displayMessage('Upload successful!', 'green');
+                } else {
+                displayMessage(data.error || 'Upload failed.', 'red');
+                }
+            })
+            .catch(() => displayMessage('Upload error occurred.', 'red'));
+            }
+
+            function displayMessage(msg, color) {
+            const box = document.getElementById('message');
+            box.innerText = msg;
+            box.style.color = color;
+            }
+
+            function generateToken() {
+            return Math.random().toString(36).slice(2);
+            }
+
+
+
+            /**The main script needed to load a page    
+             * Grabs the names of cards needed to be displayed from localStorage, then uses those names to grab the rest of the card info from the server. 
+             * Uses the card info to dynamically fill the page. 
+             */         
+            async function loadPage(){
+                temp = localStorage.getItem("board_names");
+                names = temp.split("&");
+                //console.log(names)
+                await getAllCardInfo();
+                fillPage();
+                //console.log(localStorage.getItem("board_names"))
+            }
+            
+            //removeCards(["A-Winota, Joiner of Forces"]);
+            //saveNames();
+            loadPage();
+            //removeCards(["Shark Typhoon"]);
+            //addCards(["Drannith Healer", "Drannith Stinger"]);
+            //saveNames();
+
+        </script>
+</body>
+</html>

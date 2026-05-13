@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Title -->
+    <title>Hamburger Menu</title>
+    <!-- Favicon -->
+    <link rel="icon" href="img/favicon.ico">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <!-- W3 Stylesheet -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="hamburgermenu.css">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    * {
+    box-sizing: border-box;
+    }
+
+    /* Create four equal columns that floats next to each other */
+    .column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    }
+
+    /* Creates a card with proper dimensions */
+    .card {
+        float: left;
+        width: 100%;
+        padding: 2px; 
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+
+    /* Responsive layout - makes a two column-layout instead of four columns */
+    @media screen and (max-width: 900px) {
+    .column  {
+        width: 50%;
+    }
+    }
+
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+    .column  {
+        width: 100%;
+    }
+    }
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+        <nav>
+          <input title="check" type="checkbox" id="check">
+          <label for="check" class="checkbtn">
+            <i class="fas fa-bars"></i>
+          </label>
+          <div class="nav-mobile w3-animate-right">
+            <a href="index.html">Home</a>
+            <a href="draft.html">Draft</a>
+            <a href="hand.html">Hand</a>
+            <a href="board.html">Board</a>
+            <a href="yourgrave.html">Your Grave</a>
+            <a href="opponentsgrave.html">Opponent's Grave</a>
+            <a href="history.html">History</a>
+            <a href="about.html">About</a>
+          </div>
+        </nav>
+    
+    <!-- Main Body -->
+        <h2>Hand</h2>
+        <p>Shows all cards in hand. Repositions cards based on the screen available. </p>
+
+        <div class="row">
+            <div class="column" style="background-color:#aaa;">
+                <h2>Solemn Simulacrum</h2>
+                <a href="https://scryfall.com/card/tdc/325/solemn-simulacrum">
+                    <img src="https://cards.scryfall.io/large/front/2/9/29fae212-b757-4e5f-ad9b-06cd09782f9f.jpg?1775942090" alt="sad robot" class="card">
+                </a>
+                <p> Solemn Simulacrum {4}
+
+                    Artifact Creature — Golem
+                    
+                    When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+                    
+                    When this creature dies, you may draw a card.
+                    2/2 
+                </p>
+            </div>
+            <div class="column" style="background-color:#bbb;">
+                <h2>Everquill Phoenix</h2>
+                <a href="https://scryfall.com/card/iko/114/everquill-phoenix">
+                    <img src="https://cards.scryfall.io/large/front/3/9/3953157f-2deb-4ab7-b4b3-592ebb7c7a9c.jpg?1591227161" alt="Everquill Pheonix" class="card">
+                </a>
+                <p> Everquill Phoenix {2}{R}{R}
+
+                    Creature — Phoenix
+
+                    Mutate {3}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+
+                    Flying
+
+                    Whenever this creature mutates, create a red artifact token named Feather with “{1}, Sacrifice this token: Return target Phoenix card from your graveyard to the battlefield tapped.”
+                    4/4 
+                </p>
+            </div>
+            <div class="column" style="background-color:#ccc;">
+                <h2>Kogla, the Titan Ape</h2>
+                <a href="https://scryfall.com/card/iko/162/kogla-the-titan-ape">
+                    <img src="https://cards.scryfall.io/large/front/3/c/3c35ca79-eb72-427a-a8ed-404b2214389a.jpg?1591227737" alt="Kogla, the Titan Ape" class="card">
+                </a>
+                <p> Kogla, the Titan Ape {3}{G}{G}{G}
+
+                    Legendary Creature — Ape
+
+                    When Kogla enters, it fights up to one target creature you don’t control.
+
+                    Whenever Kogla attacks, destroy target artifact or enchantment defending player controls.
+
+                    {1}{G}: Return target Human you control to its owner’s hand. Kogla gains indestructible until end of turn.
+                </p>
+            </div>
+            <div class="column" style="background-color:#ddd;">
+                <h2>Brokkos, Apex of Forever</h2>
+                <a href="https://scryfall.com/card/iko/179/brokkos-apex-of-forever">
+                    <img src="https://cards.scryfall.io/large/front/c/9/c9f07625-fbd8-4581-8568-eb3cfb2a4c1e.jpg?1591227964" alt="Brokkos, Apex of Forever" class="card">
+                </a>
+                <p> Brokkos, Apex of Forever {2}{B}{G}{U}
+
+                    Legendary Creature — Nightmare Beast Elemental
+
+                    Mutate {2}{U/B}{G}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+
+                    Trample
+
+                    You may cast this card from your graveyard using its mutate ability.
+                </p>
+            </div>
+        </div>
+</body>
+</html>
