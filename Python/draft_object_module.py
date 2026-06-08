@@ -1,8 +1,6 @@
 from os import name
 from queue import Queue
-
 from sympy import false, true
-from sympy.codegen.ast import none
 
 class Card(str):
     name: str
@@ -44,10 +42,10 @@ class Pile:
             if str(card) == str(card_name):
                 found = true
                 index = i
-        return str(index) + ": " + self.cards.pop(index) if found else none
+        return str(index) + ": " + self.cards.pop(index) if found else None
 
     def remove_card_by_index(self, index: int):
-        return self.cards.pop(index) if index < len(self.cards) else none
+        return self.cards.pop(index) if index < len(self.cards) else None
 
 
 class Player:
@@ -55,9 +53,8 @@ class Player:
     hand: Pile
     player_name: str
     player_id: int
-    next_player: Player
 
-    def __init__(self, player_name: str, player_id: int, incoming_piles: Queue[Pile] = Queue[Pile](), hand: Pile = none):
+    def __init__(self, player_name: str, player_id: int, incoming_piles: Queue[Pile] = Queue[Pile](), hand: Pile = None):
         """
         Creates a player object that has a name, if, hand of cards, and a queue of incoming card piles.
         :param player_name: Name of the player the object represents.
@@ -69,7 +66,8 @@ class Player:
         self.incoming_piles = incoming_piles
         self.player_name = player_name
         self.player_id = player_id
-        if self.hand == none and not self.incoming_piles.empty():
+        self.next_player = None
+        if self.hand is None and not self.incoming_piles.empty():
             self.hand = self.incoming_piles.get()
 
     def __str__(self):
@@ -99,16 +97,41 @@ class Player:
         if not self.incoming_piles.empty():
             self.hand = self.incoming_piles.get()
         else:
-            self.hand = none
+            self.hand = None
 
-card_list: list[Card]
-card_list = []
-for i in range(97, 123):
-    string = "card_" + chr(i)
-    card_list.append(Card(string))
-card_list.append(Card("card_g"))
-pile = Pile(card_list)
-print(str(pile))
-print(pile.remove_card_by_name('card_g'))
-print(pile.remove_card_by_name('card_g'))
-print(pile.remove_card_by_name('card_g'))
+    def pick_n_pass(self, card_name, player):
+        """
+        Removes the picked card, and then passes the pile to the next player
+        :param card_name:
+        :param player:
+        :return:
+        """
+        print(self.hand.remove_card_by_name(card_name))
+        self.send_pile(player)
+        print(self.hand)
+
+
+class Room:
+    players: list[Player]
+    player_count: int
+    room_number: int
+    passcode: str
+
+    def __init__(self, player_count: int, room_number: int, passcode: str = "draft"):
+        """
+        Creates a room for players to be put into that will handle interactions between players.
+        Exists to allow multiple rooms to run in parallel.
+        :param player_count: Max player count in the room.
+        :param room_number: Room number that will be used to identify which room the player is in.
+        :param passcode: Passcode to enter the room (defaults to "draft")
+        :return: "success" if there was room to let the player in, "fail" otherwise.
+        """
+        self.player_count = player_count
+        self.room_number = room_number
+        self.passcode = passcode
+
+    def let_player_join(self, player: Player):
+        if len(self.players) < self.player_count:
+            self.players.append(player)
+            return "success"
+        return "fail"
