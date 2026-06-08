@@ -1,9 +1,10 @@
 from os import name
 from queue import Queue
 
+from sympy import false, true
 from sympy.codegen.ast import none
 
-class Card:
+class Card(str):
     name: str
     def __init__(self, name: str):
         """
@@ -13,13 +14,10 @@ class Card:
         """
         self.name = name
 
-    def __str__(self):
-        return str(self.name)
-
-    def read_card(self):
+    def read_card(self) -> str:
         """
         Reads the name of the card and returns it.
-        :return: self.name
+        :return: string of self.name
         """
         return self.name
 
@@ -34,13 +32,30 @@ class Pile:
         self.cards = cards
 
     def __str__(self):
-        return str(self.cards)
+        out = ""
+        for card in self.cards:
+            out += str(card) + ", "
+        return out[:len(out) - 2]
+
+    def remove_card_by_name(self, card_name: str):
+        index = 0
+        found = false
+        for i, card in enumerate(self.cards):
+            if str(card) == str(card_name):
+                found = true
+                index = i
+        return str(index) + ": " + self.cards.pop(index) if found else none
+
+    def remove_card_by_index(self, index: int):
+        return self.cards.pop(index) if index < len(self.cards) else none
+
 
 class Player:
     incoming_piles: Queue[Pile]
     hand: Pile
     player_name: str
     player_id: int
+    next_player: Player
 
     def __init__(self, player_name: str, player_id: int, incoming_piles: Queue[Pile] = Queue[Pile](), hand: Pile = none):
         """
@@ -60,7 +75,7 @@ class Player:
     def __str__(self):
         return "name: " + self.player_name + "\nid: " + str(self.player_id) + "\nhand: " + str(self.hand) + "incoming piles: " + str(self.incoming_piles.qsize())
 
-    def add_pile(self, pile: Pile):
+    def add_pile(self, pile: Pile) -> Pile:
         """
         Adds a pile of cards to the queue. Then pops the front of the queue to the hand if the hand is empty.
         :param pile: Pile to add to the queue.
@@ -71,7 +86,7 @@ class Player:
             self.hand = self.incoming_piles.get()
         return pile
 
-    def send_pile(self, player):
+    def send_pile(self, player) -> None:
         """
         Sends the current hand to the next player.
         Adds this player's hand pile to the other player's incoming_pile queue.
@@ -91,4 +106,9 @@ card_list = []
 for i in range(97, 123):
     string = "card_" + chr(i)
     card_list.append(Card(string))
-print(str(card_list))
+card_list.append(Card("card_g"))
+pile = Pile(card_list)
+print(str(pile))
+print(pile.remove_card_by_name('card_g'))
+print(pile.remove_card_by_name('card_g'))
+print(pile.remove_card_by_name('card_g'))
