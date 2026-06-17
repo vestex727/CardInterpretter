@@ -17,7 +17,7 @@ from io import BytesIO
 
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-from scipy._lib.pyprima.common import message
+#from scipy._lib.pyprima.common import message
 from thefuzz import fuzz
 
 url = 'https://api.scryfall.com/cards/named?fuzzy='
@@ -38,19 +38,33 @@ oracle_texts = []
 image_srcs = []
 scryfall_links = []
 
-#Returns the name of a japanese card from image
 def get_japanese_card_name(image_path):
+    """
+    Returns the japanese name of a card from an image.
+    :param image_path: Image of japanese card to read
+    :return: string of japanese card name.
+    """
     get_card_name(image_path, 'ja')
 
-#Returns the name of an english card from image
 def get_english_card_name(image_path):
-    get_card_name(image_path, 'en')
+    """
+    Returns the name of an english card from given image.
+    :param image_path: image path of card to read.
+    :return: card's name.
+    """
+    return get_card_name(image_path, 'en')
 
-# Returns the name of a Magic the Gathering Card from image at image_path in given language.
-# Uses the easyocr library to retrieve the name of a card and return it in english.
-# Will currently return all text discovered in frame, but the first one is usually the card name.
-# Can return a series of card names if they are lined up as shown in the "cards_in_hand.png".
-def get_card_name(image_path, language):
+
+def get_card_name(image_path, language: str):
+    """
+    Returns the name of a Magic the Gathering Card from image at image_path in given language.
+    Uses the easyocr library to retrieve the name of a card and return it in english.
+    Will currently return all text discovered in frame, but the first one is usually the card name.
+    Can return a series of card names if they are lined up as shown in the "cards_in_hand.png".
+    :param image_path: image path for the image to read
+    :param language: language to check for in the image.
+    :return:
+    """
     match language:
         case 'ja':
             reader = easyocr.Reader(['ja'], gpu=False)
@@ -72,9 +86,14 @@ def get_card_name_from_file(file, language):
     result = reader.readtext(file, detail=0, paragraph=True)
     return result[0]
 
-#Way slower and less accurate than doing this sequentially
-#Probably don't use this
 def get_card_names(image_path):
+    """
+    Gets card names from image regardless of language.
+    This is less accurate, and slower than sequentially checking for card names one language at a time.
+    Obsolete.
+    :param image_path: Image path to find card.
+    :return: Card name
+    """
     reader = easyocr.Reader(['en', 'ja'], gpu=False)
     result = reader.readtext(image_path, detail=0, paragraph=True)
     return result
@@ -89,24 +108,46 @@ def get_official_card_name(image_path):
     print(result)
     return result
 
-#Gets the english image of a card
-def get_card_image(name):
+
+def get_card_image(name: str):
+    """
+    Gets the english image of the card.
+    :param name: english card name
+    :return: Card image url
+    """
     response = requests.get(url + name, headers=headers).json()
     print(response)
-    result = response['image_uris']['large']
-    print(result)
+    try:
+        result = response['image_uris']['large']
+    except:
+        print("Double Faced Cards")
+        result = response['card_faces'][0]['image_uris']['large']
+    finally:
+        print(result)
     return result
 
-# Displays an image from an image file.
-# Exists for testing, will be removed from final branch
+
 def display_card(url):
+    """
+    Displays an image file
+    Exists for testing purposes
+    Should not make it to prod branch
+    TODO remove from prod
+    :param url: Url of image to display
+    :return: nothing
+    """
     response = requests.get(url, headers=headers)
     img = Image.open(BytesIO(response.content))
     img.show()
 
-# Converts a card's name into a format that a browser can handle
-# Used for api-requests and constructing links
-def encode_name(name):
+
+def encode_name(name: str):
+    """
+    Converts a card's name into a format that a browser can handle.
+    Used for api-requests and constructing links
+    :param name: Name of the card to be requested
+    :return:
+    """
     name = name.strip()
     name = name.lower().replace(" ", "-")
     name = re.sub(r'[^a-zA-Z0-9-]', "", name)
@@ -158,15 +199,18 @@ def foreign_names_to_arrays(card):
         spanish_names.append("")
 """
 
-# Reads a json file containing the cards from a set into the arrays.
-# Uses the names of the card to collect the image files from scryfall.
-# Constructs the scryfall link from the set name and card number.
-# json files are collected from mtgjson (the GOATs).
-# TODO currently is hard coded to work with the Ikoria set.
+# TODO currently is hard coded to work with the Ikoria set. (See next line.)
 # TODO make the script check the languages the card is printed in automatically instead of manually.
-# TODO get the scryfall link a better way.
-# TODO add support for DFCs
+# TODO improve support for DFCs
 def json_to_arrays(json_file):
+    """
+    Reads the json file containing cards from a set into the arrays.
+    Uses the names if the card to collect the image files from scryfall.
+    Constructs the scryfall link from the set name and card number.
+    JSON files are collected from mtgjson (the GOATs).
+    :param json_file:
+    :return:
+    """
     with open(json_file) as json_data:
         info = json.load(json_data)
         data = info["data"]
@@ -276,17 +320,26 @@ def json_to_arrays(json_file):
             if i == 387:
                 break
 
-# Saves the card information arrays into a csv.
-# Can be used to make a new csv for a single set, update and old one, or cocotanating multiple sets
-# csv name is the name of the csv
+
 def create_csv(csv_name):
+    """
+    Saves the card information arrays into a csv.
+    Can be used to make a new csv for a single set, update an old one, or cocotante multiple sets.
+    :param csv_name: Name of the new csv (do not include the .csv extension).
+    :return: Nothing
+    """
     data = {"name": names, "oracle_text": oracle_texts, "scryfall_link": scryfall_links, "image_src": image_srcs, "chinese_simplified": chinese_simplified_names, "chinese_traditional": chinese_traditional_names, "french": french_names, "german": german_names, "italian": italian_names, "japanese": japanese_names, "korean": korean_names, "portuguese": portuguese_names, "russian": russian_names, "spanish": spanish_names}
     df = pd.DataFrame(data)
     df.to_csv(csv_name + ".csv", index=False)
 
-# Loads the card info csv into the arrays.
-# Multiple arrays can be loaded sequentially
+
 def load_csv(csv_name):
+    """
+    Loads the card info csv(s) into arrays.
+    Multiple arrays can be loaded sequentially.
+    :param csv_name: Name(s) of csv(s) to be opened
+    :return: card information array
+    """
     with open(csv_name, mode="r", newline='') as file:
         reader = csv.reader(file)
         data = list(reader)
@@ -311,10 +364,14 @@ def load_csv(csv_name):
             first = False
     return data
 
-# Takes in the foreign name of a card and the language to check, and looks up the english name
-# foreign_name is the foreign name of the card
-# language is the language to check the list for
+
 def get_english_name(foreign_name, language):
+    """
+    Takes in the foreign name of a card and the language to check, then looks up the english name
+    :param foreign_name: foreign name of the card to search for
+    :param language: Language to search in
+    :return: English name
+    """
     language = language.lower()
     try:
         if language == "chinese_simplified":
@@ -337,6 +394,7 @@ def get_english_name(foreign_name, language):
             return names[index]
         elif language == "korean":
             index = korean_names.index(foreign_name)
+            return names[index]
         elif language == "portuguese":
             index = portuguese_names.index(foreign_name)
             return index
@@ -352,33 +410,40 @@ def get_english_name(foreign_name, language):
     return ""
 
 def search_name_fuzzy(foreign_name, language):
+    """
+    Performs a fuzzy search for a card based on its foreign name and language to search.
+    Finds whichever card has the closest name to the given name.
+    :param foreign_name:
+    :param language:
+    :return:
+    """
     list_of_names = [names, chinese_simplified_names, chinese_traditional_names, french_names, german_names, italian_names, japanese_names, korean_names, portuguese_names, russian_names, spanish_names]
     language = language.lower()
     match language:
         case "english":
-            language_index = 0;
+            language_index = 0
         case "chinese_traditional":
-            language_index = 1;
+            language_index = 1
         case "chinese_simplified":
-            language_index = 2;
+            language_index = 2
         case "french":
-            language_index = 3;
+            language_index = 3
         case "german":
-            language_index = 4;
+            language_index = 4
         case "italian":
-            language_index = 5;
+            language_index = 5
         case "japanese":
-            language_index = 6;
+            language_index = 6
         case "korean":
-            language_index = 7;
+            language_index = 7
         case "portuguese":
-            language_index = 8;
+            language_index = 8
         case "russian":
-            language_index = 9;
+            language_index = 9
         case "spanish":
-            language_index = 10;
+            language_index = 10
         case _:
-            language_index = 0;
+            language_index = 0
     name_list_to_search = list_of_names[language_index]
 
 
@@ -403,7 +468,9 @@ name = get_official_card_name("sad_robot.png")
 image = get_card_image(name)
 display_card(image)
 """
-load_csv("IKO.csv")
+#json_to_arrays("/Unproccessed_Data/SOI.json")
+#create_csv("SOI")
+#load_csv("IKO.csv")
 
 app = Flask(__name__)
 CORS(app)
