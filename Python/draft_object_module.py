@@ -1,6 +1,10 @@
 from queue import Queue
 from sympy import false, true
 
+from Python.draft_server import taken_player_ids
+from Python.draft_server_test_files import players
+
+
 class Card(str):
     name: str
     def __init__(self, name: str):
@@ -43,9 +47,9 @@ class Pile:
                 index = i
         return str(index) + ": " + self.cards.pop(index) if found else None
 
+
     def remove_card_by_index(self, index: int):
         return self.cards.pop(index) if index < len(self.cards) else None
-
 
 class Player:
     incoming_piles: Queue[Pile]
@@ -99,7 +103,19 @@ class Player:
         else:
             self.hand = None
 
-    def pick_n_pass(self, card_name, player_to_pass_to = next_player):
+
+    def pick_n_pass_by_index(self, card_index: int, player_to_pass_to = next_player):
+        """
+        Removes the picked card, and then passes the pile to the next player
+        :param card_name: card to find, pick, and remove.
+        :param player_to_pass_to: player to pass the pile to after making the pick
+        :return: Nothing.
+        """
+        print(self.hand.remove_card_by_index(card_index))
+        self.send_pile(player_to_pass_to)
+        print(self.hand)
+
+    def pick_n_pass(self, card_name: str, player_to_pass_to = next_player):
         """
         Removes the picked card, and then passes the pile to the next player
         :param card_name: card to find, pick, and remove.
@@ -110,13 +126,24 @@ class Player:
         self.send_pile(player_to_pass_to)
         print(self.hand)
 
+    def last_pick(self):
+        """
+        Removes the last card from the hand.
+        There is nothing remaining in the pile to pass along, so the pile is just deleted.
+        :return: name of the last card to be picked this pack.
+        """
+        last_card = self.hand.remove_card_by_index(0)
+        self.hand = None
+        return str(last_card)
+
 
 class Room:
     players: list[Player]
-    player_count: int
+    player_count: int           # Maximum number of players in room.
     room_number: int
     passcode: str
-    taken_numbers: list[int]
+    taken_numbers: list[int]    # Seat Numbers that are currently claimed.
+    number_of_players_ready: int
 
     def __init__(self, player_count: int, room_number: int, passcode: str = "draft"):
         """
@@ -131,6 +158,15 @@ class Room:
         self.room_number = room_number
         self.passcode = passcode
         self.players = [None] * player_count
+        self.number_of_players_ready = 0
+
+    def __int__(self):
+        """
+        Converts the room to an int.
+        Equal to the room number.
+        :return: room number.
+        """
+        return self.room_number
 
     def generate_seat_number(self):
         """
@@ -142,24 +178,49 @@ class Room:
                 return i
         return None
 
-    def let_player_join(self, player: Player, seat_number: int = -1):
+    def let_player_join(self, player: Player, seat_number: int = 0):
         """
         Attempts to allow player to join the room.
         If the room is full, it doesn't allow the player to join.
         If the selected seat number the player wants is taken, fails to allow the player to join.
-        If the player number is -1, it allows the room to select the player's seat number.
+        If the player number is 0, it allows the room to select the player's seat number.
         :param player: The Player object to be put into the room.
         :param seat_number: The seat number that the player is trying to take. If the seat is taken, they won't be able to join. If the value is -1, the seating will be assigned. Default value of -1.
         :return: "success" if the player was able to join, "seat taken fail" if the desired seat was taken, and "full room fail" if the room was full.
         """
         if len(self.players) < self.player_count:
-            if seat_number == -1 or seat_number in self.taken_numbers:
-                if seat_number == -1:
+            if seat_number < 1 or seat_number in self.taken_numbers:
+                if seat_number < 1:
                     seat_number = self.generate_seat_number()
                 self.players[seat_number-1] = player
                 return "success"
             return "seat taken fail"
         return "full room fail"
+
+    def get_player_by_id(self, player_id: int):
+        """
+        Gets player in room by player id.
+        :param player_id: ID to search players for.
+        :return: player object with id matching player_id if one exists. None if otherwise.
+        """
+        for player in self.players:
+            if player.player_id == player_id:
+                return player
+        return None
+
+    def remove_player_by_id(self, player_id: int):
+        """
+        Removes a player from the room.
+        Removes their seat from the list of taken seats.
+        :param player_id: Player id of the player to remove from the room.
+        :return: True if removal is successful, False if there was no player to remove.
+        """
+        for index, player in enumerate(players):
+            if player.player_id == player_id:
+                players[index] = None
+                self.taken_numbers.remove(index)
+                return True
+        return False
 
     def assign_next_player_clockwise(self):
         """
@@ -172,6 +233,7 @@ class Room:
             if index == len(self.players):
                 index = 0
             player.next_player = self.players[index]
+        self.number_of_players_ready = 0
 
     def assign_next_player_counterclockwise(self):
         """
@@ -184,3 +246,4 @@ class Room:
             if index == len(self.players):
                 index = 0
             player.next_player = self.players[index]
+        self.number_of_players_ready = 0
