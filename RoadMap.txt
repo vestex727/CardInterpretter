@@ -1,0 +1,64 @@
+Phase 1 Release:
+
+------------------------------
+Basic Front-End Functionality.
+
+    Template for game space pages.      COMPLETE.
+    Completing all game space pages.
+    Draft Mode Pages.
+        Landing Page.
+        Page for waiting for players to join.
+        Picking from cards available page.
+            Should include cards picked so far hidden or at the bottom.
+        Waiting for next pile page.
+    All Legally-Required Pages.
+    Settings
+    About
+    Landing Page
+
+------------------------------
+Basic Back-End Functionality.
+
+    Script to take mtgjson file, and create an appropriate csv from it.
+    Server to take in image of cards and return translated card info.
+        Single card functionality.      COMPLETE
+        Multi card functionality.
+        API     COMPLETE
+    Draft Server
+        Backend to handle draft process
+            Showing Hand.       COMPLETE
+            Picking Card from hand.         COMPLETE
+            Passing hand to the next player.        COMPLETE
+            Assigning each player the next player to pass to.
+            Handling when each round is done, and starting the next round.
+        Gracefully Closing the server when the use is done.
+        API
+
+
+------------------------------
+Phase 2 Release:
+
+------------------------------
+Front-End
+
+    Improved Aesthetics.
+    Hide already picked cards behind an accordian in draft mode.
+
+------------------------------
+Back-End
+
+    Card Sharing.
+    Clean up edge cases in csv production.
+        Double Sided cards should have separate images.
+        Godzilla style renamed UB cards.
+        Missing languages cards.
+        Those 5 weird language cards. (Don't hold your breath on this one. I don't know if I can get the OCR to work with Ancient Greek, Sanskrit or Hebrew.)
+    Ability to change the current csv from the website (with the help of a dropdown menu).
+
+
+------------------------------
+Phase 3 Release:
+
+    Automated Card Database updating.
+    17 lands integration.
+    Other language support. (As in translate TO French). 
