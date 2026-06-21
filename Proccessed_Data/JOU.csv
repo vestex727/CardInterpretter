@@ -1,0 +1,931 @@
+name,oracle_text,scryfall_link,image_src,chinese_simplified,chinese_traditional,french,german,italian,japanese,korean,portuguese,russian,spanish
+Aegis of the Gods,"Aegis of the Gods	{1}{W}
+Enchantment Creature — Human Soldier
+You have hexproof. (You can't be the target of spells or abilities your opponents control.)
+2/1
+",https://scryfall.com/card/jou/1/aegis-of-the-gods,https://cards.scryfall.io/large/front/f/2/f2b2f381-86a2-42ac-b694-dcde437d574f.jpg?1593095152,庇佑神使,庇佑神使,Égide des dieux,Schildwache der Götter,Egida degli Dei,神々の神盾,신들의 방패,Égide dos Deuses,Эгида Богов,Égida de los dioses
+Ajani's Presence,"Ajani's Presence	{W}
+Instant
+Strive — This spell costs {2}{W} more to cast for each target beyond the first.
+Any number of target creatures each get +1/+1 and gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)
+
+",https://scryfall.com/card/jou/2/ajanis-presence,https://cards.scryfall.io/large/front/e/7/e77e2fd5-5c46-4f6b-ac43-ec23fab57a1a.jpg?1593095164,阿耶尼的风采,阿耶尼的風采,Présence d'Ajani,Ajanis Präsenz,Presenza di Ajani,アジャニの存在,아자니의 존재감,Presença de Ajani,Присутствие Аджани,Presencia de Ajani
+Akroan Mastiff,"Akroan Mastiff	{3}{W}
+Creature — Dog
+{W}, {T}: Tap target creature.
+2/2
+",https://scryfall.com/card/jou/3/akroan-mastiff,https://cards.scryfall.io/large/front/7/e/7e21938b-46b1-4b2f-8269-0cd0e998cddc.jpg?1593095175,阿喀洛斯獒犬,阿喀洛斯獒犬,Dogue akroen,Akroischer Mastiff,Mastino di Akros,アクロスの猛犬,아크로스 마스티프,Mastim Acrosano,Акросский Мастиф,Mastín akroniense
+Armament of Nyx,"Armament of Nyx	{2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has double strike as long as it's an enchantment. Otherwise, prevent all damage that would be dealt by enchanted creature. (A creature with double strike deals both first-strike and regular combat damage.)
+
+",https://scryfall.com/card/jou/4/armament-of-nyx,https://cards.scryfall.io/large/front/4/2/4203df15-dd44-496b-889a-d7a8fe320330.jpg?1593095185,尼兹战具,尼茲戰具,Armement de Nyx,Nyx-Bewaffnung,Armamento di Nyx,ニクスの武装,닉스의 무기,Armamento de Nyx,Вооружение Никса,Armamento de Nyx
+Banishing Light,"Banishing Light	{2}{W}
+Enchantment
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+
+",https://scryfall.com/card/jou/5/banishing-light,https://cards.scryfall.io/large/front/c/4/c45f11cd-a0aa-4d14-aa21-57f0969f3e2b.jpg?1752946576,驱逐明光,驅逐明光,Lumière de bannissement,Bannendes Licht,Luce Esiliatrice,払拭の光,추방의 빛,Luz Banidora,Изгоняющий Свет,Luz de destierro
+Dawnbringer Charioteers,"Dawnbringer Charioteers	{2}{W}{W}
+Creature — Human Soldier
+Flying, lifelink
+Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature.
+2/4
+",https://scryfall.com/card/jou/6/dawnbringer-charioteers,https://cards.scryfall.io/large/front/e/c/eca7b7d9-8b69-411a-8a1d-9b7d0492e7d0.jpg?1593095201,送晓御夫,送曉御夫,Auriges porteurs de l'aube,Wagenlenker der Morgenröte,Aurighi dell'Alba,黎明運びの戦車兵,여명을 부르는 전차대,Aurigas da Alvorada,Колесничие Зари,Aurigas portadores del alba
+Deicide,"Deicide	{1}{W}
+Instant
+Exile target enchantment. If the exiled card is a God card, search its controller's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.
+
+",https://scryfall.com/card/jou/7/deicide,https://cards.scryfall.io/large/front/6/0/6012964c-eb76-4581-82ae-aec2d36f0d56.jpg?1593095208,弑神,弒神,Théobole,Gottesmord,Deicidio,神討ち,신을 죽이다,Deicídio,Богоубийство,Deicidio
+Dictate of Heliod,"Dictate of Heliod	{3}{W}{W}
+Enchantment
+Flash
+Creatures you control get +2/+2.
+
+",https://scryfall.com/card/jou/8/dictate-of-heliod,https://cards.scryfall.io/large/front/f/9/f964c561-96ac-4558-b46e-ba2c472d5807.jpg?1562711717,赫利欧德的旨意,赫利歐德的旨意,Précepte d'Héliode,Gebot des Heliod,Dettami di Eliod,ヘリオッドの指図,헬리아드의 규율,Decreto de Heliode,Веление Гелиода,Mandato de Heliod
+Eagle of the Watch,"Eagle of the Watch	{2}{W}
+Creature — Bird
+Flying, vigilance
+2/1
+",https://scryfall.com/card/jou/9/eagle-of-the-watch,https://cards.scryfall.io/large/front/8/a/8af7956d-f811-49d3-bef7-07f294dcea3c.jpg?1562030310,守望雄鹰,守望雄鷹,Aigle des veilleurs,Adler der Wache,Aquila della Guardia,警備隊の鷲,경비대 독수리,Águia da Vigia,Сторожевой Орел,Águila de la Guardia
+Eidolon of Rhetoric,"Eidolon of Rhetoric	{2}{W}
+Enchantment Creature — Spirit
+Each player can't cast more than one spell each turn.
+1/4
+",https://scryfall.com/card/jou/10/eidolon-of-rhetoric,https://cards.scryfall.io/large/front/c/3/c3bc8b9e-4d22-41ba-b593-d383fd301ef9.jpg?1593095228,巧辞幻灵,巧辭幻靈,Eidôlon de la rhétorique,Eidolon der Redekunst,Apparizione della Retorica,弁論の幻霊,웅변의 에이돌론,Eidolon da Retórica,Эйдолон Риторики,Eidolón de la retórica
+Font of Vigor,"Font of Vigor	{1}{W}
+Enchantment
+{2}{W}, Sacrifice this enchantment: You gain 7 life.
+
+",https://scryfall.com/card/jou/11/font-of-vigor,https://cards.scryfall.io/large/front/d/4/d4ef3a8e-ef8b-417a-a3a9-cb0ce88cb0c9.jpg?1593095237,活力洗礼池,活力洗禮池,Fontaine de vigueur,Quell der Lebenskraft,Fonte del Vigore,活力の泉,활력의 세례반,Fonte do Vigor,Источник Сил,Fuente del vigor
+Godsend,"Godsend	{1}{W}{W}
+Legendary Artifact — Equipment
+Equipped creature gets +3/+3.
+Whenever equipped creature blocks or becomes blocked by one or more creatures, you may exile one of those creatures.
+Your opponents can't cast spells with the same name as a card exiled with Godsend.
+Equip {3}
+
+",https://scryfall.com/card/jou/12/godsend,https://cards.scryfall.io/large/front/2/d/2dcf3975-7f81-4bdd-810d-476f46444b7a.jpg?1593095245,承阳剑,承陽劍,Don du ciel,Gottesheil,Nemesi degli Dei,神送り,신의 선물,Mensageira dos Deuses,Божий Дар,Filo divino
+Harvestguard Alseids,"Harvestguard Alseids	{2}{W}
+Enchantment Creature — Nymph
+Constellation — Whenever this creature or another enchantment you control enters, prevent all damage that would be dealt to target creature this turn.
+2/3
+",https://scryfall.com/card/jou/13/harvestguard-alseids,https://cards.scryfall.io/large/front/3/b/3b9256e2-b59c-4997-91c1-4c565746d53d.jpg?1593095252,佑丰蔻灵,佑豐蔻靈,Alséïdes des moissons,Ernte-Alseiden,Alseidi del Raccolto,収穫守りのアルセイド,수확감시자 알세이드,Alseídes da Colheita,"Альсеиды, Хранительницы Урожая",Alseides guardacosecha
+Lagonna-Band Trailblazer,"Lagonna-Band Trailblazer	{W}
+Creature — Centaur Scout
+Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it.
+0/4
+",https://scryfall.com/card/jou/14/lagonna-band-trailblazer,https://cards.scryfall.io/large/front/3/8/38a6f533-6acb-4c24-ae9d-fe4977230156.jpg?1593095258,拉苟那族开路人,拉苟那族開路人,Pionnière du clan Lagonna,Pionierin der Lagonna-Herde,Scopripista della Banda Lagonna,ラゴンナ団の先駆者,라곤나 무리 개척자,Pioneira do Bando de Lagonna,Путница Племени Лагонна,Pionera del clan Lagonna
+Launch the Fleet,"Launch the Fleet	{W}
+Sorcery
+Strive — This spell costs {1} more to cast for each target beyond the first.
+Until end of turn, any number of target creatures each gain ""Whenever this creature attacks, create a 1/1 white Soldier creature token that's tapped and attacking.""
+
+",https://scryfall.com/card/jou/15/launch-the-fleet,https://cards.scryfall.io/large/front/b/c/bc3e52c0-2f79-4537-8f1c-70b68836bac0.jpg?1593095265,舰队启航,艦隊啟航,Déployer la flotte,Die Flotte aussenden,Arrembaggio della Flotta,船団の出航,함대 출진,Lançar a Frota,Спуск Флота,Flota a la carga
+Leonin Iconoclast,"Leonin Iconoclast	{3}{W}
+Creature — Cat Monk
+Heroic — Whenever you cast a spell that targets this creature, destroy target enchantment creature an opponent controls.
+3/2
+",https://scryfall.com/card/jou/16/leonin-iconoclast,https://cards.scryfall.io/large/front/7/d/7dfaa12e-f1d9-4a39-804f-14cdaf382257.jpg?1593095271,反逆狮族,反逆獅族,Iconoclaste léonine,Leoniden-Ikonoklastin,Iconoclasta Leonid,レオニンの偶像破壊者,레오닌 우상파괴자,Iconoclasta Leonino,Леонинская Бунтарка,Iconoclasta leonina
+Mortal Obstinacy,"Mortal Obstinacy	{W}
+Enchantment — Aura
+Enchant creature you control
+Enchanted creature gets +1/+1.
+Whenever enchanted creature deals combat damage to a player, you may sacrifice this Aura. If you do, destroy target enchantment.
+
+",https://scryfall.com/card/jou/17/mortal-obstinacy,https://cards.scryfall.io/large/front/6/7/67652df1-f2cc-44cd-ac66-9722d4cd86e9.jpg?1593095278,凡尘执念,凡塵執念,Obstination mortelle,Sturheit der Sterblichen,Ostinazione Mortale,定命の者の強情,필멸자의 끈기,Obstinação dos Mortais,Упрямство Смертных,Obstinación de mortal
+Nyx-Fleece Ram,"Nyx-Fleece Ram	{1}{W}
+Enchantment Creature — Sheep
+At the beginning of your upkeep, you gain 1 life.
+0/5
+",https://scryfall.com/card/jou/18/nyx-fleece-ram,https://cards.scryfall.io/large/front/7/7/771fcea9-1007-4ff6-8000-99017978ac1c.jpg?1748079675,星绒绵羊,星絨綿羊,Bélier à toison de Nyx,Nyxvlies-Widder,Ariete dal Vello di Nyx,ニクス毛の雄羊,닉스 양털 산양,Carneiro Velocino-de-Nyx,Звезднорунный Овен,Carnero vellocino de Nyx
+Oppressive Rays,"Oppressive Rays	{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can't attack or block unless its controller pays {3}.
+Activated abilities of enchanted creature cost {3} more to activate.
+
+",https://scryfall.com/card/jou/19/oppressive-rays,https://cards.scryfall.io/large/front/5/3/53555768-edad-4441-b6a7-ea2a7cb38abd.jpg?1562787056,压迫射线,壓迫射線,Rayons oppressants,Hemmende Strahlen,Raggi Opprimenti,抑圧的な光線,숨막히는 광선,Raios Opressores,Лучи Подавления,Rayos opresivos
+Oreskos Swiftclaw,"Oreskos Swiftclaw	{1}{W}
+Creature — Cat Warrior
+
+3/1
+",https://scryfall.com/card/jou/20/oreskos-swiftclaw,https://cards.scryfall.io/large/front/0/e/0ea1dfb4-1983-41f7-956c-f2a1d1489b54.jpg?1562300343,俄瑞恣迅爪兵,俄瑞恣迅爪兵,Lestegriffe d'Oreskos,Oreskos-Scharfkralle,Artiglio Rapido di Oreskos,オレスコスの速爪,빠른발톱 오레스코스,Garra-veloz de Oreskos,Быстрый Коготь из Ореска,Garraveloz de Oreskos
+Phalanx Formation,"Phalanx Formation	{2}{W}
+Instant
+Strive — This spell costs {1}{W} more to cast for each target beyond the first.
+Any number of target creatures each gain double strike until end of turn. (They deal both first-strike and regular combat damage.)
+
+",https://scryfall.com/card/jou/21/phalanx-formation,https://cards.scryfall.io/large/front/7/e/7e9aaba1-e480-4667-b3c9-d5665a3b4806.jpg?1593095308,方阵队型,方陣隊型,Formation de la phalange,Phalanx-Formation,Falange Serrata,密集軍の隊形,팔랑크스 대형,Formação de Falange,Построение Фалангой,Formación de falange
+Quarry Colossus,"Quarry Colossus	{5}{W}{W}
+Creature — Giant
+When this creature enters, put target creature into its owner's library just beneath the top X cards of that library, where X is the number of Plains you control.
+5/6
+",https://scryfall.com/card/jou/22/quarry-colossus,https://cards.scryfall.io/large/front/d/9/d921128a-ebfd-4e3c-8728-481a8c3c03f3.jpg?1593095317,采石场巨像,採石場巨像,Colosse des carrières,Steinbruch-Koloss,Colosso della Cava,採石場の巨人,채석장 거인,Colosso da Pedreira,Колосс Каменоломни,Coloso de la cantera
+Reprisal,"Reprisal	{1}{W}
+Instant
+Destroy target creature with power 4 or greater. It can't be regenerated.
+
+",https://scryfall.com/card/jou/23/reprisal,https://cards.scryfall.io/large/front/3/4/343baad1-dd58-4d64-9b0a-258618094ceb.jpg?1593095328,报复,報復,Représailles,Revolte,Rappresaglia,復仇,보복,Represália,Воздаяние,Represalia
+Sightless Brawler,"Sightless Brawler	{1}{W}
+Enchantment Creature — Human Warrior
+Bestow {4}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+This creature can't attack alone.
+Enchanted creature gets +3/+2 and can't attack alone.
+3/2
+",https://scryfall.com/card/jou/24/sightless-brawler,https://cards.scryfall.io/large/front/7/e/7e2fcd27-c068-468f-9825-2825c0cf217d.jpg?1593095335,盲目喧哗兵,盲目喧嘩兵,Bagarreur aveugle,Blinder Raufbold,Lottatore Cieco,盲いた喧嘩屋,눈먼 싸움꾼,Rufião Cego,Незрячий Боец,Pendenciero invidente
+Skybind,"Skybind	{3}{W}{W}
+Enchantment
+Constellation — Whenever this enchantment or another enchantment you control enters, exile target nonenchantment permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+
+",https://scryfall.com/card/jou/25/skybind,https://cards.scryfall.io/large/front/9/1/91e3117a-0955-47fc-81c0-7a662c8c487f.jpg?1593095343,缚空咒,縛空咒,Lien céleste,Himmelsbindung,Vincolo Celeste,空封じ,하늘 결박,Prisão Celeste,Небесное Связывание,Vínculo celeste
+Skyspear Cavalry,"Skyspear Cavalry	{3}{W}{W}
+Creature — Human Soldier
+Flying
+Double strike (This creature deals both first-strike and regular combat damage.)
+2/2
+",https://scryfall.com/card/jou/26/skyspear-cavalry,https://cards.scryfall.io/large/front/c/4/c41a35c6-14d9-4b8f-88f1-f1442e4ef222.jpg?1547515891,空矛骑兵,空矛騎兵,Cavalerie lanceciel,Himmelsspeer-Kavallerie,Cavalleria della Lancia Celeste,空槍の騎兵,하늘창 기병,Cavalaria da Lança Celeste,Верховая Небесная Копейщица,Caballería de lanceras celestes
+Stonewise Fortifier,"Stonewise Fortifier	{1}{W}
+Creature — Human Wizard
+{4}{W}: Prevent all damage that would be dealt to this creature by target creature this turn.
+2/2
+",https://scryfall.com/card/jou/27/stonewise-fortifier,https://cards.scryfall.io/large/front/4/b/4b1cd291-92a0-4f0f-b73a-64fc498da1ef.jpg?1593095358,擅雕筑匠,擅雕築匠,Fortificateur sophiolithe,Steinkundiger Wächter,Saggio della Pietra Fortificatore,石識の防衛者,돌마도사 축성가,Fortificador Petrisábio,Укрепляющий Камнезнатец,Fortificador rocasagaz
+Supply-Line Cranes,"Supply-Line Cranes	{3}{W}{W}
+Creature — Bird
+Flying
+When this creature enters, put a +1/+1 counter on target creature.
+2/4
+",https://scryfall.com/card/jou/28/supply-line-cranes,https://cards.scryfall.io/large/front/7/6/764bd86e-4156-4c58-9ce0-ca3dffbc7298.jpg?1593095366,补给鹤,補給鶴,Grues de ravitaillement,Nachschub-Kraniche,Gru di Rifornimento,補給線の鶴,학 보급부대,Grous de Suprimento,Снабжающие Журавли,Grullas de línea de suministro
+Tethmos High Priest,"Tethmos High Priest	{2}{W}
+Creature — Cat Cleric
+Heroic — Whenever you cast a spell that targets this creature, return target creature card with mana value 2 or less from your graveyard to the battlefield.
+2/3
+",https://scryfall.com/card/jou/29/tethmos-high-priest,https://cards.scryfall.io/large/front/5/1/51baeea2-a922-4e98-8253-f395546c30c8.jpg?1547515983,忒特摩斯高阶僧侣,忒特摩斯高階僧侶,Grand prêtre de Tethmos,Hohepriester von Tethmos,Sommo Sacerdote di Tethmos,テツモスの大神官,테스모스 고위 성직자,Alto Sacerdote de Tétimos,Верховный Жрец Тетма,Gran sacerdote de Tetmos
+Aerial Formation,"Aerial Formation	{U}
+Instant
+Strive — This spell costs {2}{U} more to cast for each target beyond the first.
+Any number of target creatures each get +1/+1 and gain flying until end of turn.
+
+",https://scryfall.com/card/jou/30/aerial-formation,https://cards.scryfall.io/large/front/f/c/fce86785-bc03-451e-8422-8bb53082cc12.jpg?1593095380,空中列阵,空中列陣,Formation aérienne,Flugformation,Formazione Aerea,空中隊形,공습 대형,Formação Aérea,Воздушное Построение,Formación aérea
+Battlefield Thaumaturge,"Battlefield Thaumaturge	{1}{U}
+Creature — Human Wizard
+Each instant and sorcery spell you cast costs {1} less to cast for each creature it targets.
+Heroic — Whenever you cast a spell that targets this creature, this creature gains hexproof until end of turn.
+2/1
+",https://scryfall.com/card/jou/31/battlefield-thaumaturge,https://cards.scryfall.io/large/front/4/6/467ffc93-b107-457c-af04-a1b682a4b886.jpg?1593095387,战场奇术师,戰場奇術師,Thaumaturge de campagne,Schlachtfeld-Thaumaturg,Taumaturgo Combattente,戦場の秘術師,전장의 요술사,Taumaturgo da Batalha,Боевой Тавматург,Taumaturgo del campo de batalla
+Cloaked Siren,"Cloaked Siren	{3}{U}
+Creature — Siren
+Flash (You may cast this spell any time you could cast an instant.)
+Flying
+3/2
+",https://scryfall.com/card/jou/32/cloaked-siren,https://cards.scryfall.io/large/front/5/f/5f2f76f9-b883-42e1-bd74-71934e15b973.jpg?1576382375,隐匿塞连,隱匿塞連,Sirène dissimulée,Getarnte Sirene,Sirena Celata,擬態するセイレーン,망토를 두른 세이렌,Sirena Camuflada,Укрытая Сирена,Sirena encubierta
+Countermand,"Countermand	{2}{U}{U}
+Instant
+Counter target spell. Its controller mills four cards.
+
+",https://scryfall.com/card/jou/33/countermand,https://cards.scryfall.io/large/front/0/7/07815e32-0b64-4c2b-84e6-a72336c45cf5.jpg?1593095401,勒令撤销,勒令撤銷,Contrordre,Gegenbefehl,Contrordine,撤回命令,철회,Contra-ordem,Контрприказ,Contraorden
+Crystalline Nautilus,"Crystalline Nautilus	{2}{U}
+Enchantment Creature — Nautilus
+Bestow {3}{U}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+When this permanent becomes the target of a spell or ability, sacrifice it.
+Enchanted creature gets +4/+4 and has ""When this creature becomes the target of a spell or ability, sacrifice it.""
+4/4
+",https://scryfall.com/card/jou/34/crystalline-nautilus,https://cards.scryfall.io/large/front/8/8/88a60d25-b97f-40e7-a5ac-c456cee02aeb.jpg?1593095409,晶澈鹦鹉螺,晶澈鸚鵡螺,Nautile cristallin,Kristalliner Nautilus,Nautilo Cristallino,水晶オウムガイ,수정 앵무조개,Náutilo Cristalino,Кристальный Наутилус,Nautilo cristalino
+Dakra Mystic,"Dakra Mystic	{U}
+Creature — Merfolk Wizard
+{U}, {T}: Each player reveals the top card of their library. You may put the revealed cards into their owners' graveyards. If you don't, each player draws a card.
+1/1
+",https://scryfall.com/card/jou/35/dakra-mystic,https://cards.scryfall.io/large/front/8/e/8e5f71ca-e7d9-4f9a-adf1-40353693deea.jpg?1593095417,达克拉秘教徒,達克拉秘教徒,Mystique dakra,Dakra-Mystikerin,Mistica delle Dakra,ダクラの神秘家,다크라 신비주의자,Místico de Dakra,Мистик из Дакры,Mística de Dakra
+Daring Thief,"Daring Thief	{2}{U}
+Creature — Human Rogue
+Inspired — Whenever this creature becomes untapped, you may exchange control of target nonland permanent you control and target permanent an opponent controls that shares a card type with it.
+2/3
+",https://scryfall.com/card/jou/36/daring-thief,https://cards.scryfall.io/large/front/c/9/c9d9378d-e553-48b5-8a23-59a35329eda2.jpg?1593095424,大胆的窃贼,大膽的竊賊,Voleuse audacieuse,Dreiste Diebin,Ladra Audace,果敢な泥棒,대담한 도둑,Ladrão Ousado,Дерзкая Воровка,Ladrona temeraria
+Dictate of Kruphix,"Dictate of Kruphix	{1}{U}{U}
+Enchantment
+Flash (You may cast this spell any time you could cast an instant.)
+At the beginning of each player's draw step, that player draws an additional card.
+
+",https://scryfall.com/card/jou/37/dictate-of-kruphix,https://cards.scryfall.io/large/front/b/5/b5e4087b-e692-4eb2-bb59-ff2a001d6dd4.jpg?1730490828,克罗芬斯的旨意,克羅芬斯的旨意,Précepte de Kruphix,Gebot des Kruphix,Dettami di Krufix,クルフィックスの指図,크루픽스의 규율,Decreto de Crufix,Веление Круфикса,Mandato de Krufix
+Font of Fortunes,"Font of Fortunes	{1}{U}
+Enchantment
+{1}{U}, Sacrifice this enchantment: Draw two cards.
+
+",https://scryfall.com/card/jou/38/font-of-fortunes,https://cards.scryfall.io/large/front/2/5/25de3481-9b0d-4747-a97b-171b6aa41073.jpg?1593095437,命运洗礼池,命運洗禮池,Fontaine des fortunes,Quell der Schicksale,Fonte della Fortuna,運命の泉,행운의 세례반,Fonte das Fortunas,Источник Судеб,Fuente de la fortuna
+Godhunter Octopus,"Godhunter Octopus	{5}{U}
+Creature — Octopus
+This creature can't attack unless defending player controls an enchantment or an enchanted permanent.
+5/5
+",https://scryfall.com/card/jou/39/godhunter-octopus,https://cards.scryfall.io/large/front/d/a/da106c23-fd1c-461b-9301-159f93ef489b.jpg?1593095444,捕神章鱼,捕神章魚,Pieuvre chasse-dieu,Gottesjäger-Oktopus,Piovra Cacciadei,神狩りの大ダコ,신사냥꾼 문어,Polvo Caçador de Deuses,"Спрут, Охотник на Богов",Pulpo cazadioses
+Hour of Need,"Hour of Need	{2}{U}
+Instant
+Strive — This spell costs {1}{U} more to cast for each target beyond the first.
+Exile any number of target creatures. For each creature exiled this way, its controller creates a 4/4 blue Sphinx creature token with flying.
+
+",https://scryfall.com/card/jou/40/hour-of-need,https://cards.scryfall.io/large/front/7/3/737b859d-d81e-4da3-a8bf-9a8f23c75a50.jpg?1593095453,危急关头,危急關頭,Heure du besoin,Stunde der Not,Ora del Bisogno,難局,필요의 시간,Hora da Necessidade,Час Нужды,Momento de necesidad
+Hubris,"Hubris	{1}{U}
+Instant
+Return target creature and all Auras attached to it to their owners' hands.
+
+",https://scryfall.com/card/jou/41/hubris,https://cards.scryfall.io/large/front/0/5/05f5b473-edad-43a9-b4e7-b6d3fc877cf2.jpg?1593095462,傲睨,傲睨,Hubris,Hybris,Hybris,傲慢,오만,Arrogância,Спесь,Arrogancia
+Hypnotic Siren,"Hypnotic Siren	{U}
+Enchantment Creature — Siren
+Bestow {5}{U}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+Flying
+You control enchanted creature.
+Enchanted creature gets +1/+1 and has flying.
+1/1
+",https://scryfall.com/card/jou/42/hypnotic-siren,https://cards.scryfall.io/large/front/3/b/3b2f562f-00d1-41da-a6ac-bc019cce7fe7.jpg?1593095469,催眠塞连,催眠塞連,Sirène hypnotique,Hypnotische Sirene,Sirena Ipnotica,惑乱のセイレーン,최면 세이렌,Sirena Hipnótica,Гипнотическая Сирена,Sirena hipnótica
+Interpret the Signs,"Interpret the Signs	{5}{U}
+Sorcery
+Scry 3, then reveal the top card of your library. Draw cards equal to that card's mana value. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom and the rest on top in any order.)
+
+",https://scryfall.com/card/jou/43/interpret-the-signs,https://cards.scryfall.io/large/front/4/2/42dbf049-5c02-4038-86de-fa6b5110cf7e.jpg?1608909267,解读预兆,解讀預兆,Interpréter les signes,Die Zeichen deuten,Interpretare i Segni,啓示の解読,징조 해석,Interpretar os Sinais,Чтение Знаков,Interpretar las señales
+Kiora's Dismissal,"Kiora's Dismissal	{U}
+Instant
+Strive — This spell costs {U} more to cast for each target beyond the first.
+Return any number of target enchantments to their owners' hands.
+
+",https://scryfall.com/card/jou/44/kioras-dismissal,https://cards.scryfall.io/large/front/2/1/21b040e5-651b-42ca-b487-66cf1d8180f9.jpg?1593095483,奇奥拉的驱散,奇奧拉的驅散,Rejet de Kiora,Kioras Rückruf,Congedo di Kiora,キオーラの放逐,키오라의 일축,Exoneração de Kiora,Отказ Киоры,Destitución de Kiora
+Pin to the Earth,"Pin to the Earth	{1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -6/-0.
+
+",https://scryfall.com/card/jou/45/pin-to-the-earth,https://cards.scryfall.io/large/front/c/0/c04e6915-39b0-4fbc-9114-2ecf371b6f72.jpg?1593095491,钉牢在地,釘牢在地,Clouer au sol,Zu Boden drücken,Inchiodare a Terra,大地への縫い止め,땅에 고정시키다,Cravar na Terra,Пришпилить к Земле,Anclar al suelo
+Polymorphous Rush,"Polymorphous Rush	{2}{U}
+Instant
+Strive — This spell costs {1}{U} more to cast for each target beyond the first.
+Choose a creature on the battlefield. Any number of target creatures you control each become a copy of that creature until end of turn.
+
+",https://scryfall.com/card/jou/46/polymorphous-rush,https://cards.scryfall.io/large/front/2/f/2ff5f703-339f-430c-b342-77bcc2c63222.jpg?1593095502,幻型涌现,幻型湧現,Ruée polymorphe,Polymorpher Ansturm,Carica dei Polimorfi,変身体の殺到,변이하는 돌진,Corrida Polimórfica,Изменчивый Натиск,Embestida polimórfica
+Pull from the Deep,"Pull from the Deep	{2}{U}{U}
+Sorcery
+Return up to one target instant card and up to one target sorcery card from your graveyard to your hand. Exile Pull from the Deep.
+
+",https://scryfall.com/card/jou/47/pull-from-the-deep,https://cards.scryfall.io/large/front/a/0/a051b622-fa1d-4694-aef7-0fcdd7bff8d2.jpg?1593095509,深海捕捞,深海捕撈,Extraction des profondeurs,Bergung aus der Tiefe,Pescare dagli Abissi,深海からの引き寄せ,심연에서 끌어당기다,Puxar das Profundezas,Вытягивание из Глубин,Extraer de las profundidades
+Riptide Chimera,"Riptide Chimera	{2}{U}
+Enchantment Creature — Chimera
+Flying
+At the beginning of your upkeep, return an enchantment you control to its owner's hand.
+3/4
+",https://scryfall.com/card/jou/48/riptide-chimera,https://cards.scryfall.io/large/front/e/9/e9f88da5-b013-478a-8a0b-da9d1e8eb2c9.jpg?1593095518,急流盖美拉,急流蓋美拉,Chimère du contre-courant,Springflut-Chimäre,Chimera delle Maree,激浪のキマイラ,역조 키메라,Quimera da Rebentação,Химера Разрывного Течения,Quimera de resaca
+Rise of Eagles,"Rise of Eagles	{4}{U}{U}
+Sorcery
+Create two 2/2 blue Bird enchantment creature tokens with flying. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+
+",https://scryfall.com/card/jou/49/rise-of-eagles,https://cards.scryfall.io/large/front/c/3/c3b5b278-b883-4703-9bfa-bab5a6da4660.jpg?1593095526,天鹰展翅,天鷹展翅,Ascension des aigles,Aufstieg der Adler,Volo delle Aquile,鷲の飛翔,독수리의 비상,Ascensão das Águias,Вылет Орлов,Ascenso de águilas
+Sage of Hours,"Sage of Hours	{1}{U}
+Creature — Human Wizard
+Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it.
+Remove all +1/+1 counters from this creature: For each five counters removed this way, take an extra turn after this one.
+1/1
+",https://scryfall.com/card/jou/50/sage-of-hours,https://cards.scryfall.io/large/front/8/c/8cb55caf-fc95-40dc-80af-5144f94333ee.jpg?1593095534,时光智者,時光智者,Sage des heures,Weiser der Zeit,Saggio delle Ore,時の賢者,시간의 현자,Sábio das Horas,Мудрец Времени,Sabio de las horas
+Scourge of Fleets,"Scourge of Fleets	{5}{U}{U}
+Creature — Kraken
+When this creature enters, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control.
+6/6
+",https://scryfall.com/card/jou/51/scourge-of-fleets,https://cards.scryfall.io/large/front/a/7/a79471f9-5cc0-48f5-9fa4-1f1374993825.jpg?1608912161,船舰祸害,船艦禍害,Fléau des flottes,Geißel der Flotten,Flagello delle Flotte,船団の災い魔,함대의 재앙,Flagelo das Frotas,Бич Кораблей,Azote de las flotas
+Sigiled Starfish,"Sigiled Starfish	{1}{U}
+Creature — Starfish
+{T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+0/3
+",https://scryfall.com/card/jou/52/sigiled-starfish,https://cards.scryfall.io/large/front/7/a/7a1a93c3-8561-4c65-bea8-a9c3a898a48c.jpg?1600698677,符印海星,符印海星,Étoile de mer sigillaire,Sigill-Seestern,Stella Marina dei Sigilli,印章持ちのヒトデ,인장박힌 불가사리,Estrela-do-mar Rúnica,Покрытая Рунами Морская Звезда,Estrella de mar con runas
+Thassa's Devourer,"Thassa's Devourer	{4}{U}
+Enchantment Creature — Elemental
+Constellation — Whenever this creature or another enchantment you control enters, target player mills two cards.
+2/6
+",https://scryfall.com/card/jou/53/thassas-devourer,https://cards.scryfall.io/large/front/d/4/d4ebd8c0-bb03-434d-b669-d9b35d07b2c6.jpg?1593095570,塔萨的吞噬兽,塔薩的吞噬獸,Dévoreur de Thassa,Thassas Verschlinger,Divoratrice di Thassa,タッサの貪り食い,타사의 탐식자,Devoradora de Tassa,Пожиратель Тассы,Devoradora de Tassa
+Thassa's Ire,"Thassa's Ire	{U}
+Enchantment
+{3}{U}: You may tap or untap target creature.
+
+",https://scryfall.com/card/jou/54/thassas-ire,https://cards.scryfall.io/large/front/4/c/4cc6245f-c60f-4674-8c6d-24fe3b78e00e.jpg?1593095578,塔萨的怒火,塔薩的怒火,Ire de Thassa,Thassas Zorn,Collera di Thassa,タッサの激憤,타사의 분노,Ira de Tassa,Гнев Тассы,Ira de Tassa
+Triton Cavalry,"Triton Cavalry	{3}{U}
+Creature — Merfolk Soldier
+Heroic — Whenever you cast a spell that targets this creature, you may return target enchantment to its owner's hand.
+2/4
+",https://scryfall.com/card/jou/55/triton-cavalry,https://cards.scryfall.io/large/front/4/b/4b9b6c6b-35f8-4c8a-aa29-ae71d5166121.jpg?1593095587,屈东骑队,屈東騎隊,Cavalerie tritonne,Tritonier-Kavallerie,Cavalleria dei Marinidi,トリトンの騎兵部隊,트리톤 기병,Cavalaria Talassida,Верховые Тритоны,Caballería tritónida
+Triton Shorestalker,"Triton Shorestalker	{U}
+Creature — Merfolk Rogue
+This creature can't be blocked.
+1/1
+",https://scryfall.com/card/jou/56/triton-shorestalker,https://cards.scryfall.io/large/front/5/1/511bff25-3213-42c4-8abd-9eda49f8dc96.jpg?1712354237,岸袭屈东,岸襲屈東,Pisteur des côtes triton,Tritonier-Küstenschleicher,Marinide Braccacoste,トリトンの岸忍び,트리톤 해안추적자,Talassido Vigia-costa,"Тритон, Береговой Охотник",Vigilacostas tritónido
+War-Wing Siren,"War-Wing Siren	{2}{U}
+Creature — Siren Soldier
+Flying
+Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature.
+1/3
+",https://scryfall.com/card/jou/57/war-wing-siren,https://cards.scryfall.io/large/front/8/d/8d88c942-3a69-4975-a08d-80405a549beb.jpg?1593095605,战翼塞连,戰翼塞連,Sirène aile-de-guerre,Kriegsschwingen-Sirene,Sirena Alaguerriera,戦争翼のセイレーン,전쟁날개 세이렌,Sirena Asa-de-guerra,Сирена-Воительница,Sirena ala beligerante
+Whitewater Naiads,"Whitewater Naiads	{3}{U}{U}
+Enchantment Creature — Nymph
+Constellation — Whenever this creature or another enchantment you control enters, target creature can't be blocked this turn.
+4/4
+",https://scryfall.com/card/jou/58/whitewater-naiads,https://cards.scryfall.io/large/front/e/d/ed39a719-8a4b-4749-adeb-74cd82d9b416.jpg?1592710700,湍流水灵,湍流水靈,Naïades des eaux vives,Wildwasser-Najaden,Naiadi delle Rapide,急流のナイアード,급류 나이아드,Náiades das Corredeiras,Наяды Порогов,Náyades de aguablanca
+Agent of Erebos,"Agent of Erebos	{3}{B}
+Enchantment Creature — Zombie
+Constellation — Whenever this creature or another enchantment you control enters, exile target player's graveyard.
+2/2
+",https://scryfall.com/card/jou/59/agent-of-erebos,https://cards.scryfall.io/large/front/1/e/1e07a595-5579-4d5a-b07c-84239d690459.jpg?1593095620,厄睿柏斯的密探,厄睿柏斯的密探,Agent d'Érébos,Agent des Erebos,Agente di Erebos,エレボスの代行者,에레보스의 하수인,Agente de Érebo,Агент Эреба,Agente de Erebos
+Aspect of Gorgon,"Aspect of Gorgon	{2}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+3 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy it.)
+
+",https://scryfall.com/card/jou/60/aspect-of-gorgon,https://cards.scryfall.io/large/front/b/e/be8956d0-5502-415d-bead-d8bbddf9871d.jpg?1593095628,蛇发妖外貌,蛇髮妖外貌,Aspect de la gorgone,Gorgoblut,Sembianze della Gorgone,ゴルゴンの血,고르곤의 상,Aspecto de Górgona,Облик Горгоны,Aspecto de gorgona
+Bloodcrazed Hoplite,"Bloodcrazed Hoplite	{1}{B}
+Creature — Human Soldier
+Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it.
+Whenever a +1/+1 counter is put on this creature, remove a +1/+1 counter from target creature an opponent controls.
+2/1
+",https://scryfall.com/card/jou/61/bloodcrazed-hoplite,https://cards.scryfall.io/large/front/f/2/f2a6556b-a4f1-4ff5-8e6e-a47618c8c66e.jpg?1593095634,血狂重装步兵,血狂重裝步兵,Hoplite sanguinaire,Blutrünstiger Hoplit,Oplita Assetato di Sangue,血に狂った重装歩兵,피에 미친 중장보병,Hoplita Sanguinário,Одержимый Кровью Гоплит,Hoplita sanguinario
+Brain Maggot,"Brain Maggot	{1}{B}
+Enchantment Creature — Insect
+When this creature enters, target opponent reveals their hand and you choose a nonland card from it. Exile that card until this creature leaves the battlefield.
+1/1
+",https://scryfall.com/card/jou/62/brain-maggot,https://cards.scryfall.io/large/front/a/c/acdc31d5-6726-453e-94e0-69d2fe9447af.jpg?1593095641,坏脑蛆,壞腦蛆,Ver de cervelle,Hirnmade,Larva Cerebrale,脳蛆,뇌 구더기,Verme Cerebral,Мозговой Червь,Larva cerebral
+Cast into Darkness,"Cast into Darkness	{1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -2/-0 and can't block.
+
+",https://scryfall.com/card/jou/63/cast-into-darkness,https://cards.scryfall.io/large/front/0/c/0c1880d4-90c7-46a2-bbc9-d2b52971d11c.jpg?1593095651,没入黑暗,沒入黑暗,Projeter dans les ténèbres,In die Dunkelheit,Gettare nell'Oscurità,闇への投入,암흑에 빠지다,Lançar na Escuridão,Низвержение во Тьму,Lanzar hacia las tinieblas
+Cruel Feeding,"Cruel Feeding	{B}
+Instant
+Strive — This spell costs {2}{B} more to cast for each target beyond the first.
+Any number of target creatures each get +1/+0 and gain lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)
+
+",https://scryfall.com/card/jou/64/cruel-feeding,https://cards.scryfall.io/large/front/a/5/a53624ee-2925-4a56-8706-e278db5d963d.jpg?1593095659,残酷进食,殘酷進食,Alimentation cruelle,Grausame Fütterung,Pasto Crudele,残忍な食餌,잔인한 식사,Alimentação Cruel,Жестокая Кормежка,Cena cruel
+Dictate of Erebos,"Dictate of Erebos	{3}{B}{B}
+Enchantment
+Flash
+Whenever a creature you control dies, each opponent sacrifices a creature of their choice.
+
+",https://scryfall.com/card/jou/65/dictate-of-erebos,https://cards.scryfall.io/large/front/9/f/9f06db70-95f9-41eb-8e5f-8bc56fd34c09.jpg?1593095668,厄睿柏斯的旨意,厄睿柏斯的旨意,Précepte d'Érébos,Gebot des Erebos,Dettami di Erebos,エレボスの指図,에레보스의 규율,Decreto de Érebo,Веление Эреба,Mandato de Erebos
+Doomwake Giant,"Doomwake Giant	{4}{B}
+Enchantment Creature — Giant
+Constellation — Whenever this creature or another enchantment you control enters, creatures your opponents control get -1/-1 until end of turn.
+4/6
+",https://scryfall.com/card/jou/66/doomwake-giant,https://cards.scryfall.io/large/front/0/b/0be3f848-ba01-4890-a3a1-ed0dfb564632.jpg?1775941062,唤终巨人,喚終巨人,Géant au sillage funeste,Gigant der Verdammnis,Gigante dalla Scia Funesta,破滅喚起の巨人,파멸을 초래하는 거인,Gigante do Rastro Funesto,Гигант Надвигающегося Рока,Gigante estela de ruina
+Dreadbringer Lampads,"Dreadbringer Lampads	{4}{B}
+Enchantment Creature — Nymph
+Constellation — Whenever this creature or another enchantment you control enters, target creature gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+4/2
+",https://scryfall.com/card/jou/67/dreadbringer-lampads,https://cards.scryfall.io/large/front/f/d/fd0c7359-355b-4808-8959-7155d96c4e86.jpg?1562711887,引怖冥灵,引怖冥靈,Lampades porteuses de l'effroi,Furchtbringer-Lampaden,Lampiadi del Terrore,戦慄運びのランパード,공포를 부르는 램파드,Lâmpades Medonhas,Несущие Ужас Лампады,Lampas portapavor
+Extinguish All Hope,"Extinguish All Hope	{4}{B}{B}
+Sorcery
+Destroy all nonenchantment creatures.
+
+",https://scryfall.com/card/jou/68/extinguish-all-hope,https://cards.scryfall.io/large/front/1/8/1888ac60-a885-43a7-8e95-9523a0213644.jpg?1689997139,浇熄希望,澆熄希望,Détruire toute espérance,Alle Hoffnung auslöschen,Soffocare Ogni Speranza,全希望の消滅,모든 희망의 끝,Extinguir Toda Esperança,Лишение Надежд,Extinguir toda esperanza
+Feast of Dreams,"Feast of Dreams	{1}{B}
+Instant
+Destroy target enchanted creature or enchantment creature.
+
+",https://scryfall.com/card/jou/69/feast-of-dreams,https://cards.scryfall.io/large/front/d/e/de07e21e-c12a-47a6-ad2c-ef6fed343407.jpg?1593095705,幻梦盛宴,幻夢盛宴,Festin de rêves,An Träumen laben,Banchetto di Sogni,夢の饗宴,꿈의 잔치,Banquete de Sonhos,Пожирание Грез,Banquete de sueños
+Felhide Petrifier,"Felhide Petrifier	{2}{B}
+Creature — Minotaur Warrior
+Deathtouch
+Other Minotaur creatures you control have deathtouch.
+2/3
+",https://scryfall.com/card/jou/70/felhide-petrifier,https://cards.scryfall.io/large/front/4/d/4d6cce01-a0cb-4059-a0ad-fbf7d9b998b8.jpg?1593095714,惊怖石化师,驚怖石化師,Pétrificateur Fangepeau,Schauderbalg-Versteinerer,Pietrificatore Velloirsuto,悪魔の皮の石化使い,썩은가죽 석화자,Petrificador Courovil,Скверношкурый Окаменитель,Petrificador pielacre
+Font of Return,"Font of Return	{1}{B}
+Enchantment
+{3}{B}, Sacrifice this enchantment: Return up to three target creature cards from your graveyard to your hand.
+
+",https://scryfall.com/card/jou/71/font-of-return,https://cards.scryfall.io/large/front/c/1/c13eacff-0fd1-4e2e-8213-5bf5fff973c8.jpg?1593095724,转世洗礼池,轉世洗禮池,Fontaine de réapparition,Quell der Wiederkehr,Fonte del Risveglio,回帰の泉,귀환의 세례반,Fonte do Ressurgimento,Источник Возвращения,Fuente del regreso
+Gnarled Scarhide,"Gnarled Scarhide	{B}
+Enchantment Creature — Minotaur
+Bestow {3}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+This creature can't block.
+Enchanted creature gets +2/+1 and can't block.
+2/1
+",https://scryfall.com/card/jou/72/gnarled-scarhide,https://cards.scryfall.io/large/front/0/4/040af9b9-1e94-4dd1-b347-b54b6b9e0275.jpg?1593095738,糙节覆痕怪,糙節覆痕怪,Gangréné noueux,Narbenbalg-Krüppel,Vellosfregiato Deforme,節くれの傷皮持ち,뒤틀린 흉터가죽,Mutilado das Cicatrizes,Покрытый Шрамами Калека,Pielmarcada retorcido
+Grim Guardian,"Grim Guardian	{2}{B}
+Enchantment Creature — Zombie
+Constellation — Whenever this creature or another enchantment you control enters, each opponent loses 1 life.
+1/4
+",https://scryfall.com/card/jou/73/grim-guardian,https://cards.scryfall.io/large/front/7/3/732b5444-0410-430b-87ca-cf2d9f165bd7.jpg?1593095749,狰狞守卫,猙獰守衛,Sinistre garde,Grimmiger Wächter,Tetro Guardiano,厳かな守護者,음산한 수호자,Guardião Sinistro,Мрачный Хранитель,Guardián siniestro
+"King Macar, the Gold-Cursed","King Macar, the Gold-Cursed	{2}{B}{B}
+Legendary Creature — Human Noble
+Inspired — Whenever King Macar becomes untapped, you may exile target creature. If you do, create a Gold token. (It's an artifact with ""Sacrifice this token: Add one mana of any color."")
+2/3
+",https://scryfall.com/card/jou/74/king-macar-the-gold-cursed,https://cards.scryfall.io/large/front/f/f/ff5987ab-570a-426c-ae4a-a270fac6b346.jpg?1593095759,点金咒马卡耳王,點金咒馬卡耳王,"Macar, le roi au toucher d'or",König Makar der Goldverfluchte,"Re Macar, il Maledetto dall'Oro",黄金の呪いのマカール王,황금의 저주를 받은 왕 마카르,"Macar, Rei do Toque Maldito","Царь Макарий, Проклятый Золотом","Rey Macar, el maldecido áureo"
+Master of the Feast,"Master of the Feast	{1}{B}{B}
+Enchantment Creature — Demon
+Flying
+At the beginning of your upkeep, each opponent draws a card.
+5/5
+",https://scryfall.com/card/jou/75/master-of-the-feast,https://cards.scryfall.io/large/front/d/5/d528f7a3-0a7b-42e3-8e4f-f1eeab02e23a.jpg?1593095770,盛宴大师,盛宴大師,Maître du festin,Gebieter des Gelages,Signore del Banchetto,饗宴の主,축제의 달인,Mestre do Banquete,Повелитель Пиров,Maestro del festín
+Nightmarish End,"Nightmarish End	{2}{B}
+Instant
+Target creature gets -X/-X until end of turn, where X is the number of cards in your hand.
+
+",https://scryfall.com/card/jou/76/nightmarish-end,https://cards.scryfall.io/large/front/4/b/4bab0e0a-7eb9-4422-a1d4-82cc05b4374d.jpg?1593095779,惊魇终局,驚魘終局,Fin cauchemardesque,Albtraumhaftes Ende,Incubo Mortale,悪夢のような末路,악몽 같은 최후,Fim Aterrador,Кошмарный Конец,Final de pesadilla
+Nyx Infusion,"Nyx Infusion	{2}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 as long as it's an enchantment. Otherwise, it gets -2/-2.
+
+",https://scryfall.com/card/jou/77/nyx-infusion,https://cards.scryfall.io/large/front/1/9/1910d072-1660-4918-a338-d9f87926541d.jpg?1593095788,尼兹灌输,尼茲灌輸,Infusion de Nyx,Nyx-Infusion,Infusione di Nyx,ニクスの注入,닉스 주입,Infusão de Nyx,Вливание Никса,Tisana de Nyx
+Pharika's Chosen,"Pharika's Chosen	{B}
+Creature — Snake
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+1/1
+",https://scryfall.com/card/jou/78/pharikas-chosen,https://cards.scryfall.io/large/front/8/1/8119ce0c-d709-463c-9abc-f7025673ea72.jpg?1593095796,芳瑞卡的精卫,芳瑞卡的精衛,Élue de Pharika,Pharikas Auserwählte,Prescelta di Farika,ファリカに選ばれしもの,파리카의 정예병,Escolhida de Fárica,Избранница Фарики,Elegida de Farika
+Returned Reveler,"Returned Reveler	{1}{B}
+Creature — Zombie Satyr
+When this creature dies, each player mills three cards.
+1/3
+",https://scryfall.com/card/jou/79/returned-reveler,https://cards.scryfall.io/large/front/9/e/9ea61098-2c6a-48d2-b99f-f3065c67d8e3.jpg?1593095804,转世贪欢者,轉世貪歡者,Fêtard reparu,Wiedergekehrter Hedonist,Risvegliato Dissoluto,蘇りし歓楽者,되살아난 난봉꾼,Festeiro Ressurgido,Возвращенный Гуляка,Juerguista resurgido
+Ritual of the Returned,"Ritual of the Returned	{3}{B}
+Instant
+Exile target creature card from your graveyard. Create a black Zombie creature token. Its power is equal to that card's power and its toughness is equal to that card's toughness.
+
+",https://scryfall.com/card/jou/80/ritual-of-the-returned,https://cards.scryfall.io/large/front/2/0/20bdf00a-e7f1-42f4-997f-388f3b28bf8f.jpg?1593095819,转世者祭礼,轉世者祭禮,Rituel des Reparus,Ritual der Wiedergekehrten,Rituale dei Risvegliati,蘇りし者の儀式,되살아난 자들의 의식,Ritual dos Ressurgidos,Ритуал Возвращенных,Ritual de los Resurgidos
+Rotted Hulk,"Rotted Hulk	{3}{B}
+Creature — Elemental
+
+2/5
+",https://scryfall.com/card/jou/81/rotted-hulk,https://cards.scryfall.io/large/front/1/0/1066644a-ac62-4809-805c-607c645613c5.jpg?1593860941,腐坏巨汉,腐壞巨漢,Carcasse putréfiée,Schiffswrack-Koloss,Carcassa Marcita,腐敗した大男,썩은 거대괴물,Brutamontes Apodrecido,Прогнивший Великан,Titán putrefacto
+Silence the Believers,"Silence the Believers	{2}{B}{B}
+Instant
+Strive — This spell costs {2}{B} more to cast for each target beyond the first.
+Exile any number of target creatures and all Auras attached to them.
+
+",https://scryfall.com/card/jou/82/silence-the-believers,https://cards.scryfall.io/large/front/d/6/d6dc2bd1-a980-4eab-8bb3-1ce28c3f9ef4.jpg?1593095838,信者噤声,信者噤聲,Réduire les croyants au silence,Zum Schweigen bringen,Zittire i Credenti,信者の沈黙,믿는 자들을 침묵시키다,Silenciar os Crentes,Подавление Верующих,Silenciar a los creyentes
+Spiteful Blow,"Spiteful Blow	{4}{B}{B}
+Sorcery
+Destroy target creature and target land.
+
+",https://scryfall.com/card/jou/83/spiteful-blow,https://cards.scryfall.io/large/front/f/a/fafaa798-e534-4cd0-b369-9e767a02fe3d.jpg?1593095848,怨毒霆击,怨毒霆擊,Coup de dépit,Tückischer Schlag,Colpo Astioso,悪意ある一撃,악의적인 일격,Golpe Malévolo,Злобный Выпад,Impacto malévolo
+Squelching Leeches,"Squelching Leeches	{2}{B}{B}
+Creature — Leech
+Squelching Leeches's power and toughness are each equal to the number of Swamps you control.
+*/*
+",https://scryfall.com/card/jou/84/squelching-leeches,https://cards.scryfall.io/large/front/6/9/694a0e92-8e5c-404e-a8bb-52139884e41a.jpg?1562229681,吱响蛭群,吱響蛭群,Sangsues grouillantes,Schmatzende Egel,Sanguisughe Sguazzanti,押し潰すヒル,짓누르는 거머리,Sanguessugas Famintas,Хлюпающие Пиявки,Sanguijuelas viscosas
+Thoughtrender Lamia,"Thoughtrender Lamia	{4}{B}{B}
+Enchantment Creature — Lamia
+Constellation — Whenever this creature or another enchantment you control enters, each opponent discards a card.
+5/3
+",https://scryfall.com/card/jou/85/thoughtrender-lamia,https://cards.scryfall.io/large/front/6/9/69799971-6e24-4b90-ba72-44c6393fc3c4.jpg?1593095866,裂念拉弥亚,裂念拉彌亞,Lamie psychoctome,Geistesriss-Lamia,Lamia Straziamente,精神感化のラミア,생각을 찢는 라미아,Lâmia Enlouquecedora,Раздирающая Мысли Ламия,Lamia arrancarrazón
+Tormented Thoughts,"Tormented Thoughts	{2}{B}
+Sorcery
+As an additional cost to cast this spell, sacrifice a creature.
+Target player discards a number of cards equal to the sacrificed creature's power.
+
+",https://scryfall.com/card/jou/86/tormented-thoughts,https://cards.scryfall.io/large/front/6/b/6be2be08-5bad-4813-b6f3-45b564e10b2f.jpg?1562024490,受虐思绪,受虐思緒,Pensées tourmentées,Quälende Gedanken,Pensieri Strazianti,苛まれし思考,고통 받는 생각,Pensamentos Atormentados,Мучительные Мысли,Pensamientos atormentados
+Worst Fears,"Worst Fears	{7}{B}
+Sorcery
+You control target player during that player's next turn. Exile Worst Fears. (You see all cards that player could see and make all decisions for them.)
+
+",https://scryfall.com/card/jou/87/worst-fears,https://cards.scryfall.io/large/front/8/f/8f4e21ac-4f3e-4a3e-83c0-0a59a1b84020.jpg?1593095890,极端恐惧,極端恐懼,Pires craintes,Schlimmste Befürchtungen,Paure Recondite,最悪の恐怖,최악의 공포,Piores Medos,Худшие Страхи,Los más indecibles temores
+Akroan Line Breaker,"Akroan Line Breaker	{2}{R}
+Creature — Human Warrior
+Heroic — Whenever you cast a spell that targets this creature, this creature gets +2/+0 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+2/1
+",https://scryfall.com/card/jou/88/akroan-line-breaker,https://cards.scryfall.io/large/front/a/5/a5114db5-b545-43dc-85a3-c0e68ab22a95.jpg?1593095900,阿喀洛斯破阵兵,阿喀洛斯破陣兵,Briseur de ligne akroen,Akroischer Frontbrecher,Spezzaranghi di Akros,アクロスの戦線砕き,아크로스 전열 파괴자,Desformador Acrosano,Прорвавший Строй Акросец,Rompelíneas akroniense
+Bearer of the Heavens,"Bearer of the Heavens	{7}{R}
+Creature — Giant
+When this creature dies, destroy all permanents at the beginning of the next end step.
+10/10
+",https://scryfall.com/card/jou/89/bearer-of-the-heavens,https://cards.scryfall.io/large/front/0/6/061d9fa5-a8e0-4263-9804-22d648554eba.jpg?1593095908,擎天巨人,擎天巨人,Porteur des Cieux,Träger des Himmels,Caposaldo della Volta Celeste,天を支える者,하늘을 등에 진 거인,Sustentáculo do Firmamento,Подпирающий Небеса,Portador de los cielos
+Bladetusk Boar,"Bladetusk Boar	{3}{R}
+Creature — Boar
+Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+3/2
+",https://scryfall.com/card/jou/90/bladetusk-boar,https://cards.scryfall.io/large/front/5/f/5f157fb0-81ac-4108-aafc-7ee81df965a9.jpg?1593095917,刃牙野猪,刃牙野豬,Sanglier lamecroc,Klingenzahn-Keiler,Cinghiale Zannaffilata,刃牙の猪,칼날엄니 멧돼지,Javali Presa de Navalha,Саблезубый Вепрь,Jabalí colmillo afilado
+Blinding Flare,"Blinding Flare	{R}
+Sorcery
+Strive — This spell costs {R} more to cast for each target beyond the first.
+Any number of target creatures can't block this turn.
+
+",https://scryfall.com/card/jou/91/blinding-flare,https://cards.scryfall.io/large/front/e/0/e07f43b6-e07f-4d0c-90d2-e5b0d23ba0f9.jpg?1593095924,眩目火光,眩目火光,Flamboiement aveuglant,Blendendes Leuchtfeuer,Bagliore Accecante,眩しい炎,눈이 머는 섬광,Clarão Cegante,Ослепительная Вспышка,Fulgor cegador
+Cyclops of Eternal Fury,"Cyclops of Eternal Fury	{4}{R}{R}
+Enchantment Creature — Cyclops
+Creatures you control have haste.
+5/3
+",https://scryfall.com/card/jou/92/cyclops-of-eternal-fury,https://cards.scryfall.io/large/front/4/4/44a92b7a-7119-45b3-b9ed-5dbf5abca818.jpg?1593095933,恒怒独眼巨人,恆怒獨眼巨人,Cyclope de la fureur éternelle,Zyklop des ewigen Zorns,Ciclope della Furia Eterna,永遠憤怒のサイクロプス,영원한 분노의 키클롭스,Ciclope da Fúria Eterna,Циклоп Вечной Ярости,Cíclope de la furia eterna
+Dictate of the Twin Gods,"Dictate of the Twin Gods	{3}{R}{R}
+Enchantment
+Flash
+If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
+
+",https://scryfall.com/card/jou/93/dictate-of-the-twin-gods,https://cards.scryfall.io/large/front/6/9/69cc93f2-8198-45b1-9193-7cfd1cf7ced4.jpg?1593095943,双子神的旨意,雙子神的旨意,Précepte des dieux jumeaux,Gebot der Zwillingsgötter,Dettami degli Dei Gemelli,双子神の指図,쌍둥이 신의 규율,Decreto dos Deuses Gêmeos,Веление Богов-Близнецов,Mandato de los dioses gemelos
+Eidolon of the Great Revel,"Eidolon of the Great Revel	{R}{R}
+Enchantment Creature — Spirit
+Whenever a player casts a spell with mana value 3 or less, this creature deals 2 damage to that player.
+2/2
+",https://scryfall.com/card/jou/94/eidolon-of-the-great-revel,https://cards.scryfall.io/large/front/1/8/183ef738-0559-49ca-85b4-e6836521f203.jpg?1690817860,盛欢幻灵,盛歡幻靈,Eidôlon de la Grande célébration,Eidolon des großen Festes,Apparizione del Gran Baccanale,大歓楽の幻霊,거대한 축제의 에이돌론,Eidolon da Grande Festança,Эйдолон Великой Пирушки,Eidolón del gran festín
+Flamespeaker's Will,"Flamespeaker's Will	{R}
+Enchantment — Aura
+Enchant creature you control
+Enchanted creature gets +1/+1.
+Whenever enchanted creature deals combat damage to a player, you may sacrifice this Aura. If you do, destroy target artifact.
+
+",https://scryfall.com/card/jou/95/flamespeakers-will,https://cards.scryfall.io/large/front/3/2/32b5e3bb-f9e8-4a74-9798-41d8f8515e12.jpg?1593095961,焰语者的意志,焰語者的意志,Volonté de l'oratrice de feu,Wille der Flammenseherin,Volontà dell'Oratore delle Fiamme,炎語りの意志,화염술사의 의지,Vontade do Flamividente,Воля Огнеречивой,Voluntad del portavoz ígneo
+Flurry of Horns,"Flurry of Horns	{4}{R}
+Sorcery
+Create two 2/3 red Minotaur creature tokens with haste.
+
+",https://scryfall.com/card/jou/96/flurry-of-horns,https://cards.scryfall.io/large/front/b/e/be522ae8-9cf4-4c63-9a1c-0010d482c00a.jpg?1601077696,犄角疾刺,犄角疾刺,Concert de cornes,Hörnerhagel,Raffica di Corna,双角の連続襲撃,뿔 달린 질풍,Comoção de Chifres,Вихрь Рогов,Ráfaga de cuernos
+Font of Ire,"Font of Ire	{1}{R}
+Enchantment
+{3}{R}, Sacrifice this enchantment: It deals 5 damage to target player or planeswalker.
+
+",https://scryfall.com/card/jou/97/font-of-ire,https://cards.scryfall.io/large/front/4/1/41509414-9faf-472d-8d38-391d9594cd56.jpg?1593095981,愤怒洗礼池,憤怒洗禮池,Fontaine d'ire,Quell des Zorns,Fonte della Collera,激憤の泉,분노의 세례반,Fonte da Ira,Источник Гнева,Fuente de la ira
+Forgeborn Oreads,"Forgeborn Oreads	{2}{R}{R}
+Enchantment Creature — Nymph
+Constellation — Whenever this creature or another enchantment you control enters, this creature deals 1 damage to any target.
+4/2
+",https://scryfall.com/card/jou/98/forgeborn-oreads,https://cards.scryfall.io/large/front/b/8/b80038ed-4206-4e44-943e-f332e4ce2f14.jpg?1593095990,锻生山灵,鍛生山靈,Oréades nées des forges,Schmiedegeborene Oreaden,Oreadi Plasmate nella Forgia,炉生まれのオリアード,용광로에서 태어난 오레아드,Oréades Nascidas da Forja,Рожденные в Горниле Ореады,Oréades nacidas de la forja
+Gluttonous Cyclops,"Gluttonous Cyclops	{5}{R}
+Creature — Cyclops
+{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+5/4
+",https://scryfall.com/card/jou/99/gluttonous-cyclops,https://cards.scryfall.io/large/front/e/5/e583f6be-3d78-4085-9059-c3c989a4977f.jpg?1593095999,暴食独眼巨人,暴食獨眼巨人,Cyclope glouton,Gefräßiger Zyklop,Ciclope Ingordo,暴食するサイクロプス,걸신들린 키클롭스,Ciclope Glutão,Прожорливый Циклоп,Cíclope glotón
+Harness by Force,"Harness by Force	{1}{R}{R}
+Sorcery
+Strive — This spell costs {2}{R} more to cast for each target beyond the first.
+Gain control of any number of target creatures until end of turn. Untap those creatures. They gain haste until end of turn.
+
+",https://scryfall.com/card/jou/100/harness-by-force,https://cards.scryfall.io/large/front/9/b/9bde89c1-aafa-43d9-adbf-671fa2b52d4f.jpg?1593096006,勇力驯服,勇力馴服,Harnacher par la force,Gewaltsames Einspannen,Imbrigliare con la Forza,力による操縦,힘으로 고삐를 채우다,Dominar à Força,Усмирение Силой,Dominar por la fuerza
+Knowledge and Power,"Knowledge and Power	{4}{R}
+Enchantment
+Whenever you scry, you may pay {2}. If you do, this enchantment deals 2 damage to any target.
+
+",https://scryfall.com/card/jou/101/knowledge-and-power,https://cards.scryfall.io/large/front/7/c/7cd48a18-df3d-4381-a7e7-a3e9ae18d4d7.jpg?1593096016,知识与力量,知識與力量,Savoir et puissance,Wissen und Macht,Conoscenza e Potere,知識と力,지식과 힘,Conhecimento e Poder,Знание и Сила,Conocimiento y poder
+Lightning Diadem,"Lightning Diadem	{5}{R}
+Enchantment — Aura
+Enchant creature
+When this Aura enters, it deals 2 damage to any target.
+Enchanted creature gets +2/+2.
+
+",https://scryfall.com/card/jou/102/lightning-diadem,https://cards.scryfall.io/large/front/9/2/9223ac16-e6fc-4ba6-91d9-7ff27cc17271.jpg?1601078293,闪电权冠,閃電權冠,Diadème d'éclair,Blitzdiadem,Diadema di Fulmini,稲妻の髪飾り,번개 왕관,Diadema de Raios,Диадема Молний,Diadema de relámpago
+Magma Spray,"Magma Spray	{R}
+Instant
+Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.
+
+",https://scryfall.com/card/jou/103/magma-spray,https://cards.scryfall.io/large/front/9/8/988a7993-eb7d-4ae2-8a22-1676f517558b.jpg?1543675644,岩浆喷散,岩漿噴散,Giclée de magma,Magmagischt,Spruzzo di Magma,マグマのしぶき,용암 분사,Esguicho de Magma,Выброс Магмы,Rocío de magma
+Mogis's Warhound,"Mogis's Warhound	{1}{R}
+Enchantment Creature — Dog
+Bestow {2}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+This creature attacks each combat if able.
+Enchanted creature gets +2/+2 and attacks each combat if able.
+2/2
+",https://scryfall.com/card/jou/104/mogiss-warhound,https://cards.scryfall.io/large/front/f/2/f2e73e06-d708-41dc-b20c-1f71651230e1.jpg?1593096042,墨癸斯的战猎犬,墨癸斯的戰獵犬,Chienne de guerre de Mogis,Kriegshündin des Mogis,Segugio da Guerra di Mogis,モーギスの軍用犬,모기스의 투견,Cão de Guerra de Mogis,Боевой Пес Могия,Sabueso de guerra de Mogis
+Pensive Minotaur,"Pensive Minotaur	{2}{R}
+Creature — Minotaur Warrior
+
+2/3
+",https://scryfall.com/card/jou/105/pensive-minotaur,https://cards.scryfall.io/large/front/9/0/902b462a-a552-42d4-91f0-bd33cd9cb719.jpg?1593860935,沉思牛头怪,沉思牛頭怪,Minotaure pensif,Nachdenklicher Minotaurus,Minotauro Meditabondo,悲しげなミノタウルス,고민하는 미노타우로스,Minotauro Pensativo,Задумчивый Минотавр,Minotauro pensativo
+Prophetic Flamespeaker,"Prophetic Flamespeaker	{1}{R}{R}
+Creature — Human Shaman
+Double strike, trample
+Whenever this creature deals combat damage to a player, exile the top card of your library. You may play it this turn.
+1/3
+",https://scryfall.com/card/jou/106/prophetic-flamespeaker,https://cards.scryfall.io/large/front/7/3/73326c79-f884-42d5-8546-3db46ce4fe52.jpg?1593096059,焰语预言师,焰語預言師,Orateur de feu prophétique,Prophetischer Flammenseher,Profeta Oratore delle Fiamme,予言の炎語り,예언하는 화염술사,Flamividente Profético,Огнеречивый Пророк,Portavoz ígneo profético
+Riddle of Lightning,"Riddle of Lightning	{3}{R}{R}
+Instant
+Choose any target. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's mana value to that permanent or player.
+
+",https://scryfall.com/card/jou/107/riddle-of-lightning,https://cards.scryfall.io/large/front/3/e/3e380151-abb6-457c-bac9-39f1a3744ed0.jpg?1619397446,闪电谜题,閃電謎題,Crible d'éclairs,Rätselhaftes Gewitter,Indovinello del Fulmine,稲妻の謎,번개의 수수께끼,Enigma do Relâmpago,Загадка Молнии,Acertijo de relámpago
+Rollick of Abandon,"Rollick of Abandon	{3}{R}{R}
+Sorcery
+All creatures get +2/-2 until end of turn.
+
+",https://scryfall.com/card/jou/108/rollick-of-abandon,https://cards.scryfall.io/large/front/3/f/3f1a80c4-8119-437d-bf5b-549c5679c90a.jpg?1593096073,荒弃嬉闹,荒棄嬉鬧,Ripaille de l'abandon,Gottloses Toben,Baccanale dell'Abbandono,奔放なる遊戯,방종의 날뜀,Folia do Abandono,Неудержимый Кутеж,Fiesta del abandono
+Rouse the Mob,"Rouse the Mob	{R}
+Instant
+Strive — This spell costs {2}{R} more to cast for each target beyond the first.
+Any number of target creatures each get +2/+0 and gain trample until end of turn.
+
+",https://scryfall.com/card/jou/109/rouse-the-mob,https://cards.scryfall.io/large/front/6/4/64a07e7d-e203-4ecd-98bf-f8ef08c38d78.jpg?1593096082,煽动暴民,煽動暴民,Haranguer la foule,Die Meute anstacheln,Incitare la Folla,群衆の決起,군중 선동,Incitar a Turba,Поднять Толпу,Incitar a la turba
+Satyr Hoplite,"Satyr Hoplite	{R}
+Creature — Satyr Soldier
+Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature.
+1/1
+",https://scryfall.com/card/jou/110/satyr-hoplite,https://cards.scryfall.io/large/front/b/8/b8754d66-facb-432e-a6c2-91430a6dec94.jpg?1593096089,羊蹄人重装步兵,羊蹄人重裝步兵,Hoplite satyre,Satyr-Hoplitin,Satiro Oplita,サテュロスの重装歩兵,사티로스 중장보병,Hoplita Sátiro,Сатир-Гоплит,Hoplita sátira
+Sigiled Skink,"Sigiled Skink	{1}{R}
+Creature — Lizard
+Whenever this creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+2/1
+",https://scryfall.com/card/jou/111/sigiled-skink,https://cards.scryfall.io/large/front/3/7/37f84b4d-82db-4e3a-a099-2e438c0a6418.jpg?1593096097,符印石龙子,符印石龍子,Scinque sigillaire,Sigill-Skink,Scinco dei Sigilli,印章持ちのスキンク,인장박힌 도마뱀,Lagarto Rúnico,Покрытый Рунами Сцинк,Lagarto con runas
+Spawn of Thraxes,"Spawn of Thraxes	{5}{R}{R}
+Creature — Dragon
+Flying
+When this creature enters, it deals damage to any target equal to the number of Mountains you control.
+5/5
+",https://scryfall.com/card/jou/112/spawn-of-thraxes,https://cards.scryfall.io/large/front/e/1/e13aa40e-c626-486d-8abc-10aa68542c5b.jpg?1593096108,特剌谢斯后裔,特剌謝斯後裔,Engeance de Thraxes,Brut des Thraxes,Progenie di Traxes,トラクシーズの落とし子,트락시스의 자식,Prole de Traxes,Порождение Тракса,Engendro de Traxes
+Spite of Mogis,"Spite of Mogis	{R}
+Sorcery
+Spite of Mogis deals damage to target creature equal to the number of instant and sorcery cards in your graveyard. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+
+",https://scryfall.com/card/jou/113/spite-of-mogis,https://cards.scryfall.io/large/front/5/6/5676d255-707e-4621-a0df-3305f999f124.jpg?1593096115,墨癸斯的怨恨,墨癸斯的怨恨,Rancune de Mogis,Wutausbruch des Mogis,Spregio di Mogis,モーギスの悪意,모기스의 원한,Rancor de Mogis,Злоба Могия,Rencor de Mogis
+Starfall,"Starfall	{4}{R}
+Instant
+Starfall deals 3 damage to target creature. If that creature is an enchantment, Starfall deals 3 damage to that creature's controller.
+
+",https://scryfall.com/card/jou/114/starfall,https://cards.scryfall.io/large/front/1/3/13921f0d-f163-4275-b025-045c1ccd99e5.jpg?1593096122,星坠击,星墜擊,Chute stellaire,Sternenfall,Caduta degli Astri,落星,별똥별,Chuva de Estrelas,Звездопад,Lanzaestrella
+Twinflame,"Twinflame	{1}{R}
+Sorcery
+Strive — This spell costs {2}{R} more to cast for each target beyond the first.
+Choose any number of target creatures you control. For each of them, create a token that's a copy of that creature, except it has haste. Exile those tokens at the beginning of the next end step.
+
+",https://scryfall.com/card/jou/115/twinflame,https://cards.scryfall.io/large/front/8/5/85c863ef-b266-410d-87b3-ced791f99966.jpg?1775941402,焰塑双身,焰塑雙身,Pyrojumeau,Zwillingsflamme,Fiamma Gemella,双つ身の炎,쌍둥이 불꽃,Gêmeo Incandescente,Пламенный Двойник,Gemelo ígneo
+Wildfire Cerberus,"Wildfire Cerberus	{4}{R}
+Creature — Dog
+{5}{R}{R}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+When this creature becomes monstrous, it deals 2 damage to each opponent and each creature they control.
+4/3
+",https://scryfall.com/card/jou/116/wildfire-cerberus,https://cards.scryfall.io/large/front/d/7/d7a26c23-abb9-41c3-aea1-bb241093119d.jpg?1593096142,野火狱犬,野火獄犬,Cerbère du feu dévastateur,Flächenbrand-Zerberus,Cerbero dell'Incendio Indomabile,燎原の火のケルベロス,들불 켈베로스,Cérbero Incendiário,Цербер Пожара,Cerbero incendiario
+Bassara Tower Archer,"Bassara Tower Archer	{G}{G}
+Creature — Human Archer
+Hexproof, reach
+2/1
+",https://scryfall.com/card/jou/117/bassara-tower-archer,https://cards.scryfall.io/large/front/9/5/95a1e5c2-7f5b-4ae4-83d9-06e334ba57ea.jpg?1593096148,巴萨剌塔弓箭手,巴薩剌塔弓箭手,Archère de la tour de Bassara,Bassaraturm-Bogenschützin,Arciera della Torre Bassara,バサーラ塔の弓兵,바사라 탑 궁수,Arqueiro da Torre de Bassara,Лучница из Бассарской Башни,Arquera de la Torre de Bassara
+Colossal Heroics,"Colossal Heroics	{2}{G}
+Instant
+Strive — This spell costs {1}{G} more to cast for each target beyond the first.
+Any number of target creatures each get +2/+2 until end of turn. Untap those creatures.
+
+",https://scryfall.com/card/jou/118/colossal-heroics,https://cards.scryfall.io/large/front/c/6/c6139443-e31c-4eea-a99e-df9498fe18a8.jpg?1593096154,巨身勇行,巨身勇行,Bravoure colossale,Kolossaler Heldenmut,Eroismo Colossale,壮大な英雄譚,거대한 영웅심,Heróis Colossais,Колоссальный Героизм,Heroicos colosales
+Consign to Dust,"Consign to Dust	{2}{G}
+Instant
+Strive — This spell costs {2}{G} more to cast for each target beyond the first.
+Destroy any number of target artifacts and/or enchantments.
+
+",https://scryfall.com/card/jou/119/consign-to-dust,https://cards.scryfall.io/large/front/5/4/54cb25b6-049c-46dd-88a4-f3890e018db0.jpg?1592710839,托诸尘土,托諸塵土,Vouer à la poussière,Dem Zerfall überlassen,Relegare nella Polvere,塵への回帰,먼지로 화하다,Entregar ao Pó,Предать Праху,Entregar al polvo
+Desecration Plague,"Desecration Plague	{3}{G}
+Sorcery
+Destroy target enchantment or land.
+
+",https://scryfall.com/card/jou/120/desecration-plague,https://cards.scryfall.io/large/front/4/2/42dbc5e5-5d46-47f7-a700-b65781a13c7a.jpg?1593096170,渎圣灾难,瀆聖災難,Peste de profanation,Entweihende Plage,Piaga della Profanazione,冒涜の疫病,신성모독 전염병,Praga da Profanação,Оскверняющий Мор,Plaga de profanación
+Dictate of Karametra,"Dictate of Karametra	{3}{G}{G}
+Enchantment
+Flash
+Whenever a player taps a land for mana, that player adds one mana of any type that land produced.
+
+",https://scryfall.com/card/jou/121/dictate-of-karametra,https://cards.scryfall.io/large/front/d/5/d5114607-df8f-4e44-8ef5-b6af89964bbc.jpg?1593096177,卡拉美特拉的旨意,卡拉美特拉的旨意,Précepte de Karametra,Gebot der Karametra,Dettami di Karametra,ケイラメトラの指図,카라메트라의 규율,Decreto de Carametra,Веление Караметры,Mandato de Karametra
+Eidolon of Blossoms,"Eidolon of Blossoms	{2}{G}{G}
+Enchantment Creature — Spirit
+Constellation — Whenever this creature or another enchantment you control enters, draw a card.
+2/2
+",https://scryfall.com/card/jou/122/eidolon-of-blossoms,https://cards.scryfall.io/large/front/f/8/f882aa63-d43c-4359-9de6-77231500a08e.jpg?1690004806,花丛幻灵,花叢幻靈,Eidôlon des fleurs,Eidolon der Blüten,Apparizione dei Boccioli,開花の幻霊,꽃의 에이돌론,Eidolon da Florescência,Эйдолон Цветения,Eidolón de flores
+Font of Fertility,"Font of Fertility	{G}
+Enchantment
+{1}{G}, Sacrifice this enchantment: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+",https://scryfall.com/card/jou/123/font-of-fertility,https://cards.scryfall.io/large/front/a/8/a8e85cd4-c116-42e2-a94b-2c04b06c4e2b.jpg?1690004840,富饶洗礼池,富饒洗禮池,Fontaine de fertilité,Quell der Fruchtbarkeit,Fonte della Fertilità,豊穣の泉,풍요의 세례반,Fonte da Fertilidade,Источник Плодородия,Fuente de la fertilidad
+Golden Hind,"Golden Hind	{1}{G}
+Creature — Elk
+{T}: Add {G}.
+2/1
+",https://scryfall.com/card/jou/124/golden-hind,https://cards.scryfall.io/large/front/1/a/1ae883ea-191e-4571-be3d-1e3149e6965e.jpg?1593096196,金角牝鹿,金角牝鹿,Biche dorée,Goldene Hirschkuh,Cerva d'Oro,黄金の雌鹿,황금 암사슴,Cerva Dourada,Золотая Лань,Cierva dorada
+Goldenhide Ox,"Goldenhide Ox	{5}{G}
+Enchantment Creature — Ox
+Constellation — Whenever this creature or another enchantment you control enters, target creature must be blocked this turn if able.
+5/4
+",https://scryfall.com/card/jou/125/goldenhide-ox,https://cards.scryfall.io/large/front/d/1/d107c72f-483a-4af9-b86f-681669d99c46.jpg?1593096203,金皮公牛,金皮公牛,Bœuf à la peau d'or,Goldbalg-Ochse,Bue dal Vello d'Oro,黄金皮の雄牛,황금가죽 황소,Boi do Couro Dourado,Златошкурый Бык,Buey lomo dorado
+Heroes' Bane,"Heroes' Bane	{3}{G}{G}
+Creature — Hydra
+This creature enters with four +1/+1 counters on it.
+{2}{G}{G}: Put X +1/+1 counters on this creature, where X is its power.
+0/0
+",https://scryfall.com/card/jou/126/heroes-bane,https://cards.scryfall.io/large/front/7/f/7f83195c-5150-4763-a2e1-5b109d185d55.jpg?1730491021,英雄灾祸,英雄災禍,Fléau des héros,Heldenverschlingerin,Flagello degli Eroi,英雄たちを破滅させるもの,영웅의 재앙,Perdição dos Heróis,Погибель Героев,Ruina de héroes
+Humbler of Mortals,"Humbler of Mortals	{4}{G}{G}
+Enchantment Creature — Elemental
+Constellation — Whenever this creature or another enchantment you control enters, creatures you control gain trample until end of turn.
+5/5
+",https://scryfall.com/card/jou/127/humbler-of-mortals,https://cards.scryfall.io/large/front/f/1/f12149b9-b450-4ad6-ab5d-9a0eeb36997e.jpg?1593096217,凡人煞星,凡人煞星,Oppresseur des mortels,Demütiger der Sterblichen,Umiliatore di Mortali,定命の者の大敵,겸손한 필멸자,Humilhador de Mortais,Попирающий Смертных,Avasallador de mortales
+Hydra Broodmaster,"Hydra Broodmaster	{4}{G}{G}
+Creature — Hydra
+{X}{X}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)
+When this creature becomes monstrous, create X X/X green Hydra creature tokens.
+7/7
+",https://scryfall.com/card/jou/128/hydra-broodmaster,https://cards.scryfall.io/large/front/5/b/5b11bb5a-66e3-4dc6-9df4-e1683c57e488.jpg?1625194477,护卵多头龙,護卵多頭龍,Maître de couvée hydre,Hydra-Brutwächterin,Idra Protettrice della Covata,ハイドラの繁殖主,번식하는 히드라,Hidra Criadeira,Гидра-Породительница,Hidra ama de la progenie
+Kruphix's Insight,"Kruphix's Insight	{2}{G}
+Sorcery
+Reveal the top six cards of your library. Put up to three enchantment cards from among them into your hand and the rest of the revealed cards into your graveyard.
+
+",https://scryfall.com/card/jou/129/kruphixs-insight,https://cards.scryfall.io/large/front/d/5/d5d7ab7a-fcb2-44c7-8e99-e627d3ced1ea.jpg?1592710952,克罗芬斯的洞察,克羅芬斯的洞察,Perspicacité de Kruphix,Einblicke des Kruphix,Intuizione di Krufix,クルフィックスの洞察力,크루픽스의 지혜,Visão de Crufix,Предчувствие Круфикса,Perspicacia de Krufix
+Market Festival,"Market Festival	{3}{G}
+Enchantment — Aura
+Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional two mana in any combination of colors.
+
+",https://scryfall.com/card/jou/130/market-festival,https://cards.scryfall.io/large/front/c/3/c3a70329-ecae-4647-b912-75d936a6c8c5.jpg?1593096239,集市节庆,集市節慶,Marché du festival,Marktfeier,Festa del Mercato,市場の祝祭,시장 축제,Festival do Mercado,Праздник на Базаре,Festival del mercado
+Nature's Panoply,"Nature's Panoply	{G}
+Instant
+Strive — This spell costs {2}{G} more to cast for each target beyond the first.
+Choose any number of target creatures. Put a +1/+1 counter on each of them.
+
+",https://scryfall.com/card/jou/131/natures-panoply,https://cards.scryfall.io/large/front/3/2/32177b9c-eef3-4eea-b623-74bfea1afad6.jpg?1593096246,自然华彩,自然華彩,Panoplie de la nature,Rüstzeug der Natur,Panoplia della Natura,自然からの武装,자연의 집합,Panóplia da Natureza,Паноплия Природы,Panoplia de la naturaleza
+Nessian Game Warden,"Nessian Game Warden	{3}{G}{G}
+Creature — Beast
+When this creature enters, look at the top X cards of your library, where X is the number of Forests you control. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+4/5
+",https://scryfall.com/card/jou/132/nessian-game-warden,https://cards.scryfall.io/large/front/5/0/5099d18d-c8b5-4706-bc93-40d1bb12988d.jpg?1593096253,奈西安猎护兽,奈西安獵護獸,Garde-chasse nessian,Nessischer Wildhüter,Guardacaccia Nessian,ネシアンの猟区管理者,네시안 숲 금렵구 관리자,Protetor da Fauna Nessiana,Нессийский Страж Дичи,Protectora de presas nessiana
+Oakheart Dryads,"Oakheart Dryads	{2}{G}
+Enchantment Creature — Nymph Dryad
+Constellation — Whenever this creature or another enchantment you control enters, target creature gets +1/+1 until end of turn.
+2/3
+",https://scryfall.com/card/jou/133/oakheart-dryads,https://cards.scryfall.io/large/front/d/8/d8ef63b9-c021-40fe-910e-93c06d660c20.jpg?1593096261,橡心树灵,橡心樹靈,Dryades au cœur de chêne,Eichenherz-Dryaden,Driadi Cuore di Quercia,樫心のドライアド,참나무심장 드라이어드,Dríades Coração-de-carvalho,Дриады Сердца Дуба,Dríadas corarroble
+Pheres-Band Thunderhoof,"Pheres-Band Thunderhoof	{4}{G}
+Creature — Centaur Warrior
+Heroic — Whenever you cast a spell that targets this creature, put two +1/+1 counters on this creature.
+3/4
+",https://scryfall.com/card/jou/134/pheres-band-thunderhoof,https://cards.scryfall.io/large/front/a/1/a19a2e8e-9d8f-4537-838c-ac60e09d78bf.jpg?1593096267,斐力兹族雷蹄兵,斐力茲族雷蹄兵,Sabot-de-foudre du clan Phérès,Donnerhuf der Pheres-Herde,Zampatonante della Banda Feres,フィーリーズ団の雷鳴蹄,피레스 무리 천둥발굽,Casco-de-trovão do Bando Feres,Громоног из Племени Ферий,Cascotrueno del clan Feres
+Pheres-Band Warchief,"Pheres-Band Warchief	{3}{G}
+Creature — Centaur Warrior
+Vigilance, trample
+Other Centaur creatures you control get +1/+1 and have vigilance and trample.
+3/3
+",https://scryfall.com/card/jou/135/pheres-band-warchief,https://cards.scryfall.io/large/front/8/4/8456730a-607c-44c0-b18e-0df8f35b0634.jpg?1593096278,斐力兹族战酋长,斐力茲族戰酋長,Chef de guerre du clan Phérès,Kriegshäuptling der Pheres-Herde,Condottiero della Banda Feres,フィーリーズ団の戦長,피레스 무리 대족장,Comandante do Bando Feres,Боевой Вождь из Племени Ферий,Jefe de guerra del clan Feres
+Ravenous Leucrocota,"Ravenous Leucrocota	{3}{G}
+Creature — Beast
+Vigilance
+{6}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+2/4
+",https://scryfall.com/card/jou/136/ravenous-leucrocota,https://cards.scryfall.io/large/front/d/c/dc504eb1-4684-47a1-b241-01c7bb5cc496.jpg?1576383110,贪食鬣狗狮,貪食鬣狗獅,Leucrotta vorace,Gefräßiges Leucrocota,Leucrotta Famelica,貪欲なるレウクロッタ,굶주린 류크로코타,Leucrócota Voraz,Ненасытная Левкрокота,Leucrocota voraz
+Renowned Weaver,"Renowned Weaver	{G}
+Creature — Human Shaman
+{1}{G}, Sacrifice this creature: Create a 1/3 green Spider enchantment creature token with reach. (It can block creatures with flying.)
+1/1
+",https://scryfall.com/card/jou/137/renowned-weaver,https://cards.scryfall.io/large/front/2/4/240830be-53f8-4f46-a0fb-6ecc439d1349.jpg?1593096296,享誉织匠,享譽織匠,Tisseuse réputée,Angesehene Weberin,Tessitrice Rinomata,名高い織り手,유명한 방직공,Tecedora Renomada,Знаменитая Ткачиха,Tejedora insigne
+Reviving Melody,"Reviving Melody	{2}{G}
+Sorcery
+Choose one or both —
+• Return target creature card from your graveyard to your hand.
+• Return target enchantment card from your graveyard to your hand.
+
+",https://scryfall.com/card/jou/138/reviving-melody,https://cards.scryfall.io/large/front/4/9/49b152cc-d39f-470e-8b62-e4a833db7b88.jpg?1593096307,复苏旋律,復甦旋律,Mélodie ravivante,Wiederbelebende Melodie,Melodia Rianimante,蘇生の旋律,부활의 선율,Melodia Restauradora,Оживляющая Мелодия,Melodía reanimadora
+Satyr Grovedancer,"Satyr Grovedancer	{1}{G}
+Creature — Satyr Shaman
+When this creature enters, put a +1/+1 counter on target creature.
+1/1
+",https://scryfall.com/card/jou/139/satyr-grovedancer,https://cards.scryfall.io/large/front/d/4/d46febca-f3c0-4467-aef4-4dfcdf3009fe.jpg?1593096315,林舞羊蹄人,林舞羊蹄人,Dansebosquet satyre,Satyr-Haintänzerin,Danzatrice del Boschetto,サテュロスの木立ち踊り,숲 춤꾼 사티로스,Sátiro Dançarino do Bosque,"Сатир, Лесная Плясунья",Bailarina de la arboleda sátira
+Setessan Tactics,"Setessan Tactics	{1}{G}
+Instant
+Strive — This spell costs {G} more to cast for each target beyond the first.
+Until end of turn, any number of target creatures each get +1/+1 and gain ""{T}: This creature fights another target creature.""
+
+",https://scryfall.com/card/jou/140/setessan-tactics,https://cards.scryfall.io/large/front/3/8/385a1939-15e5-4f13-b01b-7cdc6835da2a.jpg?1593096325,瑟特萨式战法,瑟特薩式戰法,Tactiques setessiennes,Setesser-Taktik,Tattiche di Setessa,セテッサ式戦術,세테사식 전술,Táticas Setessanas,Сетесская Тактика,Tácticas setessanas
+Solidarity of Heroes,"Solidarity of Heroes	{1}{G}
+Instant
+Strive — This spell costs {1}{G} more to cast for each target beyond the first.
+Choose any number of target creatures. Double the number of +1/+1 counters on each of them.
+
+",https://scryfall.com/card/jou/141/solidarity-of-heroes,https://cards.scryfall.io/large/front/b/7/b782186a-79d9-4e95-9d3d-7670fefde43c.jpg?1562275572,英雄齐心,英雄齊心,Solidarité des héros,Bund der Helden,Solidarietà tra Eroi,英雄たちの結束,영웅의 연대,Solidariedade dos Heróis,Единство Героев,Solidaridad de los héroes
+Spirespine,"Spirespine	{2}{G}
+Enchantment Creature — Beast
+Bestow {4}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)
+This creature blocks each combat if able.
+Enchanted creature gets +4/+1 and blocks each combat if able.
+4/1
+",https://scryfall.com/card/jou/142/spirespine,https://cards.scryfall.io/large/front/a/c/ac71491f-3027-4257-a18f-ba4de6041feb.jpg?1593096345,尖刺豪猪,尖刺豪豬,Dardépic,Stachelrücken,Colossospino,トガリトゲ,뾰족가시,Ouriço Longispino,Спиношип,Espinaguja
+Strength from the Fallen,"Strength from the Fallen	{1}{G}
+Enchantment
+Constellation — Whenever this enchantment or another enchantment you control enters, target creature gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.
+
+",https://scryfall.com/card/jou/143/strength-from-the-fallen,https://cards.scryfall.io/large/front/c/7/c76b3a8e-3cbb-47c4-9535-dfdeece7ee02.jpg?1593096354,亡者赋力,亡者賦力,Force des déchus,Stärke der Gefallenen,Potere dai Caduti,倒れた者からの力,망자들이 주는 힘,Força dos Caídos,Сила Павших,Fuerza de los caídos
+Swarmborn Giant,"Swarmborn Giant	{2}{G}{G}
+Creature — Giant
+When you're dealt combat damage, sacrifice this creature.
+{4}{G}{G}: Monstrosity 2. (If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)
+As long as this creature is monstrous, it has reach.
+6/6
+",https://scryfall.com/card/jou/144/swarmborn-giant,https://cards.scryfall.io/large/front/8/4/84a3ddf9-b682-4691-bb1d-abd1d3486f59.jpg?1593096360,群集巨人,群集巨人,Géant né de l'essaim,Schwarmgeborener Riese,Gigante dello Sciame,群れ生まれの巨人,무리 거인,Gigante do Enxame,"Гигант, Порождение Роя",Gigante nacido del enjambre
+"Ajani, Mentor of Heroes","Ajani, Mentor of Heroes	{3}{G}{W}
+Legendary Planeswalker — Ajani
+[+1]: Distribute three +1/+1 counters among one, two, or three target creatures you control.
+[+1]: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+[−8]: You gain 100 life.
+
+",https://scryfall.com/card/jou/145/ajani-mentor-of-heroes,https://cards.scryfall.io/large/front/4/a/4a30bcfa-6f95-450f-aea7-885983d7c6a5.jpg?1593096367,英雄明师阿耶尼,英雄明師阿耶尼,"Ajani, mentor de héros","Ajani, Mentor der Helden","Ajani, Mentore di Eroi",英雄の導師、アジャニ,영웅의 스승 아자니,"Ajani, Mentor dos Heróis","Аджани, Наставник Героев","Ajani, mentor de héroes"
+"Athreos, God of Passage","Athreos, God of Passage	{1}{W}{B}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to white and black is less than seven, Athreos isn't a creature.
+Whenever another creature you own dies, return it to your hand unless target opponent pays 3 life.
+5/4
+",https://scryfall.com/card/jou/146/athreos-god-of-passage,https://cards.scryfall.io/large/front/5/2/52705c53-883e-4b6a-9c08-3fa35f6f17d5.jpg?1593096375,渡亡神雅睿欧斯,渡亡神雅睿歐斯,"Athréos, dieu du Passage","Athreos, Gott der Überfahrt","Atreo, Dio del Passaggio",通行の神、エイスリオス,인도의 신 에스리오스,"Atreos, Deus da Passagem","Атрей, Бог Перехода","Atreos, dios del paso"
+Desperate Stand,"Desperate Stand	{R}{W}
+Sorcery
+Strive — This spell costs {R}{W} more to cast for each target beyond the first.
+Any number of target creatures each get +2/+0 and gain first strike and vigilance until end of turn.
+
+",https://scryfall.com/card/jou/147/desperate-stand,https://cards.scryfall.io/large/front/e/8/e8a4fb8d-8ddd-4d1d-92c7-2bf6b0e6c488.jpg?1593096383,奋绝抵抗,奮絕抵抗,Dernier ressort,Erbitterter Widerstand,Resistenza Disperata,捨て身の抵抗,필사적인 저항,Resistência Desesperada,Отчаянная Оборона,Resistencia desesperada
+Disciple of Deceit,"Disciple of Deceit	{U}{B}
+Creature — Human Rogue
+Inspired — Whenever this creature becomes untapped, you may discard a nonland card. If you do, search your library for a card with the same mana value as that card, reveal it, put it into your hand, then shuffle.
+1/3
+",https://scryfall.com/card/jou/148/disciple-of-deceit,https://cards.scryfall.io/large/front/f/b/fbfe88fd-9bb9-42af-8134-96fd264b8405.jpg?1593096393,诡诈信徒,詭詐信徒,Disciple de la tromperie,Schülerin der Täuschung,Discepola dell'Inganno,欺瞞の信奉者,속임수의 사도,Discípulo da Enganação,Ученица Обмана,Discípula del engaño
+Fleetfeather Cockatrice,"Fleetfeather Cockatrice	{3}{G}{U}
+Creature — Cockatrice
+Flash (You may cast this spell any time you could cast an instant.)
+Flying, deathtouch
+{5}{G}{U}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+3/3
+",https://scryfall.com/card/jou/149/fleetfeather-cockatrice,https://cards.scryfall.io/large/front/1/1/1139236e-5d71-4fc1-937d-ba1efadee031.jpg?1593096401,飞羽石化鸡蛇,飛羽石化雞蛇,Cocatrix lesteplume,Flinkfeder-Cocatrisk,Coccatrice Rapidapiuma,速羽根のコカトリス,가벼운 깃털 코카트리스,Cocatriz Pena-veloz,Быстрокрылый Куролиск,Cocatriz plumaveloz
+"Iroas, God of Victory","Iroas, God of Victory	{2}{R}{W}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to red and white is less than seven, Iroas isn't a creature.
+Creatures you control have menace.
+Prevent all damage that would be dealt to attacking creatures you control.
+7/4
+",https://scryfall.com/card/jou/150/iroas-god-of-victory,https://cards.scryfall.io/large/front/b/4/b4036bb7-835d-4690-aca1-1ab566776e9a.jpg?1562415955,胜利神伊洛安斯,勝利神伊洛安斯,"Iroas, dieu de la Victoire","Iroas, Gott des Sieges","Iroas, Dio della Vittoria",勝利の神、イロアス,승리의 신 이로아스,"Iroas, Deus da Vitória","Ирой, Бог Победы","Iroas, dios de la victoria"
+"Keranos, God of Storms","Keranos, God of Storms	{3}{U}{R}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to blue and red is less than seven, Keranos isn't a creature.
+Reveal the first card you draw on each of your turns. Whenever you reveal a land card this way, draw a card. Whenever you reveal a nonland card this way, Keranos deals 3 damage to any target.
+6/5
+",https://scryfall.com/card/jou/151/keranos-god-of-storms,https://cards.scryfall.io/large/front/a/b/ab70c262-37a9-4dcd-80bb-d4422368eade.jpg?1593096418,风暴神刻拉诺斯,風暴神刻拉諾斯,"Kéranos, dieu des Tempêtes","Keranos, Gott der Stürme","Keranos, Dio delle Tempeste",嵐の神、ケラノス,폭풍의 신 케레노스,"Queranos, Deus das Tempestades","Керан, Бог Бурь","Keranos, dios de las tormentas"
+"Kruphix, God of Horizons","Kruphix, God of Horizons	{3}{G}{U}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to green and blue is less than seven, Kruphix isn't a creature.
+You have no maximum hand size.
+If you would lose unspent mana, that mana becomes colorless instead.
+4/7
+",https://scryfall.com/card/jou/152/kruphix-god-of-horizons,https://cards.scryfall.io/large/front/2/7/27427233-da58-45af-ade8-e0727929efaa.jpg?1593096427,天际神克罗芬斯,天際神克羅芬斯,"Kruphix, dieu des Horizons","Kruphix, Gott der Horizonte","Krufix, Dio degli Orizzonti",彼方、クルフィックス,지평선의 신 크루픽스,"Crufix, Deus dos Horizontes","Круфикс, Бог Горизонтов","Krufix, dios de los horizontes"
+Nyx Weaver,"Nyx Weaver	{1}{B}{G}
+Enchantment Creature — Spider
+Reach
+At the beginning of your upkeep, mill two cards. (Put the top two cards of your library into your graveyard.)
+{1}{B}{G}, Exile this creature: Return target card from your graveyard to your hand.
+2/3
+",https://scryfall.com/card/jou/153/nyx-weaver,https://cards.scryfall.io/large/front/2/6/26c4c471-f79f-4ca4-acc7-852cdc14e726.jpg?1743207184,尼兹蜘蛛,尼茲蜘蛛,Tisseuse de Nyx,Nyx-Weberin,Tessitrice di Nyx,ニクスの織り手,닉스 방직공,Tecedora de Nyx,Прядильщик Никса,Tejedora de Nyx
+"Pharika, God of Affliction","Pharika, God of Affliction	{1}{B}{G}
+Legendary Enchantment Creature — God
+Indestructible
+As long as your devotion to black and green is less than seven, Pharika isn't a creature.
+{B}{G}: Exile target creature card from a graveyard. Its owner creates a 1/1 black and green Snake enchantment creature token with deathtouch.
+5/5
+",https://scryfall.com/card/jou/154/pharika-god-of-affliction,https://cards.scryfall.io/large/front/7/5/75ec8548-5790-4eac-8780-cdd126438192.jpg?1593096444,折磨神芳瑞卡,折磨神芳瑞卡,"Pharika, déesse de l'Affliction","Pharika, Göttin der Gebrechen","Farika, Dea dell'Afflizione",苦悶の神、ファリカ,고통의 신 파리카,"Fárica, Deusa do Padecimento","Фарика, Богиня Недуга","Farika, diosa de la aflicción"
+Revel of the Fallen God,"Revel of the Fallen God	{3}{R}{R}{G}{G}
+Sorcery
+Create four 2/2 red and green Satyr creature tokens with haste.
+
+",https://scryfall.com/card/jou/155/revel-of-the-fallen-god,https://cards.scryfall.io/large/front/e/1/e1d2c774-aab9-4747-af91-da792ed7cfe1.jpg?1593096451,殒神狂欢,殞神狂歡,Célébration du dieu vaincu,Fest des gefallenen Gottes,Baccanale del Dio Caduto,倒れし神の宴,몰락한 신의 축제,Festança do Deus Caído,Гулянка Павшего Бога,Festín del dios caído
+Stormchaser Chimera,"Stormchaser Chimera	{2}{U}{R}
+Creature — Chimera
+Flying
+{2}{U}{R}: Scry 1, then reveal the top card of your library. This creature gets +X/+0 until end of turn, where X is that card's mana value. (To scry 1, look at the top card of your library, then you may put that card on the bottom.)
+2/3
+",https://scryfall.com/card/jou/156/stormchaser-chimera,https://cards.scryfall.io/large/front/9/9/994f8a79-1df9-42e0-a0b0-c9eea47771e9.jpg?1576383233,逐岚盖美拉,逐嵐蓋美拉,Chimère chassetempête,Sturmjäger-Chimäre,Chimera Cacciatempeste,嵐追いのキマイラ,폭풍추적자 키메라,Quimera Caçadora de Tempestade,Преследующая Бурю Химера,Quimera cazatormentas
+Underworld Coinsmith,"Underworld Coinsmith	{W}{B}
+Enchantment Creature — Human Cleric
+Constellation — Whenever this creature or another enchantment you control enters, you gain 1 life.
+{W}{B}, Pay 1 life: Each opponent loses 1 life.
+2/2
+",https://scryfall.com/card/jou/157/underworld-coinsmith,https://cards.scryfall.io/large/front/3/f/3f0f1e80-405a-413a-bed1-ea276040eea4.jpg?1562703435,冥界铸币匠,冥界鑄幣匠,Monnayeuse du Monde souterrain,Münzschmied der Unterwelt,Coniatrice dell'Ade,死の国の造幣工,저승 동전 대장장이,Moedeiro do Submundo,Чеканщик Подземного Царства,Forjamonedas del Inframundo
+Armory of Iroas,"Armory of Iroas	{2}
+Artifact — Equipment
+Whenever equipped creature attacks, put a +1/+1 counter on it.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+
+",https://scryfall.com/card/jou/158/armory-of-iroas,https://cards.scryfall.io/large/front/7/0/703a03ac-5bb5-4e36-ab9b-a5c007ffc03d.jpg?1608911321,伊洛安斯的兵械,伊洛安斯的兵械,Armurerie d'Iroas,Arsenal des Iroas,Armeria di Iroas,イロアスの武器庫,이로아스의 무기고,Arsenal de Iroas,Арсенал Ироя,Armería de Iroas
+Chariot of Victory,"Chariot of Victory	{3}
+Artifact — Equipment
+Equipped creature has first strike, trample, and haste.
+Equip {1}
+
+",https://scryfall.com/card/jou/159/chariot-of-victory,https://cards.scryfall.io/large/front/c/2/c2dd03d2-05ef-4929-b973-3dbe49fc7592.jpg?1593096494,胜利战车,勝利戰車,Char de la victoire,Streitwagen des Sieges,Carro della Vittoria,勝利の戦車,승리의 전차,Biga da Vitória,Колесница Победы,Carro de la victoria
+Deserter's Quarters,"Deserter's Quarters	{2}
+Artifact
+You may choose not to untap this artifact during your untap step.
+{6}, {T}: Tap target creature. It doesn't untap during its controller's untap step for as long as this artifact remains tapped.
+
+",https://scryfall.com/card/jou/160/deserters-quarters,https://cards.scryfall.io/large/front/8/f/8f7d3b2d-e06e-4d30-9ed8-2a52aa7e31c6.jpg?1593096506,逃兵囚营,逃兵囚營,Quartiers du déserteur,Deserteursquartier,Alloggio del Disertore,脱走兵の間,탈영병 지구,Alojamento do Desertor,Казарма Дезертиров,Cuarto del desertor
+Gold-Forged Sentinel,"Gold-Forged Sentinel	{6}
+Artifact Creature — Chimera
+Flying
+4/4
+",https://scryfall.com/card/jou/161/gold-forged-sentinel,https://cards.scryfall.io/large/front/c/a/ca1bcaee-52bf-4000-8ffa-ee5e04703de6.jpg?1562935586,金铸哨兵,金鑄哨兵,Sentinelle forgée d'or,Goldgeschmiedeter Wachposten,Sentinella Forgiata nell'Oro,黄金造りの歩哨,황금 보초,Sentinela Forjada em Ouro,Выкованный из Золота Страж,Centinela forjado en oro
+Hall of Triumph,"Hall of Triumph	{3}
+Legendary Artifact
+As Hall of Triumph enters, choose a color.
+Creatures you control of the chosen color get +1/+1.
+
+",https://scryfall.com/card/jou/162/hall-of-triumph,https://cards.scryfall.io/large/front/6/3/634fd988-5d5c-4637-b7fd-05a41798ead8.jpg?1593096527,凯旋大厅,凱旋大廳,Mégaron du triomphe,Halle des Triumphes,Sala del Trionfo,凱旋の間,승리의 전당,Salão do Triunfo,Триумфальный Зал,Sala del triunfo
+Mana Confluence,"Mana Confluence	
+Land
+{T}, Pay 1 life: Add one mana of any color.
+
+",https://scryfall.com/card/jou/163/mana-confluence,https://cards.scryfall.io/large/front/5/0/504a69eb-3c2d-4bb1-b117-252b15acf0c2.jpg?1593096534,魔力聚流,魔力聚流,Confluence de mana,Mana-Zusammenfluss,Confluenza di Mana,マナの合流点,마나 합류점,Confluência de Mana,Слияние Маны,Confluencia de maná
+Temple of Epiphany,"Temple of Epiphany	
+Land
+This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {U} or {R}.
+
+",https://scryfall.com/card/jou/164/temple-of-epiphany,https://cards.scryfall.io/large/front/c/c/cc63cd97-de9e-4d31-babb-aaad1277169e.jpg?1775942470,顿悟殿堂,頓悟殿堂,Temple de la révélation,Tempel der Eingebung,Tempio della Rivelazione,天啓の神殿,강림의 신전,Templo da Epifania,Храм Прозрения,Templo de la epifanía
+Temple of Malady,"Temple of Malady	
+Land
+This land enters tapped.
+When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)
+{T}: Add {B} or {G}.
+
+",https://scryfall.com/card/jou/165/temple-of-malady,https://cards.scryfall.io/large/front/1/c/1ca36218-db87-4e44-8606-2a516504ed20.jpg?1775942477,疫病殿堂,疫病殿堂,Temple de la maladie,Tempel des Siechtums,Tempio della Malattia,疾病の神殿,병폐의 신전,Templo da Enfermidade,Храм Болезни,Templo del padecimiento

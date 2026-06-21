@@ -75,6 +75,7 @@ def get_card_name(image_path, language: str):
     result = reader.readtext(image_path, detail=0, paragraph=True)
     return result[0]
 
+
 def get_card_name_from_file(file, language):
     match language:
         case 'ja':
@@ -85,6 +86,7 @@ def get_card_name_from_file(file, language):
             reader = easyocr.Reader(['en'])
     result = reader.readtext(file, detail=0, paragraph=True)
     return result[0]
+
 
 def get_card_names(image_path):
     """
@@ -100,6 +102,12 @@ def get_card_names(image_path):
 
 
 def get_official_card_name(image_path):
+    """
+    Gets a card's English name from an image via scryfall.
+    OBSOLETE, USE
+    :param image_path:
+    :return:
+    """
     foreign_name = get_card_name(image_path, 'ja')
     print(foreign_name)
     response = requests.get(url + foreign_name, headers=headers).json()
@@ -333,7 +341,7 @@ def create_csv(csv_name):
     df.to_csv(csv_name + ".csv", index=False)
 
 
-def load_csv(csv_name):
+def load_csv(csv_name: str):
     """
     Loads the card info csv(s) into arrays.
     Multiple arrays can be loaded sequentially.
@@ -409,6 +417,7 @@ def get_english_name(foreign_name, language):
 
     return ""
 
+
 def search_name_fuzzy(foreign_name, language):
     """
     Performs a fuzzy search for a card based on its foreign name and language to search.
@@ -462,14 +471,24 @@ def search_name_fuzzy(foreign_name, language):
     return closest_match
 
 
+def create_csv_from_json(json_path: str, csv_name: str):
+    """
+    Creates a CSV from the json file
+    WILL ADD ANY CARDS IN MEMORY TO THE CSV. ONLY USE WITH EMPTY MEMORY.
+    :param json_path: path of the json file to convert to a csv.
+    :param csv_name: name of the csv file to create. Do not include the .csv extension.
+    :return: Nothing. File will be added to content root.
+    """
+    json_to_arrays(json_path)
+    create_csv(csv_name)
 
 """
 name = get_official_card_name("sad_robot.png")
 image = get_card_image(name)
 display_card(image)
 """
-#json_to_arrays("/Unproccessed_Data/SOI.json")
-#create_csv("SOI")
+json_to_arrays("/home/steve/PycharmProjects/CardInterpretter/Unproccessed_Data/ORI.json")
+create_csv("ORI")
 #load_csv("IKO.csv")
 
 app = Flask(__name__)
@@ -510,6 +529,7 @@ def image_upload():
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)
+    load_csv("IKO.csv")
 
 
 """
