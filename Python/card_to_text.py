@@ -73,7 +73,7 @@ def get_card_name(image_path, language: str):
         case _:
             reader = easyocr.Reader(['en'])
     result = reader.readtext(image_path, detail=0, paragraph=True)
-    return result[0]
+    return result
 
 
 def get_card_name_from_file(file, language):
@@ -426,6 +426,7 @@ def search_name_fuzzy(foreign_name, language):
     :param language:
     :return:
     """
+    print(foreign_name)
     list_of_names = [names, chinese_simplified_names, chinese_traditional_names, french_names, german_names, italian_names, japanese_names, korean_names, portuguese_names, russian_names, spanish_names]
     language = language.lower()
     match language:
@@ -457,6 +458,7 @@ def search_name_fuzzy(foreign_name, language):
 
 
     foreign_name = foreign_name.lower()
+    print(foreign_name)
     closest_match = ""
     best_score = 0
     for name in name_list_to_search:
@@ -465,6 +467,8 @@ def search_name_fuzzy(foreign_name, language):
         if score > best_score:
             closest_match = name
             best_score = score
+            #print ("name: " + str(name) + "\tscore: " + str(score) + "\tfname: " + str(foreign_name) + " " + str(n))
+
     i = name_list_to_search.index(closest_match)
     closest_match = names[i]
     print(best_score)
@@ -497,6 +501,7 @@ def get_data():
 @app.route("/api/data/<name>", methods=["GET"])
 def get_json_by_name(name):
     closest_match = search_name_fuzzy(name, "english")
+    print(name)
     card_index = names.index(name)
     card_object = {
         "name": names[card_index],
@@ -517,6 +522,7 @@ def image_upload():
     content = file.read()
     if file:
         ocr_name = get_card_name(content, 'ja')[0]
+        print(ocr_name)
         name = search_name_fuzzy(ocr_name, "japanese")
         print(name)
         return jsonify(name)
