@@ -85,7 +85,7 @@ def get_card_name_from_file(file, language):
         case _:
             reader = easyocr.Reader(['en'])
     result = reader.readtext(file, detail=0, paragraph=True)
-    return result[0]
+    return result
 
 
 def get_card_names(image_path):
@@ -329,7 +329,7 @@ def json_to_arrays(json_file):
                 break
 
 
-def create_csv(csv_name):
+def create_csv(csv_name: str):
     """
     Saves the card information arrays into a csv.
     Can be used to make a new csv for a single set, update an old one, or cocotante multiple sets.
@@ -487,9 +487,6 @@ name = get_official_card_name("sad_robot.png")
 image = get_card_image(name)
 display_card(image)
 """
-json_to_arrays("/home/steve/PycharmProjects/CardInterpretter/Unproccessed_Data/ORI.json")
-create_csv("ORI")
-#load_csv("IKO.csv")
 
 app = Flask(__name__)
 CORS(app)
@@ -527,9 +524,29 @@ def image_upload():
     return "No files? (insert no bitches Megamind meme)", 400
 
 
+@app.route("/imageuploadmultiple", methods=["POST"])
+def image_upload_multi():
+    print(request.files)
+    print(request.files.keys())
+    file = request.files.get('upload[]')
+    print(file)
+    content = file.read()
+    if file:
+        ocr_names = get_card_name(content, 'ja')
+        name_list = ""
+        for f_name in ocr_names:
+            name = search_name_fuzzy(f_name, "japanese")
+            name_list += name + "&"
+        name_list = name_list[:len(name_list) - 1]
+        print(name_list)
+        return jsonify(name_list)
+    print(file)
+    return "No files? (insert no bitches Megamind meme)", 400
+
 if __name__ == "__main__":
+    load_csv("/home/steve/PycharmProjects/CardInterpretter/Proccessed_Data/IKO.csv")
+    print("Number of cards in the system" + str(len(names)))
     app.run(port=5000, debug=True)
-    load_csv("IKO.csv")
 
 
 """

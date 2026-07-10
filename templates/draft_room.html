@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Title -->
+    <title>MTG Card Translator</title>
+    <!-- Favicon -->
+    <link rel="icon" href="img/favicon.ico">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <!-- W3 Stylesheet -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="hamburgermenu.css">
+    <link rel="stylesheet" href = "binaryswitch.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>
+    * {
+    box-sizing: border-box;
+    }
+
+    .upload-row {
+        display: flex;      /* Aligns children in a row */
+        align-items: center; /* Vertically centers the input and button */
+        float: right;
+        gap: 15px;         /* Adds space between the file picker and button */
+    }
+
+    /* Optional: styling the button to look better next to the input */
+    button {
+        padding: 5px 15px;
+        cursor: pointer;
+    }
+
+
+    /* Create four equal columns that floats next to each other */
+    .column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    }
+
+    /* Creates a card with proper dimensions */
+    .card {
+        float: left;
+        width: 100%;
+        padding: 2px;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+
+    /* Responsive layout - makes a two column-layout instead of four columns */
+    @media screen and (max-width: 900px) {
+    .column  {
+        width: 50%;
+    }
+    }
+
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+    .column  {
+        width: 100%;
+    }
+    }
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+        <nav>
+            <input title="check" type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+                <i class="fas fa-bars"></i>
+            </label>
+            <div class="nav-mobile w3-animate-right">
+                <a href="index.html">Home</a>
+                <a href="draft.html">Draft</a>
+                <a href="hand.html">Hand</a>
+                <a href="board.html">Board</a>
+                <a href="yourgrave.html">Your Grave</a>
+                <a href="opponentsgrave.html">Opponent's Grave</a>
+                <a href="history.html">History</a>
+                <a href="availablecards.html">Available Cards</a>
+                <a href="about.html">About</a>
+            </div>
+            <div style="float: right">
+                <input type="file" id="fileInput" accept="image/*" />
+                <!-- Rounded switch -->
+                <label class="switch">
+                    <input type="checkbox" name="multiScanToggle" id="multiInputSwitch">
+                    <span class="slider round"></span>
+                </label>
+                <button onclick="uploadFiles()">Upload</button>
+                <div id="message"></div>
+            </div>
+        </nav>
+
+    <!-- Main Body -->
+        <h2>Hand</h2>
+        <p>Shows all cards in hand. Repositions cards based on the screen available. </p>
+
+
+
+        <div class="row" id="container">
+        </div>
+
+        <!-- js -->
+        <script>
+            let names = [];
+            let imageSrcs = [];
+            let scryfallLink = [];
+            let oracleTexts = [];
+            const container = document.getElementById("column");
+            const input_switch = document.getElementById("multiInputSwitch")
+            const PAGE_MEMORY = "draft_room_names"
+
+
+            /**Function to send card to a different page.
+             * CALLED BY PROGRAMMATICALLY ADDED BUTTONS. DO NOT REMOVE
+             *
+             * 1: draft
+             * 2: hand
+             * 3: board
+             * 4: your grave
+             * 5: opponent's grave
+             * 6: decklist
+             * 7: history
+             *
+             *
+             *
+             * @param cardName Name to save to memory
+             * @param destination page number to send to
+             * @return
+             */
+            function sendTo(cardName, destination){
+                let memory;
+                switch (destination){
+                    case 1:
+                        memory = localStorage.getItem("draft_names");
+                        if(memory == null) memory = cardName;
+                        else memory += "&" + cardName;
+                        localStorage.setItem("draft_names", memory);
+                        return
+
+                    case 2:
+                        memory = localStorage.getItem("hand_names");
+                        if(memory == null) memory = cardName;
+                        else memory += "&" + cardName;
+                        localStorage.setItem("hand_names", memory);
+                        return
+
+                    case 3:
+                        memory = localStorage.getItem("board_names");
+                        if(memory == null) memory = cardName;
+                        else memory += "&" + cardName;
+                        localStorage.setItem("board_names", memory);
+                        return;
+
+                    case 4:
+                        memory = localStorage.getItem("your_grave_names");
+                        if(memory == null) memory = cardName;
+                        else memory += "&" + cardName;
+                        localStorage.setItem("your_grave_names", memory);
+                        return
+
+                    case 5:
+                        memory = localStorage.getItem("opponents_grave_names");
+                        if(memory == null) memory = cardName;
+                        else memory += "&" + cardName;
+                        localStorage.setItem("opponents_grave_names", memory);
+                        return
+
+                    case 6:
+                        memory = localStorage.getItem("deck_list");
+                        memory = (memory == null) ? cardName : memory + "&" + cardName;
+                        localStorage.setItem("deck_list", memory);
+                        return
+
+
+                    case 7:
+                        memory = localStorage.getItem("history_names");
+                        memory = (memory == null) ? cardName : memory + "&" + cardName;
+                        localStorage.setItem("history_names", memory);
+                        return
+                }
+            }
+
+
+            function saveNames(){
+                let output = "";
+                for(let i = 0; i < names.length; i++){
+                    output += names[i];
+                    if(i < names.length - 1){
+                        output += "&";
+                    }
+                }
+                localStorage.setItem(PAGE_MEMORY, output);
+            }
+
+
+            async function resetPage() {
+                emptyPage();
+                await getAllCardInfo();
+                fillPage();
+            }
+
+
+            function emptyPage(){
+                document.getElementById("container").innerHTML = ``;
+            }
+
+
+            function fillPage(){
+                for(let i = 0; i < names.length; i++) {
+                    let element_id = "clone_" + i
+                    let image = (imageSrcs[i]);
+                    document.getElementById("container").innerHTML += `<div class="column" id=temp_element style="background-color:#ddd;">
+                    <h2>`+names[i]+`</h2>
+                    <a href="`+scryfallLink[i]+`">
+                        <img src="`+ image + `" alt="` + names[i] + `" class="card loading="lazy">
+                    </a>
+                    <p> `+oracleTexts[i]+`</p>
+                    <button id="temp_button"></button>
+                    <button id="pick_button">Pick</button>
+                </div>`;
+                    document.getElementById("temp_element").setAttribute('id', element_id);
+                    let button = document.getElementById("temp_button")
+                    button.setAttribute('name', ("remove_" + names[i]));
+                    button.setAttribute('id', "remove_" + i);
+                    button.setAttribute('style', 'background-color: #7A0404; color: #FFFFFF;  border-radius: 12px;');
+                    button.setAttribute("onclick", "removeCardFromMemory(" + i + ")");
+                    button.textContent = "remove";
+                    setUpCardButtons(i);
+
+
+                    //button.style.backgroundColor("#7a0404");
+                }
+            }
+
+
+            function setUpCardButtons(index){
+                let button = document.getElementById("pick_button");
+                button.setAttribute('id', "pick_" + index);
+                button.setAttribute('onclick', "sendTo(\"" + names[index] + "\", " + (6) + ")");
+            }
+
+
+            /** Removes a card at index i from memory
+             *  Used to remove a card via the button under a card
+             *
+             * DO NOT REMOVE, THIS IS CALLED BY THE PROGRAMMATICALLY ADDED BUTTONS.
+             * @param i index of card to remove from name list
+             */
+            function removeCardFromMemory(i){
+                console.log("remove " + i);
+                removeCardByIndex(i);
+                saveNames();
+                console.log(localStorage.getItem(PAGE_MEMORY));
+                resetPage();
+            }
+
+
+            function addCards(cardNames){
+                console.log(cardNames);
+                for(let i = 0; i < cardNames.length; i++){
+                    names.push(cardNames[i]);
+                    console.log(names);
+                }
+                saveNames();
+                resetPage();
+            }
+
+            function removeCards(cardNames){
+                for(let i = 0; i < cardNames.length; i++){
+                    let index = names.indexOf(cardNames[i]);
+                    if(index !== -1){
+                        names.splice(index, 1);
+                        console.log(cardNames[i] + " has been removed");
+                    }
+                }
+                saveNames();
+            }
+
+            /**Removes a card from the loaded card list.
+             * If saved after, removes it from local storage.
+             *
+             * @param index
+             */
+            function removeCardByIndex(index){
+                console.log(index);
+                if (index !== -1) {
+                    let temp = names[index]
+                    names.splice(index, 1);
+                    imageSrcs.splice(index, 1);
+                    scryfallLink.splice(index, 1);
+                    oracleTexts.splice(index, 1);
+
+                    console.log(temp + " has been removed");
+                }
+            }
+
+
+            async function getCardInfo(name) {
+                let output = "nope";
+                await fetch('http://localhost:5000/api/data/' + encodeURIComponent(name))
+                    .then(response => response.json())
+                    .then(data => {
+                        //console.log(data);
+                        output = data;
+                    })
+                return output;
+            }
+
+
+            async function getAllCardInfo(){
+                for(let i = 0; i < names.length; i++){
+                    let data = await getCardInfo(names[i]);
+                    //console.log(data);
+                    let values = Object.values(data);
+                    imageSrcs.push(values[0])
+                    oracleTexts.push(values[2]);
+                    scryfallLink.push(values[3]);
+                    //console.log(values[0] + " vs " + values[3]);
+                }
+                //console.log(imageSrcs);
+            }
+
+
+            async function getCardFromImage(){
+                const fileInput = document.getElementById('imageInput'); // Your <input type="file">
+                const file = fileInput.files[0];
+
+                if (!file) return;
+
+                // Create a FormData object to hold the image
+                const formData = new FormData();
+                formData.append('image', file);
+
+                try {
+                    const response = await fetch('/imageupload', {
+                        method: 'POST',
+                        body: formData // No headers needed; Fetch sets multipart boundary automatically
+                    });
+                    const result = await response.json();
+                    console.log('Success:', result);
+                } catch (error) {
+                    console.error('Error:', error);
+                }
+            }
+
+
+            function uploadFiles() {
+                const input = document.getElementById('fileInput');
+                const files = input.files;
+
+                if (!files.length) {
+                    displayMessage('No files selected.', 'red');
+                    return;
+                }
+
+                const formData = new FormData();
+                for (let file of files) {
+                    formData.append('upload[]', file);
+                }
+
+                // CSRF token simulation
+                //formData.append('csrf_token', generateToken());
+                let api_destination = 'http://localhost:5000/imageupload'
+                if(input_switch.checked) api_destination = 'http://localhost:5000/imageuploadmultiple'
+                fetch(api_destination, {
+                    method: 'POST',
+                    body: formData,
+                })
+                .then(res => res.json())
+                .then(data => {
+                    let s = data.toString();
+                    let s_array = [s];
+                    console.log(s_array);
+                    addCards(s_array[0].split("&"));
+                    if (data.status === 'success') {
+                    displayMessage('Upload successful!', 'green');
+                    } else {
+                    displayMessage(data.error || 'Upload failed.', 'red');
+                    }
+                })
+                .catch(() => displayMessage('Upload error occurred.', 'red'));
+            }
+
+
+            function displayMessage(msg, color) {
+                const box = document.getElementById('message');
+                box.innerText = msg;
+                box.style.color = color;
+            }
+
+
+            /**The main script needed to load a page
+             * Grabs the names of cards needed to be displayed from localStorage, then uses those names to grab the rest of the card info from the server.
+             * Uses the card info to dynamically fill the page.
+             */
+            async function loadPage(){
+                let temp = localStorage.getItem(PAGE_MEMORY);
+                names = temp.split("&");
+                //console.log(names)
+                await getAllCardInfo();
+                fillPage();
+            }
+
+
+            loadPage();
+
+        </script>
+</body>
+</html>

@@ -1,7 +1,6 @@
 import csv
 import sys
 import time
-from idlelib import __main__
 
 import pandas as pd
 import requests
@@ -28,10 +27,15 @@ scryfall_links = []
 
 
 def main():
+    """
     args = sys.argv[1:]
 
     if len(args) == 3 and args[0] == '-csvify':
         create_csv_from_json(args[1], args[2])
+    else:
+        return "error"
+    """
+    create_csv_from_json("/home/steve/PycharmProjects/CardInterpretter/Unproccessed_Data/C17.json", "c17")
 
 def create_csv_from_json(json_path: str, csv_name: str):
     """
@@ -252,3 +256,5 @@ def __load_series_of_csvs(csv_paths: list[str]):
         __load_csv(csv)
 
 
+
+create_csv_from_json("/home/steve/PycharmProjects/CardInterpretter/Unproccessed_Data/C17.json", "c17")
